@@ -1,0 +1,1096 @@
+1
+00:00:05,000 --> 00:00:08,000
+Subtitles added by Hanson Hu root@pythoner.work
+
+1
+00:02:15,600 --> 00:02:18,000
+Excuse me.
+
+2
+00:02:18,000 --> 00:02:21,000
+My name is Richard Stewart.
+
+3
+00:02:21,000 --> 00:02:22,000
+I'm a photographer.
+
+4
+00:02:22,000 --> 00:02:24,000
+May I take a picture of you and your little boy?
+
+5
+00:02:24,000 --> 00:02:24,500
+What's it for?
+
+6
+00:02:24,500 --> 00:02:25,600
+It's for a book.
+
+7
+00:02:25,600 --> 00:02:27,600
+You're writing a book?
+
+8
+00:02:27,600 --> 00:02:29,600
+It's a book of pictures.
+
+9
+00:02:29,600 --> 00:02:30,600
+I call it Family Album, U.S.A.
+
+10
+00:02:30,600 --> 00:02:32,600
+Oh, that's a nice idea.
+
+11
+00:02:32,600 --> 00:02:34,600
+Well, it's fine if you take our picture.
+
+12
+00:02:34,600 --> 00:02:35,600
+I'm Martha Vann.
+
+13
+00:02:35,600 --> 00:02:38,600
+Thank you. I appreciate your help.
+
+14
+00:02:38,600 --> 00:02:41,600
+I'm Richard. What's your name?
+
+15
+00:02:41,600 --> 00:02:42,600
+Gerald. Gerald
+
+16
+00:02:42,600 --> 00:02:43,600
+How old are you, Gerald? Gerald
+
+17
+00:02:43,600 --> 00:02:44,600
+Five.
+
+18
+00:02:44,600 --> 00:02:45,600
+And where do you live?
+
+19
+00:02:45,600 --> 00:02:47,600
+We live in California.
+
+20
+00:02:47,600 --> 00:02:49,600
+Well, welcome to New York.
+
+21
+00:02:49,600 --> 00:02:52,600
+OK, just a second.
+
+22
+00:02:52,600 --> 00:02:55,600
+I'm almost ready here.
+
+23
+00:02:55,600 --> 00:02:56,600
+Can I help you?
+
+24
+00:02:56,600 --> 00:02:58,600
+Oh, please.
+
+25
+00:02:58,600 --> 00:03:07,600
+Hold Gerald's hand, please.
+
+26
+00:03:07,600 --> 00:03:11,600
+Great!
+
+27
+00:03:11,600 --> 00:03:13,600
+Now point to the buildings.
+
+28
+00:03:13,600 --> 00:03:17,600
+Terrific!
+
+29
+00:03:17,600 --> 00:03:22,600
+Give Mommy a kiss, Gerald. Gerald
+
+30
+00:03:22,600 --> 00:03:25,600
+Nice!
+
+31
+00:03:25,600 --> 00:03:28,600
+Thank you, Gerald.
+
+32
+00:03:28,600 --> 00:03:31,600
+And thank you, Mrs. Vann.
+
+33
+00:03:31,600 --> 00:03:32,600
+Oh, my pleasure.
+
+34
+00:03:32,600 --> 00:03:33,600
+We'll be looking for your book.
+
+35
+00:03:33,600 --> 00:03:36,600
+Thank you. Good-bye. Bye, Gerald.
+
+36
+00:03:36,600 --> 00:03:40,600
+Thanks again.
+
+37
+00:03:40,600 --> 00:03:42,600
+Oh, you're welcome.
+
+38
+00:03:42,600 --> 00:03:44,600
+Hey, let me take your picture!
+
+39
+00:03:44,600 --> 00:03:47,600
+Wonderful. Please.
+
+40
+00:03:47,600 --> 00:03:54,600
+Are you from New York?
+
+41
+00:03:54,600 --> 00:03:56,600
+No, I'm from Greece.
+
+42
+00:03:56,600 --> 00:03:57,600
+I'm an exchange student.
+
+43
+00:03:57,600 --> 00:04:00,600
+When did you come here?
+
+44
+00:04:00,600 --> 00:04:02,600
+Three months ago.
+
+45
+00:04:02,600 --> 00:04:04,600
+Your English is very good.
+
+46
+00:04:04,600 --> 00:04:05,600
+Thanks.
+
+47
+00:04:05,600 --> 00:04:07,600
+I studied English in school.
+
+48
+00:04:07,600 --> 00:04:13,600
+Would you like some coffee?
+
+49
+00:04:13,600 --> 00:04:14,600
+No, thank you.
+
+50
+00:04:14,600 --> 00:04:17,600
+Tell me about your book.
+
+51
+00:04:17,600 --> 00:04:19,600
+Oh, it's not finished yet,
+
+52
+00:04:19,600 --> 00:04:21,600
+but I have some of the pictures.
+
+53
+00:04:21,600 --> 00:04:22,600
+Would you like to see them?
+
+54
+00:04:22,600 --> 00:04:23,600
+Yes. I'd like that.
+
+55
+00:04:23,600 --> 00:04:26,600
+Here they are.
+
+56
+00:04:26,600 --> 00:04:30,600
+Family Album, U.S.A.
+
+57
+00:04:30,600 --> 00:04:33,600
+It's an album of pictures of the United States:
+
+58
+00:04:33,600 --> 00:04:36,600
+the cities, the special places, and the people.
+
+59
+00:04:36,600 --> 00:04:38,600
+And these are pictures of people working:
+
+60
+00:04:38,600 --> 00:04:47,600
+steelworkers, bankers, police, street vendors,
+
+61
+00:04:47,600 --> 00:04:55,600
+ambulance drivers, doctors....
+
+62
+00:04:55,600 --> 00:04:57,600
+Oh, this is my father. He's a doctor.
+
+63
+00:04:57,600 --> 00:05:01,600
+This is my mother.
+
+64
+00:05:01,600 --> 00:05:02,600
+What's her name?
+
+65
+00:05:02,600 --> 00:05:03,600
+Ellen. Ellen
+
+66
+00:05:03,600 --> 00:05:07,600
+My younger brother, Robbie.
+
+67
+00:05:07,600 --> 00:05:08,600
+He goes to high school.
+
+68
+00:05:08,600 --> 00:05:10,600
+This is my sister Susan.
+
+69
+00:05:10,600 --> 00:05:13,600
+She works for a toy company.
+
+70
+00:05:13,600 --> 00:05:17,600
+Here's my grandfather.
+
+71
+00:05:17,600 --> 00:05:19,600
+He lives in Florida.
+
+72
+00:05:19,600 --> 00:05:20,600
+And this is my wife Marilyn.
+
+73
+00:05:20,600 --> 00:05:22,600
+Oh, she's very pretty.
+
+74
+00:05:22,600 --> 00:05:24,600
+Thanks. And what about your family?
+
+75
+00:05:24,600 --> 00:05:27,600
+They are in Thessaloniki.
+
+76
+00:05:27,600 --> 00:05:31,600
+That's a large city in northern Greece.
+
+77
+00:05:31,600 --> 00:05:33,600
+But now I'm living in the Bronx.
+
+78
+00:05:33,600 --> 00:05:35,600
+With a Greek-American family?
+
+79
+00:05:35,600 --> 00:05:37,600
+No. Hispanic.
+
+80
+00:05:37,600 --> 00:05:45,600
+Oh no! It's five thirty.
+
+81
+00:05:45,000 --> 00:05:46,600
+Will you excuse me?
+
+82
+00:05:46,600 --> 00:05:48,600
+I have to meet my wife.
+
+83
+00:05:48,600 --> 00:05:50,600
+It was nice meeting you.
+
+84
+00:05:50,600 --> 00:05:52,600
+It was a pleasure meeting you, too.
+
+85
+00:05:52,600 --> 00:05:53,600
+Thanks for your help.
+
+86
+00:05:53,600 --> 00:05:56,600
+And good luck! I've got to go.
+
+87
+00:05:56,600 --> 00:05:57,600
+By the way, I'm Richard.
+
+88
+00:05:57,600 --> 00:05:58,600
+What's your name?
+
+89
+00:05:58,600 --> 00:05:59,600
+Alexandra. Alexandra
+
+90
+00:05:59,600 --> 00:06:01,600
+Bye-bye, Alexandra. Thanks.
+
+91
+00:06:01,600 --> 00:06:03,600
+Bye-bye.
+
+92
+00:06:03,600 --> 00:06:07,600
+Richard! Richard!
+
+93
+00:06:07,600 --> 00:06:09,600
+You left your bag!
+
+1
+00:09:05,500 --> 00:09:07,500
+Excuse me, officer.
+
+2
+00:09:07,500 --> 00:09:07,700
+Sure.
+
+3
+00:09:07,700 --> 00:09:10,500
+Can you tell me
+
+4
+00:09:10,500 --> 00:09:15,500
+"Richard Stewart, 46 Linden Street,
+
+5
+00:09:15,500 --> 00:09:16,500
+You should take the number 1 subway.
+
+6
+00:09:16,500 --> 00:09:18,500
+Is there a station near here?
+
+7
+00:09:18,500 --> 00:09:19,500
+Yes. The station's that way.
+
+8
+00:09:19,500 --> 00:09:22,500
+You should take the number 1 train to Van Cortlandt Park.
+
+9
+00:09:22,500 --> 00:09:25,500
+Number 1 train to Van Cortlandt Park. Thank you.
+
+10
+00:09:25,500 --> 00:09:26,500
+Anytime. Good luck.
+
+11
+00:09:26,500 --> 00:09:29,500
+Remember, the number 1 train. The uptown platform.
+
+12
+00:09:29,500 --> 00:09:30,500
+Thank you.
+
+13
+00:09:30,500 --> 00:09:31,500
+You're welcome.
+
+14
+00:09:31,500 --> 00:09:50,500
+Is this pink too bright for me?
+
+15
+00:09:50,500 --> 00:09:54,500
+Mmm-hmm. It is a very bright pink.
+
+16
+00:09:54,500 --> 00:10:06,500
+Try this. It's size eight.
+
+17
+00:10:06,500 --> 00:10:07,500
+But I wear size ten.
+
+18
+00:10:07,500 --> 00:10:13,500
+How about green? It's size ten.
+
+19
+00:10:13,500 --> 00:10:14,500
+Let me try it on.
+
+20
+00:10:14,500 --> 00:10:18,500
+I'm taking too much of your time.
+
+21
+00:10:18,500 --> 00:10:22,500
+It's six o'clock.
+
+22
+00:10:22,500 --> 00:10:23,500
+Where's my husband?
+
+23
+00:10:23,500 --> 00:10:23,800
+Where's my husband?
+
+24
+00:10:23,800 --> 00:10:26,500
+I was expecting him here at five forty-five.
+
+25
+00:10:26,500 --> 00:10:29,500
+Don't worry. The traffic is very heavy at this hour.
+
+26
+00:10:29,500 --> 00:10:32,500
+I know. But we're going to be late for dinner.
+
+27
+00:10:32,500 --> 00:10:35,500
+I'll take this green sweater.
+
+28
+00:10:35,500 --> 00:10:37,500
+I like the color on me, don't you?
+
+29
+00:10:37,500 --> 00:10:38,500
+I think it looks terrific on you.
+
+30
+00:10:38,500 --> 00:10:44,500
+I'm sorry I'm so late.
+
+31
+00:10:44,500 --> 00:10:46,500
+I had a really bad day.
+
+32
+00:10:46,500 --> 00:10:50,500
+It's ten after six. We're late.
+
+33
+00:10:50,500 --> 00:10:52,500
+Robbie's cooking tonight, and dinner's at six thirty.
+
+34
+00:10:52,500 --> 00:10:54,500
+I know. I know. I'm really sorry.
+
+35
+00:10:54,500 --> 00:10:57,500
+I left my bag of film on the ferry.
+
+36
+00:10:57,500 --> 00:10:59,500
+I went back for it, but the ferry was gone.
+
+37
+00:10:59,500 --> 00:11:01,500
+I lost a whole day's work.
+
+38
+00:11:01,500 --> 00:11:05,500
+I'll call the Staten Island Ferry lost-and-found office.
+
+39
+00:11:05,500 --> 00:11:06,500
+I didn't think of that. Thanks.
+
+40
+00:11:06,500 --> 00:11:13,500
+Hello.
+
+41
+00:11:13,500 --> 00:11:16,500
+Yes. The number, please,
+
+42
+00:11:16,500 --> 00:11:18,500
+of the Staten Island Ferry lost-and-found office. Staten
+
+43
+00:11:18,500 --> 00:11:25,500
+Five five five...zero eight zero eight. 555-
+
+44
+00:11:25,500 --> 00:11:27,500
+Thank you.
+
+45
+00:11:27,500 --> 00:11:29,500
+I really appreciate it, Marilyn.
+
+46
+00:11:29,500 --> 00:11:30,500
+I really appreciate it, Marilyn.
+
+47
+00:11:30,500 --> 00:11:32,500
+Hello.
+
+48
+00:11:32,500 --> 00:11:36,500
+Did anyone find a camera bag this afternoon,
+
+49
+00:11:36,500 --> 00:11:39,500
+a small canvas bag,
+
+50
+00:11:39,500 --> 00:11:43,500
+on the J. F. Kennedy Ferry?...No?
+
+51
+00:11:43,500 --> 00:11:49,500
+Maybe someone will find it.
+
+52
+00:11:49,500 --> 00:11:52,500
+The name is Stewart, Richard Stewart.
+
+53
+00:11:52,500 --> 00:11:58,500
+And the telephone number is five five five...
+
+54
+00:11:58,500 --> 00:12:00,500
+three oh nine oh. Thank you.
+
+55
+00:12:00,500 --> 00:12:04,500
+Sorry, Richard. They don't have it.
+
+56
+00:12:04,500 --> 00:12:06,500
+Thanks, anyway.
+
+57
+00:12:06,500 --> 00:12:11,500
+There was a girl on the ferry.
+
+58
+00:12:11,500 --> 00:12:15,500
+Now maybe...
+
+59
+00:12:15,500 --> 00:12:18,500
+Tell me about it on the way home.
+
+1
+00:15:05,500 --> 00:15:08,500
+And give her a teaspoon of the medicine after every meal.
+
+2
+00:15:08,500 --> 00:15:10,500
+Don't worry. She'll be fine.
+
+3
+00:15:10,500 --> 00:15:14,500
+You're welcome. Good-bye.
+
+4
+00:15:14,500 --> 00:15:27,500
+How are you?
+
+5
+00:15:27,500 --> 00:15:29,500
+I'm tired and hungry.
+
+6
+00:15:29,500 --> 00:15:31,500
+Well, Marilyn and Richard called.
+
+7
+00:15:31,500 --> 00:15:33,500
+They'll be here soon, and then we'll eat.
+
+8
+00:15:33,500 --> 00:15:36,500
+All right. Is...is Susan coming?
+
+9
+00:15:36,500 --> 00:15:38,500
+Well, she'll be here later.
+
+10
+00:15:38,500 --> 00:15:40,500
+She has to work late tonight.
+
+11
+00:15:40,500 --> 00:15:41,500
+And what's Robbie cooking for dinner? Robbie
+
+12
+00:15:41,500 --> 00:15:44,500
+It's a surprise.
+
+13
+00:15:44,500 --> 00:15:47,500
+I hope it's pasta.
+
+14
+00:15:47,500 --> 00:15:54,500
+Robbie, the dinner was terrific. Robbie
+
+15
+00:15:54,500 --> 00:15:56,500
+Yes, it was delicious.
+
+16
+00:15:56,500 --> 00:15:59,500
+What's for dessert?
+
+17
+00:15:59,500 --> 00:16:01,500
+Oh, I forgot dessert.
+
+18
+00:16:01,500 --> 00:16:04,500
+Robbie! Robbie
+
+19
+00:16:04,500 --> 00:16:05,500
+Don't worry.
+
+20
+00:16:05,500 --> 00:16:07,500
+We've got lots of ice cream.
+
+21
+00:16:07,500 --> 00:16:09,500
+Oh, I'd love some ice cream.
+
+22
+00:16:09,500 --> 00:16:15,500
+Well, there's chocolate and coffee and a little vanilla.
+
+23
+00:16:15,500 --> 00:16:16,500
+I'll have vanilla.
+
+24
+00:16:16,500 --> 00:16:18,500
+Is that all right with everyone?
+
+25
+00:16:18,500 --> 00:16:19,500
+I'll have chocolate.
+
+26
+00:16:19,500 --> 00:16:21,500
+Me, too.
+
+27
+00:16:21,500 --> 00:16:24,500
+Uh, one scoop of coffee
+
+28
+00:16:24,500 --> 00:16:26,500
+and one scoop of chocolate for me.
+
+29
+00:16:26,500 --> 00:16:30,500
+Robbie, will you help me serve? Robbie
+
+30
+00:16:30,500 --> 00:16:43,500
+I keep thinking about that bag of film. Eight rolls.
+
+31
+00:16:43,500 --> 00:16:47,500
+A whole day's work.
+
+32
+00:16:47,500 --> 00:16:49,500
+And good stuff, too.
+
+33
+00:16:49,500 --> 00:16:51,500
+Don't worry, Richard.
+
+34
+00:16:51,500 --> 00:16:52,500
+Somenoe will find it.
+
+35
+00:16:52,500 --> 00:16:58,500
+I'll get it. Hello.
+
+36
+00:16:58,500 --> 00:17:05,500
+Hello.
+
+37
+00:17:05,500 --> 00:17:08,500
+Does Richard Stewart live here? Richard Stewart
+
+38
+00:17:08,500 --> 00:17:10,500
+Yes, he's my brother.
+
+39
+00:17:10,500 --> 00:17:12,500
+I'm Robbie...Robbie Stewart.
+
+40
+00:17:12,500 --> 00:17:15,500
+I'm Alexandra Pappas.
+
+41
+00:17:15,500 --> 00:17:16,500
+How do you do?
+
+42
+00:17:16,500 --> 00:17:20,500
+Your brother left his bag of film on the ferryboat.
+
+43
+00:17:20,500 --> 00:17:21,500
+I found it.
+
+44
+00:17:21,500 --> 00:17:23,500
+I'm really glad to see you.
+
+45
+00:17:23,500 --> 00:17:26,500
+I mean...my brother'll be really glad to see you!
+
+46
+00:17:26,500 --> 00:17:28,500
+Robbie! Who is it? Robbie
+
+47
+00:17:28,500 --> 00:17:31,500
+It's Richard's film! Richard
+
+48
+00:17:31,500 --> 00:17:34,500
+I mean, Alexandra Pappas.
+
+49
+00:17:34,500 --> 00:17:36,500
+Come in, please.
+
+50
+00:17:36,500 --> 00:17:43,500
+Alexandra! Alexandra
+
+51
+00:17:43,500 --> 00:17:45,500
+Hello, Richard. I found your bag!
+
+52
+00:17:45,500 --> 00:17:48,500
+Oh, thank you! Thank you!
+
+53
+00:17:48,500 --> 00:17:50,500
+Um...Alexandra, let me introduce you.
+
+54
+00:17:50,500 --> 00:17:52,500
+This is my wife Marilyn.
+
+55
+00:17:52,500 --> 00:17:54,500
+Richard showed me your photo. Richard
+
+56
+00:17:54,500 --> 00:17:55,500
+How do you do?
+
+57
+00:17:55,500 --> 00:17:56,500
+Oh yes.
+
+58
+00:17:56,500 --> 00:17:57,500
+Richard told us all about you. Richard
+
+59
+00:17:57,500 --> 00:17:59,500
+It's nice to meet you.
+
+60
+00:17:59,500 --> 00:18:01,500
+And this is my mother, Ellen Stewart.
+
+61
+00:18:01,500 --> 00:18:02,500
+How do you do?
+
+62
+00:18:02,500 --> 00:18:04,500
+And my father, Dr. Philip Stewart.
+
+63
+00:18:04,500 --> 00:18:06,500
+Nice to meet you, Alexandra.
+
+64
+00:18:06,500 --> 00:18:07,500
+And...ah...you met Robbie.
+
+65
+00:18:07,500 --> 00:18:10,500
+Yes. And you must be Susan. Hi.
+
+66
+00:18:10,500 --> 00:18:12,500
+Hi. Welcome.
+
+67
+00:18:12,500 --> 00:18:14,500
+I'm so glad you found the bag
+
+68
+00:18:14,500 --> 00:18:17,500
+and took the time and trouble to return it.
+
+69
+00:18:17,500 --> 00:18:18,500
+Oh, it was no trouble.
+
+70
+00:18:18,500 --> 00:18:20,500
+I just took the wrong train.
+
+71
+00:18:20,500 --> 00:18:22,500
+Would you like something to eat?
+
+72
+00:18:22,500 --> 00:18:23,500
+Thank you, no.
+
+73
+00:18:23,500 --> 00:18:25,500
+I'm late for dinner at my house.
+
+74
+00:18:25,500 --> 00:18:26,500
+I really have to go.
+
+75
+00:18:26,500 --> 00:18:28,500
+Would you like to call home?
+
+76
+00:18:28,500 --> 00:18:29,500
+I'd appreciate that.
+
+77
+00:18:29,500 --> 00:18:31,500
+Please, use the phone.
+
+78
+00:18:31,500 --> 00:18:33,500
+Thanks. Excuse me.
+
+79
+00:18:33,500 --> 00:18:37,500
+Alexandra's a high-school exchange student from Greece. Alexandra
+
+80
+00:18:37,500 --> 00:18:38,500
+Where does she live?
+
+81
+00:18:38,500 --> 00:18:40,500
+With a family in the Bronx.
+
+82
+00:18:40,500 --> 00:18:42,500
+Oh, that's not too far from here!
+
+83
+00:18:42,500 --> 00:18:44,500
+Take it easy, Robbie.
+
+84
+00:18:44,500 --> 00:18:46,500
+Thank you.
+
+85
+00:18:46,500 --> 00:18:48,500
+I can only stay a few minutes.
+
+86
+00:18:48,500 --> 00:18:51,500
+Have some iced tea.
+
+87
+00:18:51,500 --> 00:18:53,500
+Thanks, Mrs. Stewart.
+
+88
+00:18:53,500 --> 00:18:56,500
+Please sit down, Alexandra.
+
+89
+00:18:56,500 --> 00:19:05,500
+So, you're an exchange student.
+
+90
+00:19:05,500 --> 00:19:06,500
+Where do you go to school?
+
+91
+00:19:06,500 --> 00:19:09,500
+At the Bronx High School of Science.
+
+92
+00:19:09,500 --> 00:19:11,500
+Oh, that's a very good school.
+
+93
+00:19:11,500 --> 00:19:13,500
+What are your favorite subjects?
+
+94
+00:19:13,500 --> 00:19:15,500
+Biology and mathematics.
+
+95
+00:19:15,500 --> 00:19:17,500
+Richard tells me you're a doctor. Richard
+
+96
+00:19:17,500 --> 00:19:19,500
+Yes, a pediatrician.
+
+97
+00:19:19,500 --> 00:19:21,500
+And what does your father do?
+
+98
+00:19:21,500 --> 00:19:24,500
+He's a lawyer, in Thessaloniki.
+
+99
+00:19:24,500 --> 00:19:25,500
+Would you like some pasta?
+
+100
+00:19:25,500 --> 00:19:27,500
+I made it myself.
+
+101
+00:19:27,500 --> 00:19:28,500
+It might be a little cold.
+
+102
+00:19:28,500 --> 00:19:33,500
+Thanks, no. I do have to go.
+
+103
+00:19:33,500 --> 00:19:35,500
+It was nice meeting you all.
+
+104
+00:19:35,500 --> 00:19:37,500
+Well, maybe you'll come for lunch some Sunday,
+
+105
+00:19:37,500 --> 00:19:39,500
+so we can really thank you
+
+106
+00:19:39,500 --> 00:19:40,500
+for bringing Richard's bag back.
+
+107
+00:19:40,500 --> 00:19:41,500
+Maybe.
+
+108
+00:19:41,500 --> 00:19:42,500
+You're welcome anytime.
+
+109
+00:19:42,500 --> 00:19:45,500
+Good-bye.
+
+110
+00:19:45,500 --> 00:19:52,500
+Can I drive you home?
+
+111
+00:19:52,500 --> 00:19:53,500
+No, thanks.
+
+112
+00:19:53,500 --> 00:19:54,500
+The train is just up the street.
+
+113
+00:19:54,500 --> 00:19:55,500
+It won't take me long at all.
+
+114
+00:19:55,500 --> 00:19:58,500
+Well, you really saved the day for me, Alexandra.
+
+115
+00:19:58,500 --> 00:20:00,500
+Bye.
+
+116
+00:20:00,500 --> 00:20:01,500
+Bye-bye.
+
+117
+00:20:01,500 --> 00:20:02,500
+Good night.
+
+118
+00:20:02,500 --> 00:20:13,500
+She's a smart young lady, and very nice.
+
+119
+00:20:13,500 --> 00:20:17,500
+Very! Hey, she forgot her bag!
+
+120
+00:20:17,500 --> 00:20:20,500
+I guess we'll be seeing Alexandra again.
+
+121
+00:20:20,500 --> 00:20:21,500
+Right, Robbie?
+

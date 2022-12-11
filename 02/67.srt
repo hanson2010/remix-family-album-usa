@@ -1,0 +1,379 @@
+0
+00:0:0,600-->00:1:50,000
+
+email: taotaosong@163.com
+MSN : songtaotao1986@hotmail.com
+QQ : 498783048
+
+1
+00:1:54,600-->00:1:59,600
+Morning, Grandpa.
+
+2
+00:1:59,600-->00:2:3,600
+Is something the matter, Grandpa?
+
+3
+00:2:3,600-->00:2:14,600
+The editorial in this paper has my friend Nat Baker real upset.
+
+4
+00:2:14,600-->00:2:17,600
+Ah! I'll read it to you.
+
+5
+00:2:17,600-->00:2:22,600
+"The old library building on Chestnut Street,
+
+6
+00:2:22,600-->00:2:25,600
+which has been vacant for over a year now,
+
+7
+00:2:25,600-->00:2:28,600
+was supposed to be made into a community center
+
+8
+00:2:28,600-->00:2:30,600
+to serve the senior citizens
+
+9
+00:2:30,600-->00:2:32,600
+as well as the younger people of Riverdale.
+
+10
+00:2:32,600-->00:2:34,600
+Due to lack of funds
+
+11
+00:2:34,600-->00:2:37,600
+for the repainting of the interior of the building
+
+12
+00:2:37,600-->00:2:39,600
+and for the furniture needed,
+
+13
+00:2:39,600-->00:2:42,600
+the plans for the community center
+
+14
+00:2:42,600-->00:2:45,600
+have been postponed indefinitely."
+
+15
+00:2:45,600-->00:2:49,600
+He's coming over to talk about it.
+
+16
+00:2:49,600-->00:2:51,600
+Is it that serious a problem, Grandpa?
+
+17
+00:2:51,600-->00:2:53,600
+It is.
+
+18
+00:2:53,600-->00:2:57,600
+Nat's not as lucky as I am, Robbie. Nat
+
+19
+00:2:57,600-->00:2:59,600
+He doesn't have any family with him.
+
+20
+00:2:59,600-->00:3:1,600
+He lives alone
+
+21
+00:3:1,600-->00:3:5,600
+and depends on places like a community center
+
+22
+00:3:5,600-->00:3:8,600
+to be with people--people his own age.
+
+23
+00:3:8,600-->00:3:12,600
+But there's the old community center on Elm Street.
+
+24
+00:3:12,600-->00:3:13,600
+It's small,
+
+25
+00:3:13,600-->00:3:20,600
+and the problem is that it's set up primarily for kids to play.
+
+26
+00:3:20,600-->00:3:26,600
+Ping-Pong tables, soda machines, and lots of music.
+
+27
+00:3:26,600-->00:3:29,600
+It's too noisy for some older people like Nat.
+
+28
+00:3:29,600-->00:3:32,600
+I never realized that.
+
+29
+00:3:32,600-->00:3:36,600
+It's hard for some older people to take all that noise.
+
+30
+00:3:36,600-->00:3:40,600
+That's why the new community center is a good idea.
+
+31
+00:3:40,600-->00:3:42,600
+Part of the building for older people,
+
+32
+00:3:42,600-->00:3:44,600
+part of the building for younger people.
+
+33
+00:3:44,600-->00:3:46,600
+I see what you mean.
+
+34
+00:3:46,600-->00:3:49,600
+That must be Nat.
+
+35
+00:3:49,600-->00:3:51,600
+It could be Alexandra.
+
+36
+00:3:51,600-->00:3:54,600
+She's coming over this morning to help me with my math.
+
+37
+00:3:54,600-->00:4:2,600
+Hi, Robbie.
+
+38
+00:4:2,600-->00:4:4,600
+Hi, Alexandra. Come on in.
+
+39
+00:4:4,600-->00:4:9,600
+Do you want something cold to drink?
+
+40
+00:4:9,600-->00:4:11,600
+I'd love some cola, please.
+
+41
+00:4:11,600-->00:4:13,600
+Cola coming up.
+
+42
+00:4:13,600-->00:4:17,600
+I really appreciate you coming over to help me with my math.
+
+43
+00:4:17,600-->00:4:19,600
+My final exam is next Tuesday.
+
+44
+00:4:19,600-->00:4:22,600
+You're so good in all your other subjects.
+
+45
+00:4:22,600-->00:4:24,600
+I just can't understand
+
+46
+00:4:24,600-->00:4:26,600
+why you have so many problems with math.
+
+47
+00:4:26,600-->00:4:28,600
+Hi, Alexandra.
+
+48
+00:4:28,600-->00:4:29,600
+Hi, Mr. Stewart.
+
+49
+00:4:29,600-->00:4:32,600
+I thought that was Nat Baker who rang the front doorbell.
+
+50
+00:4:32,600-->00:4:35,600
+Don't let me interrupt you.
+
+51
+00:4:35,600-->00:4:36,600
+No problem, Grandpa.
+
+52
+00:4:36,600-->00:4:37,600
+We're just having some cola
+
+53
+00:4:37,600-->00:4:40,600
+before getting to the tough stuff--math.
+
+54
+00:4:40,600-->00:4:44,600
+He'll do anything to avoid getting down to math lessons,
+
+55
+00:4:44,600-->00:4:45,600
+Mr. Stewart. Stewart
+
+56
+00:4:45,600-->00:4:48,600
+I was the same way.
+
+57
+00:4:48,600-->00:4:49,600
+Really, Grandpa?
+
+58
+00:4:49,600-->00:4:52,600
+Really. I didn't like math.
+
+59
+00:4:52,600-->00:4:56,600
+I wasn't good at it, and I didn't like studying it.
+
+60
+00:4:56,600-->00:4:58,600
+But you had to be good at math.
+
+61
+00:4:58,600-->00:5:0,600
+You graduated from engineering school.
+
+62
+00:5:0,600-->00:5:3,600
+I was. But not in high school.
+
+63
+00:5:3,600-->00:5:6,600
+For some reason, I couldn't get a handle on it.
+
+64
+00:5:6,600-->00:5:10,600
+Then, in college, I became good at it.
+
+65
+00:5:10,600-->00:5:12,600
+Then there's hope for Robbie.
+
+66
+00:5:12,600-->00:5:13,600
+I can't wait.
+
+67
+00:5:13,600-->00:5:17,600
+You think I can just skip it now and get to it at college?
+
+68
+00:5:17,600-->00:5:20,600
+You'll never get to college to find out, Robbie,
+
+69
+00:5:20,600-->00:5:21,600
+if you skip it now.
+
+70
+00:5:21,600-->00:5:24,600
+That must be Nat.
+
+71
+00:5:24,600-->00:5:29,600
+Sit down, Robbie. Let's get to work.
+
+72
+00:5:29,600-->00:5:43,600
+I'd like you to meet my friend Nat Baker.
+
+73
+00:5:43,600-->00:5:47,600
+This is Alexandra Pappas, and this is my grandson Robbie,
+
+74
+00:5:47,600-->00:5:49,600
+whom I think you've met once or twice before.
+
+75
+00:5:49,600-->00:5:51,600
+Nice to meet you, Mr. Baker.
+
+76
+00:5:51,600-->00:5:53,600
+Hi, Mr. Baker. We met before.
+
+77
+00:5:53,600-->00:5:54,600
+Where?
+
+78
+00:5:54,600-->00:5:57,600
+In town. At the hardware store.
+
+79
+00:5:57,600-->00:6:2,600
+I remember now. Right. Hi.
+
+80
+00:6:2,600-->00:6:3,600
+Hello, Alexandra.
+
+81
+00:6:3,600-->00:6:7,600
+Don't let us keep you from your math tutoring, Robbie.
+
+82
+00:6:7,600-->00:6:9,600
+I know you want to get to it.
+
+83
+00:6:9,600-->00:6:10,600
+Stay ... stay.
+
+84
+00:6:10,600-->00:6:14,600
+I told you. He'll use any excuse to avoid math.
+
+85
+00:6:14,600-->00:6:17,600
+Did you read the story in the paper, Malcolm?
+
+86
+00:6:17,600-->00:6:18,600
+I did.
+
+87
+00:6:18,600-->00:6:21,600
+It's a serious matter for a lot of us.
+
+88
+00:6:21,600-->00:6:22,600
+A serious matter.
+
+89
+00:6:22,600-->00:6:24,600
+It is. Come on out to the patio.
+
+90
+00:6:24,600-->00:6:25,600
+We'll talk about it out there.
+
+91
+00:6:25,600-->00:6:28,600
+Thanks. Nice to meet you ... again.
+
+92
+00:6:28,600-->00:6:32,600
+What's the problem?
+
+93
+00:6:32,600-->00:6:35,600
+Come on! You'll hear about it.
+

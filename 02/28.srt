@@ -1,0 +1,378 @@
+0
+00:0:0,600-->00:2:03,000
+
+email: taotaosong@163.com
+MSN : songtaotao1986@hotmail.com
+QQ : 498783048
+
+1
+00:2:4,600-->00:2:7,600
+Good morning, Susan.
+
+2
+00:2:7,600-->00:2:9,600
+Good morning, Sam.
+
+3
+00:2:9,600-->00:2:15,600
+What's the schedule today?
+
+4
+00:2:15,600-->00:2:19,600
+Ten o'clock,
+
+5
+00:2:19,600-->00:2:21,600
+telephone FAO Schwarz about the new twin baby dolls.
+
+6
+00:2:21,600-->00:2:22,600
+OK.
+
+7
+00:2:22,600-->00:2:25,600
+Telephone Mrs. Zaskey at the advertising agency.
+
+8
+00:2:25,600-->00:2:27,600
+I did that. Go on.
+
+9
+00:2:27,600-->00:2:29,600
+Eleven o'clock, approve the sketches for the toy spaceship.
+
+10
+00:2:29,600-->00:2:31,600
+Where are they?
+
+11
+00:2:31,600-->00:2:32,600
+Right here.
+
+12
+00:2:32,600-->00:2:34,600
+Did you look at them?
+
+13
+00:2:34,600-->00:2:35,600
+Yes, I did.
+
+14
+00:2:35,600-->00:2:38,600
+What do you think of the spaceship?
+
+15
+00:2:38,600-->00:2:40,600
+I think the kids'll love it.
+
+16
+00:2:40,600-->00:2:42,600
+Would you show me the drawings, please?
+
+17
+00:2:42,600-->00:2:43,600
+Huh.
+
+18
+00:2:43,600-->00:2:52,600
+
+19
+00:2:52,600-->00:2:55,600
+Now, what else is on the schedule today?
+
+20
+00:2:55,600-->00:2:57,600
+Well, at one o'clock
+
+21
+00:2:57,600-->00:2:59,600
+you have a lunch appointment with Mr. Levine,
+
+22
+00:2:59,600-->00:3:1,600
+the client from the Toytown Stores.
+
+23
+00:3:1,600-->00:3:2,600
+Where?
+
+24
+00:3:2,600-->00:3:3,600
+At Rossano's.
+
+25
+00:3:3,600-->00:3:5,600
+Hmm. Anything else?
+
+26
+00:3:5,600-->00:3:7,600
+At four o'clock,
+
+27
+00:3:7,600-->00:3:8,600
+you have a meeting with the production staff
+
+28
+00:3:8,600-->00:3:9,600
+in the conference room.
+
+29
+00:3:9,600-->00:3:12,600
+Make sure everybody is at that meeting.
+
+30
+00:3:12,600-->00:3:13,600
+Will do.
+
+31
+00:3:13,600-->00:3:16,600
+At six you're meeting, Mr. Ozawa.
+
+32
+00:3:16,600-->00:3:18,600
+Oh, yes. Are his models here?
+
+33
+00:3:18,600-->00:3:19,600
+They're in my office.
+
+34
+00:3:19,600-->00:3:20,600
+I'd like to see them.
+
+35
+00:3:20,600-->00:3:21,600
+Right.
+
+36
+00:3:21,600-->00:3:22,600
+What else?
+
+37
+00:3:22,600-->00:3:29,600
+Come on, Sam ...
+
+38
+00:3:29,600-->00:3:32,600
+You work too hard, Susan.
+
+39
+00:3:32,600-->00:3:35,600
+When was your last day off?
+
+40
+00:3:35,600-->00:3:38,600
+Hmm. I can't remember.
+
+41
+00:3:38,600-->00:3:40,600
+You really ought to take some time off.
+
+42
+00:3:40,600-->00:3:41,600
+What for?
+
+43
+00:3:41,600-->00:3:44,600
+To enjoy the simple things in life ...
+
+44
+00:3:44,600-->00:3:46,600
+I know, Sam.
+
+45
+00:3:46,600-->00:3:49,600
+Maybe soon.
+
+46
+00:3:49,600-->00:3:52,600
+To smell the flowers.
+
+47
+00:3:52,600-->00:3:55,600
+Oh, wait a minute. What's today's date?
+
+48
+00:3:55,600-->00:3:57,600
+Today is the twelfth. Why?
+
+49
+00:3:57,600-->00:4:1,600
+It seems to me I scheduled something else.
+
+50
+00:4:1,600-->00:4:7,600
+There's nothing else in the appointment book.
+
+51
+00:4:7,600-->00:4:9,600
+I'm sure I did.
+
+52
+00:4:9,600-->00:4:13,600
+Oh, well, I'll probably remember it later.
+
+53
+00:4:13,600-->00:4:16,600
+I hope it isn't important.
+
+54
+00:4:16,600-->00:4:17,600
+Hmm. It's probably nothing.
+
+55
+00:4:17,600-->00:4:19,600
+OK, let's get started.
+
+56
+00:4:19,600-->00:4:13,600
+Would you call Priscilla Smith at FAO Schwarz, please?
+
+57
+00:4:13,600-->00:4:24,600
+Right.
+
+58
+00:4:24,600-->00:4:33,600
+These are the models from the Japanese film maker.
+
+59
+00:4:33,600-->00:4:35,600
+Thank you. Just put them on my desk.
+
+60
+00:4:35,600-->00:4:42,600
+And the new drawings for the toy spaceship.
+
+61
+00:4:42,600-->00:4:44,600
+Wonderful.
+
+62
+00:4:44,600-->00:4:54,600
+That was fast.
+
+63
+00:4:54,600-->00:4:55,600
+We have a new artist.
+
+64
+00:4:55,600-->00:4:56,600
+She's very talented.
+
+65
+00:4:56,600-->00:4:58,600
+What time is it, anyway?
+
+66
+00:4:58,600-->00:4:59,600
+My watch stopped.
+
+67
+00:4:59,600-->00:5:0,600
+It's eleven thirty.
+
+68
+00:5:0,600-->00:5:3,600
+What time is my lunch date with Bill Levine?
+
+69
+00:5:3,600-->00:5:5,600
+One o'clock.
+
+70
+00:5:5,600-->00:5:8,600
+Remind me to leave at twelve forty-five.
+
+71
+00:5:8,600-->00:5:12,600
+Did you remember your other appointment for today?
+
+72
+00:5:12,600-->00:5:14,600
+No,
+
+73
+00:5:14,600-->00:5:15,600
+but I have a feeling
+
+74
+00:5:15,600-->00:5:17,600
+it's going to be too late when I do remember.
+
+75
+00:5:17,600-->00:5:31,600
+Yes, Sam?
+
+76
+00:5:31,600-->00:5:34,600
+I just solved the mystery.
+
+77
+00:5:34,600-->00:5:36,600
+What did I forget?
+
+78
+00:5:36,600-->00:5:39,600
+You have some guests in the reception room.
+
+79
+00:5:39,600-->00:5:41,600
+What? Who?
+
+80
+00:5:41,600-->00:5:44,600
+Mr. Harry Bennett and his daughter. Harry Bennett
+
+81
+00:5:44,600-->00:5:45,600
+I remember!
+
+82
+00:5:45,600-->00:5:48,600
+Oh ... Harry!
+
+83
+00:5:48,600-->00:5:52,600
+I made a lunch date with him and his daughter weeks ago.
+
+84
+00:5:52,600-->00:5:55,600
+Is he a client?
+
+85
+00:5:55,600-->00:5:58,600
+He's a friend.
+
+86
+00:5:58,600-->00:6:2,600
+Well, he's here with his daughter to have lunch.
+
+87
+00:6:2,600-->00:6:4,600
+I met her at Thanksgiving,
+
+88
+00:6:4,600-->00:6:7,600
+and I promised to have lunch with both of them today.
+
+89
+00:6:7,600-->00:6:10,600
+Yes, indeed.
+
+90
+00:6:10,600-->00:6:13,600
+What are you going to do about your appointment
+
+91
+00:6:13,600-->00:6:14,600
+with Mr. Levine?
+
+92
+00:6:14,600-->00:6:17,600
+Any suggestions?
+
+93
+00:6:17,600-->00:6:21,600
+Oh!
+

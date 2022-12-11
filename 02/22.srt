@@ -1,0 +1,283 @@
+0
+00:0:0,600-->00:1:50,000
+
+email: taotaosong@163.com
+MSN : songtaotao1986@hotmail.com
+QQ : 498783048
+
+1
+00:1:50,600-->00:2:2,600
+Molly, I need your special talent for handling special matters. Molly
+
+2
+00:2:2,600-->00:2:4,600
+Like what special matters?
+
+3
+00:2:4,600-->00:2:7,600
+Well, I have a scheduling problem.
+
+4
+00:2:7,600-->00:2:9,600
+Yes?
+
+5
+00:2:9,600-->00:2:13,600
+I have three tonsillectomies set for Friday with Dr. Earl.
+
+6
+00:2:13,600-->00:2:14,600
+Yes?
+
+7
+00:2:14,600-->00:2:17,600
+I need to fit a fourth operation into his schedule.
+
+8
+00:2:17,600-->00:2:20,600
+And ... I know you can do it.
+
+9
+00:2:20,600-->00:2:22,600
+Who's the patient?
+
+10
+00:2:22,600-->00:2:24,600
+Carl Herrera. Carl Herrera
+
+11
+00:2:24,600-->00:2:25,600
+The boy has infected tonsils,
+
+12
+00:2:25,600-->00:2:27,600
+and we should remove them as soon as possible.
+
+13
+00:2:27,600-->00:2:29,600
+Well, I'll try to arrange the schedule, Dr. Stewart.
+
+14
+00:2:29,600-->00:2:31,600
+But it's not going to be easy.
+
+15
+00:2:31,600-->00:2:36,600
+I know you'll be able to take care of it.
+
+16
+00:2:36,600-->00:2:41,600
+Well, Mrs. Herrera,
+
+17
+00:2:41,600-->00:2:44,600
+Carl will be perfectly fine after we remove his tonsils.
+
+18
+00:2:44,600-->00:2:47,600
+Thank you for your reassurance, Dr. Stewart.
+
+19
+00:2:47,600-->00:2:50,600
+He's had so many colds and sore throats recently.
+
+20
+00:2:50,600-->00:2:53,600
+Well, it's a very easy operation, Carl.
+
+21
+00:2:53,600-->00:2:54,600
+You won't feel a thing.
+
+22
+00:2:54,600-->00:2:56,600
+But when do they do it?
+
+23
+00:2:56,600-->00:2:58,600
+This Friday.
+
+24
+00:2:58,600-->00:3:1,600
+But Saturday's my birthday.
+
+25
+00:3:1,600-->00:3:7,600
+Well, we could reschedule the operation, Mrs. Herrera,
+
+26
+00:3:7,600-->00:3:9,600
+but I don't want to put it off too long.
+
+27
+00:3:9,600-->00:3:11,600
+No, I think it's important to do it now.
+
+28
+00:3:11,600-->00:3:14,600
+We can have a birthday party for you, Carl,
+
+29
+00:3:14,600-->00:3:15,600
+When you come out of the hospital.
+
+30
+00:3:15,600-->00:3:18,600
+But it won't be on my birthday.
+
+31
+00:3:18,600-->00:3:21,600
+But your health is more important, Carl. Believe me.
+
+32
+00:3:21,600-->00:3:23,600
+I don't want my tonsils out.
+
+33
+00:3:23,600-->00:3:29,600
+Nurse Baker, would you come in, please? Baker
+
+34
+00:3:29,600-->00:3:39,600
+Hello, Mrs. Herrera. Hi, Carl, how you doing?
+
+35
+00:3:39,600-->00:3:42,600
+I don't want my tonsils out.
+
+36
+00:3:42,600-->00:3:44,600
+Come with me, Carl.
+
+37
+00:3:44,600-->00:3:46,600
+You and I will talk this over.
+
+38
+00:3:46,600-->00:3:53,600
+She has a special way with kids.
+
+39
+00:3:53,600-->00:3:54,600
+She sure does.
+
+40
+00:3:54,600-->00:4:9,600
+Carl, does your throat hurt? Carl
+
+41
+00:4:9,600-->00:4:10,600
+Yes.
+
+42
+00:4:10,600-->00:4:13,600
+OK. Do you want to get better?
+
+43
+00:4:13,600-->00:4:14,600
+Yes.
+
+44
+00:4:14,600-->00:4:16,600
+OK. We want you to get better, too.
+
+45
+00:4:16,600-->00:4:18,600
+You'll have your tonsils out tomorrow,
+
+46
+00:4:18,600-->00:4:21,600
+and you won't get so many colds anymore.
+
+47
+00:4:21,600-->00:4:24,600
+But if I have my tonsils out tomorrow,
+
+48
+00:4:24,600-->00:4:26,600
+I'll miss my birthday party on Saturday.
+
+49
+00:4:26,600-->00:4:28,600
+I know.
+
+50
+00:4:28,600-->00:4:29,600
+It's a problem, isn't it?
+
+51
+00:4:29,600-->00:4:32,600
+Let me try to work something out.
+
+52
+00:4:32,600-->00:4:35,600
+What?
+
+53
+00:4:35,600-->00:4:37,600
+I have to think about it.
+
+54
+00:4:37,600-->00:4:39,600
+You're fooling me.
+
+55
+00:4:39,600-->00:4:41,600
+Oh, I'm not, Carl.
+
+56
+00:4:41,600-->00:4:43,600
+Give me a chance to think about it,
+
+57
+00:4:43,600-->00:4:45,600
+and I'll come up with something.
+
+58
+00:4:45,600-->00:4:46,600
+A surprise?
+
+59
+00:4:46,600-->00:4:47,600
+Maybe.
+
+60
+00:4:47,600-->00:4:49,600
+But you just put on your pajamas and robe,
+
+61
+00:4:49,600-->00:4:51,600
+and I'll think of a surprise.
+
+62
+00:4:51,600-->00:4:53,600
+Will it hurt?
+
+63
+00:4:53,600-->00:4:54,600
+No.
+
+64
+00:4:54,600-->00:4:56,600
+There are other boys and girls here,
+
+65
+00:4:56,600-->00:4:57,600
+and they're having their tonsils out.
+
+66
+00:4:57,600-->00:4:58,600
+You'll meet them.
+
+67
+00:4:58,600-->00:4:59,600
+I don't want to.
+
+68
+00:4:59,600-->00:5:2,600
+Change your clothes, Carl.
+
+69
+00:5:2,600-->00:5:4,600
+Everything will be just fine.
+

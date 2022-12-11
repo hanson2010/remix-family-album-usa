@@ -1,0 +1,238 @@
+1
+00:1:2,000-->00:1:4,000
+Excuse me, officer.
+
+2
+00:1:4,000-->00:1:4,200
+Sure.
+
+3
+00:1:4,200-->00:1:7,000
+Can you tell me
+
+4
+00:1:7,000-->00:1:12,000
+"Richard Stewart, 46 Linden Street,
+
+5
+00:1:12,000-->00:1:12,000
+
+6
+00:1:12,000-->00:1:13,000
+You should take the number 1 subway.
+
+7
+00:1:13,000-->00:1:15,000
+Is there a station near here?
+
+8
+00:1:15,000-->00:1:16,000
+Yes. The station's that way.
+
+9
+00:1:16,000-->00:1:19,000
+You should take the number 1 train to Van Cortlandt Park.
+
+10
+00:1:19,000-->00:1:22,000
+Number 1 train to Van Cortlandt Park. Thank you.
+
+11
+00:1:22,000-->00:1:23,000
+Anytime. Good luck.
+
+12
+00:1:23,000-->00:1:26,000
+Remember, the number 1 train. The uptown platform.
+
+13
+00:1:26,000-->00:1:27,000
+Thank you.
+
+14
+00:1:27,000-->00:1:28,000
+You're welcome.
+
+15
+00:1:28,000-->00:1:47,000
+Is this pink too bright for me?
+
+16
+00:1:47,000-->00:1:51,000
+Mmm-hmm. It is a very bright pink.
+
+17
+00:1:51,000-->00:2:3,000
+Try this. It's size eight.
+
+18
+00:2:3,000-->00:2:4,000
+But I wear size ten.
+
+19
+00:2:4,000-->00:2:10,000
+How about green? It's size ten.
+
+20
+00:2:10,000-->00:2:11,000
+Let me try it on.
+
+21
+00:2:11,000-->00:2:15,000
+I'm taking too much of your time.
+
+22
+00:2:15,000-->00:2:19,000
+It's six o'clock.
+
+23
+00:2:19,000-->00:2:20,000
+Where's my husband?
+
+24
+00:2:20,000-->00:2:20,300
+Where's my husband?
+
+25
+00:2:20,300-->00:2:23,000
+I was expecting him here at five forty-five.
+
+26
+00:2:23,000-->00:2:26,000
+Don't worry. The traffic is very heavy at this hour.
+
+27
+00:2:26,000-->00:2:29,000
+I know. But we're going to be late for dinner.
+
+28
+00:2:29,000-->00:2:32,000
+I'll take this green sweater.
+
+29
+00:2:32,000-->00:2:34,000
+I like the color on me, don't you?
+
+30
+00:2:34,000-->00:2:35,000
+I think it looks terrific on you.
+
+31
+00:2:35,000-->00:2:41,000
+I'm sorry I'm so late.
+
+32
+00:2:41,000-->00:2:43,000
+I had a really bad day.
+
+33
+00:2:43,000-->00:2:47,000
+It's ten after six. We're late.
+
+34
+00:2:47,000-->00:2:49,000
+Robbie's cooking tonight, and dinner's at six thirty.
+
+35
+00:2:49,000-->00:2:51,000
+I know. I know. I'm really sorry.
+
+36
+00:2:51,000-->00:2:54,000
+I left my bag of film on the ferry.
+
+37
+00:2:54,000-->00:2:56,000
+I went back for it, but the ferry was gone.
+
+38
+00:2:56,000-->00:2:58,000
+I lost a whole day's work.
+
+39
+00:2:58,000-->00:3:2,000
+I'll call the Staten Island Ferry lost-and-found office.
+
+40
+00:3:2,000-->00:3:3,000
+I didn't think of that. Thanks.
+
+41
+00:3:3,000-->00:3:10,000
+Hello.
+
+42
+00:3:10,000-->00:3:13,000
+Yes. The number, please,
+
+43
+00:3:13,000-->00:3:15,000
+of the Staten Island Ferry lost-and-found office. Staten
+
+44
+00:3:15,000-->00:3:22,000
+Five five five...zero eight zero eight. 555-
+
+45
+00:3:22,000-->00:3:24,000
+Thank you.
+
+46
+00:3:24,000-->00:3:26,000
+I really appreciate it, Marilyn.
+
+47
+00:3:26,000-->00:3:27,000
+I really appreciate it, Marilyn.
+
+48
+00:3:27,000-->00:3:29,000
+Hello.
+
+49
+00:3:29,000-->00:3:33,000
+Did anyone find a camera bag this afternoon,
+
+50
+00:3:33,000-->00:3:36,000
+a small canvas bag,
+
+51
+00:3:36,000-->00:3:40,000
+on the J. F. Kennedy Ferry?...No?
+
+52
+00:3:40,000-->00:3:46,000
+Maybe someone will find it.
+
+53
+00:3:46,000-->00:3:49,000
+The name is Stewart, Richard Stewart.
+
+54
+00:3:49,000-->00:3:55,000
+And the telephone number is five five five...
+
+55
+00:3:55,000-->00:3:57,000
+three oh nine oh. Thank you.
+
+56
+00:3:57,000-->00:4:1,000
+Sorry, Richard. They don't have it.
+
+57
+00:4:1,000-->00:4:3,000
+Thanks, anyway.
+
+58
+00:4:3,000-->00:4:8,000
+There was a girl on the ferry.
+
+59
+00:4:8,000-->00:4:12,000
+Now maybe...
+
+60
+00:4:12,000-->00:4:15,000
+Tell me about it on the way home.

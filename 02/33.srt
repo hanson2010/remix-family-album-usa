@@ -1,0 +1,399 @@
+0
+00:0:0,600-->00:0:50,000
+
+email: taotaosong@163.com
+MSN : songtaotao1986@hotmail.com
+QQ : 498783048
+
+1
+00:0:50,600-->00:0:54,600
+How do you do?
+
+2
+00:0:54,600-->00:0:55,600
+Hello.
+
+3
+00:0:55,600-->00:0:57,600
+I'm Ralph Riley.
+
+4
+00:0:57,600-->00:1:0,600
+I'm Richard Stewart, and this is my wife, Marilyn.
+
+5
+00:1:0,600-->00:1:1,600
+Pleased to meet you.
+
+6
+00:1:1,600-->00:1:2,600
+Likewise, Mr. Riley.
+
+7
+00:1:2,600-->00:1:6,600
+Please, sit down. What can I do for you?
+
+8
+00:1:6,600-->00:1:8,600
+We'd like to discuss a mortgage.
+
+9
+00:1:8,600-->00:1:10,600
+For a house.
+
+10
+00:1:10,600-->00:1:12,600
+Fine. Are you buying a house
+
+11
+00:1:12,600-->00:1:14,600
+or are you refinancing your present home?
+
+12
+00:1:14,600-->00:1:15,600
+We're planning to buy a house.
+
+13
+00:1:15,600-->00:1:18,600
+And we'd like to find out about a mortgage.
+
+14
+00:1:18,600-->00:1:20,600
+We are customers of the bank.
+
+15
+00:1:20,600-->00:1:23,600
+As a matter of fact, my whole family banks here.
+
+16
+00:1:23,600-->00:1:25,600
+I have some questions to ask.
+
+17
+00:1:25,600-->00:1:28,600
+Do you own your house or do you rent?
+
+18
+00:1:28,600-->00:1:30,600
+Neither.
+
+19
+00:1:30,600-->00:1:33,600
+We live with my parents, Dr. and Mrs. Philip Stewart.
+
+20
+00:1:33,600-->00:1:37,600
+And how old are you?
+
+21
+00:1:37,600-->00:1:38,600
+I'm twenty-nine.
+
+22
+00:1:38,600-->00:1:39,600
+I'm thirty.
+
+23
+00:1:39,600-->00:1:43,600
+And, Mr. Stewart, what is your occupation?
+
+24
+00:1:43,600-->00:1:45,600
+I'm a freelance photographer.
+
+25
+00:1:45,600-->00:1:47,600
+And, Mrs. Stewart, are you working?
+
+26
+00:1:47,600-->00:1:50,600
+Yes. I'm a designer, and I work in a boutique.
+
+27
+00:1:50,600-->00:1:53,600
+Did you bring any savings or salary information?
+
+28
+00:1:53,600-->00:1:55,600
+Last year's tax forms?
+
+29
+00:1:55,600-->00:1:57,600
+Yes. Here they are.
+
+30
+00:1:57,600-->00:2:5,600
+OK. What ... what kind of house did you have in mind?
+
+31
+00:2:5,600-->00:2:6,600
+We're talking about buying
+
+32
+00:2:6,600-->00:2:8,600
+a two-bedroom house in Mount Kisco.
+
+33
+00:2:8,600-->00:2:11,600
+Here are the financial details on the house.
+
+34
+00:2:11,600-->00:2:12,600
+Thank you.
+
+35
+00:2:12,600-->00:2:17,600
+Are you prepared to make a ten-percent down payment?
+
+36
+00:2:17,600-->00:2:18,600
+Yes, we are.
+
+37
+00:2:18,600-->00:2:21,600
+Payments over thirty years?
+
+38
+00:2:21,600-->00:2:22,600
+Yes.
+
+39
+00:2:22,600-->00:2:26,600
+Do you think we can get a loan?
+
+40
+00:2:26,600-->00:2:32,600
+Well, it depends. Do you own any other property?
+
+41
+00:2:32,600-->00:2:33,600
+Any stocks or bonds?
+
+42
+00:2:33,600-->00:2:36,600
+No.
+
+43
+00:2:36,600-->00:2:40,600
+I see. Then you don't have any collateral.
+
+44
+00:2:40,600-->00:2:43,600
+Perhaps you could get a guarantor--
+
+45
+00:2:43,600-->00:2:46,600
+someone to sign for the loan for you.
+
+46
+00:2:46,600-->00:2:48,600
+Why is that necessary?
+
+47
+00:2:48,600-->00:2:50,600
+Since you don't have enough income,
+
+48
+00:2:50,600-->00:2:52,600
+and you don't already own any property,
+
+49
+00:2:52,600-->00:2:54,600
+the bank needs to be sure
+
+50
+00:2:54,600-->00:2:55,600
+you can pay the mortgage every month.
+
+51
+00:2:55,600-->00:2:58,600
+A guarantor is responsible for the loan
+
+52
+00:2:58,600-->00:2:59,600
+if you can't make the payments.
+
+53
+00:2:59,600-->00:3:6,600
+I see. Well, the idea of buying a house is exciting.
+
+54
+00:3:6,600-->00:3:9,600
+Thank you, Mr. Riley. We'll read this over carefully.
+
+55
+00:3:9,600-->00:3:11,600
+Thank you.
+
+56
+00:3:11,600-->00:3:13,600
+Good-bye. Thanks.
+
+57
+00:3:13,600-->00:3:15,600
+Good-bye. And hope to see you soon.
+
+58
+00:3:15,600-->00:3:17,600
+I hope so, too.
+
+59
+00:3:17,600-->00:3:19,600
+Take care.
+
+60
+00:3:19,600-->00:3:20,600
+Good-bye.
+
+61
+00:3:20,600-->00:3:39,200
+It all sounded so easy
+
+62
+00:3:39,200-->00:3:42,600
+until they mentioned needing collateral or a guarantor.
+
+63
+00:3:42,600-->00:3:45,600
+We have no collateral.
+
+64
+00:3:45,600-->00:3:48,600
+And I don't think it's a good idea
+
+65
+00:3:48,600-->00:3:50,600
+to ask Dad to sign as a guarantor.
+
+66
+00:3:50,600-->00:3:52,600
+I don't feel right about it.
+
+67
+00:3:52,600-->00:3:54,600
+I understand your feelings about it, Richard.
+
+68
+00:3:54,600-->00:4:11,600
+Now, tell me, what's the problem?
+
+69
+00:4:11,600-->00:4:14,600
+We can get a loan from the bank
+
+70
+00:4:14,600-->00:4:16,600
+if we can put up some collateral.
+
+71
+00:4:16,600-->00:4:19,600
+And we don't own anything to use as collateral.
+
+72
+00:4:19,600-->00:4:23,600
+Or someone can sign with us as a guarantor.
+
+73
+00:4:23,600-->00:4:27,600
+Why don't you speak to Dad?
+
+74
+00:4:27,600-->00:4:31,600
+No. If we buy a house, I want to be able to handle it alone.
+
+75
+00:4:31,600-->00:4:35,600
+Everybody needs help sometimes, Richard.
+
+76
+00:4:35,600-->00:4:38,600
+I understand Richard's feelings about it, Ellen.
+
+77
+00:4:38,600-->00:4:41,600
+In two or three months, I'll have an advance on my book
+
+78
+00:4:41,600-->00:4:42,600
+and be able to put more money down.
+
+79
+00:4:42,600-->00:4:45,600
+What about the house in Mount Kisco?
+
+80
+00:4:45,600-->00:4:49,600
+Somebody else'll buy it by then.
+
+81
+00:4:49,600-->00:4:51,600
+Then there'll be other houses, Marilyn.
+
+82
+00:4:51,600-->00:4:55,600
+Richard has a point. You're just beginning to look. Richard
+
+83
+00:4:55,600-->00:4:57,600
+We're in no great rush. It's true.
+
+84
+00:4:57,600-->00:5:0,600
+This has been a great learning experience for us, Marilyn.
+
+85
+00:5:0,600-->00:5:2,600
+Talking to the real-estate agent.
+
+86
+00:5:2,600-->00:5:3,600
+Looking at the houses.
+
+87
+00:5:3,600-->00:5:6,600
+Talking to the loan officer at the bank.
+
+88
+00:5:6,600-->00:5:9,600
+It has been a learning experience. That's true.
+
+89
+00:5:9,600-->00:5:13,600
+I think you're doing the right thing. Taking your time.
+
+90
+00:5:13,600-->00:5:17,600
+Looking around. Especially with a purchase of this kind.
+
+91
+00:5:17,600-->00:5:19,600
+You're talking about a lot of money.
+
+92
+00:5:19,600-->00:5:23,600
+We'll call Mrs. Martinelli and tell her to keep looking for us.
+
+93
+00:5:23,600-->00:5:25,600
+And I'll call Mr. Riley at the bank
+
+94
+00:5:25,600-->00:5:28,600
+and tell him we'll see him in a couple of months.
+
+95
+00:5:28,600-->00:5:31,600
+And if you ever need Dad or me to help you ...
+
+96
+00:5:31,600-->00:5:32,600
+We know.
+
+97
+00:5:32,600-->00:5:35,600
+You know we'll be there for you.
+
+98
+00:5:35,600-->00:5:39,600
+It's a Stewart tradition. We're a family.
+
