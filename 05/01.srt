@@ -1,6 +1,11 @@
 1
 00:00:05,000 --> 00:00:08,000
-Subtitles added by Hanson Hu root@pythoner.work
+Subtitles added by Hanson Hu
+root@pythoner.work
+
+2
+00:00:10,000 --> 00:00:55,000
+Episode 01 - 46 Linden Street
 
 1
 00:02:15,600 --> 00:02:18,000
@@ -376,7 +381,7 @@ You left your bag!
 
 1
 00:09:05,500 --> 00:09:07,500
-Excuse me, officer.
+Excuse me, officer. Can you help me?
 
 2
 00:09:07,500 --> 00:09:07,700
@@ -384,11 +389,11 @@ Sure.
 
 3
 00:09:07,700 --> 00:09:10,500
-Can you tell me
+Can you tell me how to get to Linden Street in Riverdale?
 
 4
 00:09:10,500 --> 00:09:15,500
-"Richard Stewart, 46 Linden Street,
+Richard Stewart, 46 Linden Street, Riverdale, New York.
 
 5
 00:09:15,500 --> 00:09:16,500

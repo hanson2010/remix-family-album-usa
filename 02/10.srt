@@ -1,9 +1,3 @@
-0
-00:0:0,600-->00:2:24,000
-
-email: taotaosong@163.com
-MSN : songtaotao1986@hotmail.com
-QQ : 498783048
 
 1
 00:2:24,600-->00:2:26,600
@@ -102,11 +96,11 @@ Tomorrow morning at ten o'clock. Try it.
 Tomorrow morning after lifting weights,
 
 25
-00:3:47,600-->00:3:47,600
+00:3:47,600-->00:3:48,600
 I'll try aerobics.
 
 26
-00:3:47,600-->00:3:52,600
+00:3:48,600-->00:3:52,600
 It's a nap. Tomorrow morning at ten o'clock.
 
 27
@@ -190,11 +184,11 @@ Give him a call.
 Davis Aerobics Center for Good Health. Davis
 
 47
-00:5:27,600-->00:5:29,600
+00:5:27,600-->00:5:28,600
 Jack Davis, please.
 
 48
-00:5:29,600-->00:5:29,600
+00:5:28,600-->00:5:29,600
 This is Jack Davis.
 
 49

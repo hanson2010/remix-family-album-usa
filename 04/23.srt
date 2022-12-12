@@ -1,0 +1,408 @@
+1
+00:09:00,100 --> 00:09:03,100
+OK.
+
+2
+00:09:03,100 --> 00:09:05,100
+Do you know how to play charades?
+
+3
+00:09:05,100 --> 00:09:09,100
+Frank, you've never played charades? Frank
+
+4
+00:09:09,100 --> 00:09:12,100
+Nope.
+
+5
+00:09:12,100 --> 00:09:14,100
+Carl, you're sure you've never played? Carl
+
+6
+00:09:14,100 --> 00:09:20,100
+OK, Betty, Tim, and Frank.
+
+7
+00:09:20,100 --> 00:09:21,100
+We're going to play charades.
+
+8
+00:09:21,100 --> 00:09:24,100
+Frank, you can learn as we go. Frank
+
+9
+00:09:24,100 --> 00:09:25,100
+And, Carl, you join in at any time.
+
+10
+00:09:25,100 --> 00:09:28,100
+OK, let me think.
+
+11
+00:09:28,100 --> 00:09:32,100
+OK, I've got one.
+
+12
+00:09:32,100 --> 00:09:44,100
+All right.
+
+13
+00:09:44,100 --> 00:09:49,100
+A movie!
+
+14
+00:09:49,100 --> 00:09:50,100
+A movie!
+
+15
+00:09:50,100 --> 00:09:51,100
+Right.
+
+16
+00:09:51,100 --> 00:09:52,100
+A movie.
+
+17
+00:09:52,100 --> 00:09:53,100
+OK.
+
+18
+00:09:53,100 --> 00:09:58,100
+Six words.
+
+19
+00:09:58,100 --> 00:09:59,100
+It has six words.
+
+20
+00:09:59,100 --> 00:10:01,100
+That's easy.
+
+21
+00:10:01,100 --> 00:10:02,100
+I can play.
+
+22
+00:10:02,100 --> 00:10:03,100
+Good. OK.
+
+23
+00:10:03,100 --> 00:10:05,100
+We've got a movie.
+
+24
+00:10:05,100 --> 00:10:06,100
+The title ...
+
+25
+00:10:06,100 --> 00:10:07,100
+Six words.
+
+26
+00:10:07,100 --> 00:10:08,100
+Right.
+
+27
+00:10:08,100 --> 00:10:10,100
+First word ...
+
+28
+00:10:10,100 --> 00:10:13,100
+Sounds like.
+
+29
+00:10:13,100 --> 00:10:14,100
+Sounds like ...
+
+30
+00:10:14,100 --> 00:10:16,100
+You got that part right.
+
+31
+00:10:16,100 --> 00:10:17,100
+Yes.
+
+32
+00:10:17,100 --> 00:10:20,100
+Sounds like ...
+
+33
+00:10:20,100 --> 00:10:23,100
+Sounds like what?
+
+34
+00:10:23,100 --> 00:10:25,100
+Sounds like no.
+
+35
+00:10:25,100 --> 00:10:27,100
+Absolutely right, Frank.
+
+36
+00:10:27,100 --> 00:10:29,100
+Sounds like no.
+
+37
+00:10:29,100 --> 00:10:30,100
+OK.
+
+38
+00:10:30,100 --> 00:10:32,100
+We've got a movie.
+
+39
+00:10:32,100 --> 00:10:34,100
+Six words.
+
+40
+00:10:34,100 --> 00:10:36,100
+The first word sounds like no.
+
+41
+00:10:36,100 --> 00:10:40,100
+Row. Row. Row
+
+42
+00:10:40,100 --> 00:10:41,100
+Go. Go
+
+43
+00:10:41,100 --> 00:10:43,100
+Nope.
+
+44
+00:10:43,100 --> 00:10:45,100
+Show. Show
+
+45
+00:10:45,100 --> 00:10:47,100
+That's it--show.
+
+46
+00:10:47,100 --> 00:10:49,100
+No ... OK ...
+
+47
+00:10:49,100 --> 00:10:57,100
+Snow.
+
+48
+00:10:57,100 --> 00:10:59,100
+Absolutely right, Betty.
+
+49
+00:10:59,100 --> 00:11:02,100
+Sounds like no -- snow.
+
+50
+00:11:02,100 --> 00:11:05,100
+OK, a movie. Six words.
+
+51
+00:11:05,100 --> 00:11:07,100
+The first word is snow.
+
+52
+00:11:07,100 --> 00:11:09,100
+This is fun.
+
+53
+00:11:09,100 --> 00:11:11,100
+Oh, OK.
+
+54
+00:11:11,100 --> 00:11:14,100
+The fifth word.
+
+55
+00:11:14,100 --> 00:11:16,100
+Right, fifth word.
+
+56
+00:11:16,100 --> 00:11:18,100
+Seven?
+
+57
+00:11:18,100 --> 00:11:21,100
+Absolutely right.
+
+58
+00:11:21,100 --> 00:11:22,100
+Very good.
+
+59
+00:11:22,100 --> 00:11:23,100
+The fifth word is seven.
+
+60
+00:11:23,100 --> 00:11:24,100
+OK, we've got a movie.
+
+61
+00:11:24,100 --> 00:11:26,100
+The first word is snow.
+
+62
+00:11:26,100 --> 00:11:29,100
+Fifth word, seven.
+
+63
+00:11:29,100 --> 00:11:30,100
+I got it!
+
+64
+00:11:30,100 --> 00:11:31,100
+I got it!
+
+65
+00:11:31,100 --> 00:11:34,100
+Snow White and the Seven Dwarfs. Snow White and the Seven Dwarfs
+
+66
+00:11:34,100 --> 00:11:40,100
+I got it.
+
+67
+00:11:40,100 --> 00:11:42,100
+I got it.
+
+68
+00:11:42,100 --> 00:11:44,100
+Frank, you got it. Frank
+
+69
+00:11:44,100 --> 00:11:46,100
+Betty, you had it, but you didn't say it. Betty
+
+70
+00:11:46,100 --> 00:11:47,100
+I knew it.
+
+71
+00:11:47,100 --> 00:11:51,100
+Carl, now you know charades. Carl
+
+72
+00:11:51,100 --> 00:11:52,100
+Why don't you join us?
+
+73
+00:11:52,100 --> 00:11:54,100
+I don't like charades.
+
+74
+00:11:54,100 --> 00:11:56,100
+It's for babies.
+
+75
+00:11:56,100 --> 00:11:57,100
+Oh, I like it.
+
+76
+00:11:57,100 --> 00:12:00,100
+Well, they're babies.
+
+77
+00:12:00,100 --> 00:12:02,100
+You're a sore loser.
+
+78
+00:12:02,100 --> 00:12:03,100
+Yeah.
+
+79
+00:12:03,100 --> 00:12:04,100
+No arguing.
+
+80
+00:12:04,100 --> 00:12:05,100
+Save your voices.
+
+81
+00:12:05,100 --> 00:12:07,100
+Between now and tomorrow
+
+82
+00:12:07,100 --> 00:12:09,100
+you're all going to have your tonsils out.
+
+83
+00:12:09,100 --> 00:12:10,100
+And you won't be able to speak for a while.
+
+84
+00:12:10,100 --> 00:12:12,100
+So save your voices till then.
+
+85
+00:12:12,100 --> 00:12:14,100
+Hi, gang. Hi, everybody.
+
+86
+00:12:14,100 --> 00:12:17,100
+Well, what's going on?
+
+87
+00:12:17,100 --> 00:12:19,100
+I sure I am glad to see you, Dr. Stewart.
+
+88
+00:12:19,100 --> 00:12:20,100
+This is a rough group.
+
+89
+00:12:20,100 --> 00:12:23,100
+I didn't want to play charades,
+
+90
+00:12:23,100 --> 00:12:24,100
+so they're angry at me.
+
+91
+00:12:24,100 --> 00:12:27,100
+Why don't you want to play?
+
+92
+00:12:27,100 --> 00:12:29,100
+Because I don't want to be here.
+
+93
+00:12:29,100 --> 00:12:31,100
+I don't want my tonsils out.
+
+94
+00:12:31,100 --> 00:12:32,100
+Why not?
+
+95
+00:12:32,100 --> 00:12:34,100
+Because my birthday is tomorrow.
+
+96
+00:12:34,100 --> 00:12:37,100
+My mother promised me a birthday party with a clown.
+
+97
+00:12:37,100 --> 00:12:39,100
+But you can have one when you go home, Carl.
+
+98
+00:12:39,100 --> 00:12:42,100
+But my birthday is tomorrow.
+
+99
+00:12:42,100 --> 00:12:44,100
+I'm sorry, Carl.
+
+100
+00:12:44,100 --> 00:12:47,100
+Carl, you'll have your party when you go home, Carl
+
+101
+00:12:47,100 --> 00:12:49,100
+But it won't be on my birthday!
+
+102
+00:12:49,100 --> 00:12:54,100
+And you promised me a surprise.
+

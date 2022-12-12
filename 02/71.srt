@@ -1,9 +1,4 @@
-0
-00:0:0,600-->00:1:1,000
 
-email: taotaosong@163.com
-MSN : songtaotao1986@hotmail.com
-QQ : 498783048
 
 1
 00:1:1,600-->00:1:4,600

@@ -1,10 +1,3 @@
-0
-00:0:0,600-->00:1:3,000
-
-email: taotaosong@163.com
-MSN : songtaotao1986@hotmail.com
-QQ : 498783048
-
 1
 00:1:5,600-->00:1:10,600
 OK, Richard. That's terrific.
@@ -126,11 +119,11 @@ Are we ready to go?
 Yeah. Yeah. Let's get in our lines.
 
 31
-00:2:34,600-->00:2:27,600
+00:2:34,600-->00:2:37,600
 We're going to take it slow first.
 
 32
-00:2:27,600-->00:2:39,600
+00:2:37,600-->00:2:39,600
 Stretch up...and we're going to go left first ...
 
 33

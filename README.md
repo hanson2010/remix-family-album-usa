@@ -37,15 +37,20 @@ pip install zhon
 cd remix-family-album-usa
 
 # 改变原始文件编码
+# 替换换行风格
+# 替换或删除第 0 号字幕
 mkdir 01
 for file in orig/*; do
     iconv -f gb18030 -t utf-8 $file -o 01/$(basename $file)
+    sed -i 's/\s*\r$//' 01/$(basename $file)
+    sed -i '1,8d' 01/$(basename $file)
 done
 
 # 删除中文（删除第一个中文字到行尾），以及空白行
 ./remove_zh.py 01 02
 
-# 替换或删除第 0 号字幕，修正人为错误
+# 修正人为错误
+# 后续不要再覆盖此目录
 vi 02/01.srt
 ...
 

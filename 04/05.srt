@@ -1,0 +1,336 @@
+1
+00:09:05,100 --> 00:09:08,100
+Ah! Miss Stewart! Welcome!
+
+2
+00:09:08,100 --> 00:09:09,100
+How are you?
+
+3
+00:09:09,100 --> 00:09:10,100
+Fine, Somsak. And you?
+
+4
+00:09:10,100 --> 00:09:12,100
+Fine, thank you.
+
+5
+00:09:12,100 --> 00:09:13,100
+This is my friend Harry Bennett.
+
+6
+00:09:13,100 --> 00:09:15,100
+Pleased to meet you.
+
+7
+00:09:15,100 --> 00:09:16,100
+Very nice to meet you.
+
+8
+00:09:16,100 --> 00:09:19,100
+Any friend of Miss Stewart's is welcome at Somsak's. Stewart
+
+9
+00:09:19,100 --> 00:09:20,100
+Follow me, please.
+
+10
+00:09:20,100 --> 00:09:22,100
+I like it here.
+
+11
+00:09:22,100 --> 00:09:25,100
+I do, too. I come here often.
+
+12
+00:09:25,100 --> 00:09:29,100
+A special place for special people.
+
+13
+00:09:29,100 --> 00:09:30,100
+Thank you, Somsak.
+
+14
+00:09:30,100 --> 00:09:37,100
+Well! Nice restaurant.
+
+15
+00:09:37,100 --> 00:09:41,100
+Would you like something to drink?
+
+16
+00:09:41,100 --> 00:09:43,100
+Yes, I'd like a glass of ginger ale with ice.
+
+17
+00:09:43,100 --> 00:09:44,100
+Harry, what would you like? Harry
+
+18
+00:09:44,100 --> 00:09:47,100
+Do you have a dry white wine?
+
+19
+00:09:47,100 --> 00:09:49,100
+How about a California chablis?
+
+20
+00:09:49,100 --> 00:09:50,100
+Chablis is fine.
+
+21
+00:09:50,100 --> 00:09:52,100
+What would you like to eat?
+
+22
+00:09:52,100 --> 00:09:55,100
+I'd like the mee krob.
+
+23
+00:09:55,100 --> 00:09:57,100
+Harry, would you like to see a menu? Harry
+
+24
+00:09:57,100 --> 00:09:58,100
+No, it's Ok.
+
+25
+00:09:58,100 --> 00:10:01,100
+I'll have the mee krob also.
+
+26
+00:10:01,100 --> 00:10:04,100
+What is it?
+
+27
+00:10:04,100 --> 00:10:09,100
+Crispy fried noodles. I love them.
+
+28
+00:10:09,100 --> 00:10:11,100
+May I bring you a salad?
+
+29
+00:10:11,100 --> 00:10:12,100
+Oh yes.
+
+30
+00:10:12,100 --> 00:10:13,100
+What do you recommend today?
+
+31
+00:10:13,100 --> 00:10:15,100
+I recommend rose-petal salad.
+
+32
+00:10:15,100 --> 00:10:17,100
+Special for new friends.
+
+33
+00:10:17,100 --> 00:10:19,100
+Rose-petal salad?
+
+34
+00:10:19,100 --> 00:10:21,100
+Why not?
+
+35
+00:10:21,100 --> 00:10:23,100
+I'll take care of everything.
+
+36
+00:10:23,100 --> 00:10:29,100
+I hope you're hungry.
+
+37
+00:10:29,100 --> 00:10:35,100
+What? Oh, yes. Starving. Well, I...
+
+38
+00:10:35,100 --> 00:10:37,100
+Well, I ...
+
+39
+00:10:37,100 --> 00:10:43,100
+What do you do at Universe Toy Company?
+
+40
+00:10:43,100 --> 00:10:46,100
+I'm the vice-president of new toy development.
+
+41
+00:10:46,100 --> 00:10:48,100
+Terrific!
+
+42
+00:10:48,100 --> 00:10:51,100
+I know you 're a CPA.
+
+43
+00:10:51,100 --> 00:10:53,100
+That's true. Harry Bennett,
+
+44
+00:10:53,100 --> 00:10:55,100
+certified public accountant.
+
+45
+00:10:55,100 --> 00:10:56,100
+I love numbers.
+
+46
+00:10:56,100 --> 00:10:58,100
+I do some work for Smith and Dale,
+
+47
+00:10:58,100 --> 00:10:59,100
+Your company's accounting firm.
+
+48
+00:10:59,100 --> 00:11:01,100
+And so...
+
+49
+00:11:01,100 --> 00:11:04,100
+Here we are.
+
+50
+00:11:04,100 --> 00:11:05,100
+Yes.
+
+51
+00:11:05,100 --> 00:11:07,100
+I have a daughter.
+
+52
+00:11:07,100 --> 00:11:09,100
+I know. How old is she?
+
+53
+00:11:09,100 --> 00:11:11,100
+She's nine years old.
+
+54
+00:11:11,100 --> 00:11:13,100
+That's a nice age. What's her name?
+
+55
+00:11:13,100 --> 00:11:14,100
+Michelle. Michelle
+
+56
+00:11:14,100 --> 00:11:17,100
+Do you have a picture of her?
+
+57
+00:11:17,100 --> 00:11:29,100
+She's very pretty.
+
+58
+00:11:29,100 --> 00:11:30,100
+Thank you.
+
+59
+00:11:30,100 --> 00:11:39,100
+Rose-petal salad.
+
+60
+00:11:39,100 --> 00:11:43,100
+And there's a phone call for you, Mr. Bennett. Bennett
+
+61
+00:11:43,100 --> 00:11:44,100
+Excuse me, Susan.
+
+62
+00:11:44,100 --> 00:11:48,100
+I hope nothing is wrong.
+
+63
+00:11:48,100 --> 00:11:50,100
+I'll get the rest of the dinner.
+
+64
+00:11:50,100 --> 00:11:51,100
+Excuse me.
+
+65
+00:11:51,100 --> 00:12:06,100
+Please forgive me, Susan, but...
+
+66
+00:12:06,100 --> 00:12:09,100
+I have to leave. I feel terrible, but...
+
+67
+00:12:09,100 --> 00:12:11,100
+What's the matter?
+
+68
+00:12:11,100 --> 00:12:14,100
+My daughter isn't feeling well.
+
+69
+00:12:14,100 --> 00:12:16,100
+Oh no! Is it serious?
+
+70
+00:12:16,100 --> 00:12:20,100
+I don't know. The baby-sitter says she has a stomachache,
+
+71
+00:12:20,100 --> 00:12:21,100
+and she's crying.
+
+72
+00:12:21,100 --> 00:12:22,100
+I'll have to go home.
+
+73
+00:12:22,100 --> 00:12:23,100
+Will you forgive me?
+
+74
+00:12:23,100 --> 00:12:26,100
+Of course. I'm so sorry for Michelle.
+
+75
+00:12:26,100 --> 00:12:29,100
+And you didn't have a chance to eat.
+
+76
+00:12:29,100 --> 00:12:30,100
+Oh, it's OK.
+
+77
+00:12:30,100 --> 00:12:31,100
+Let me take you home first.
+
+78
+00:12:31,100 --> 00:12:33,100
+No, no. Please, go ahead.
+
+79
+00:12:33,100 --> 00:12:35,100
+It's our first date.
+
+80
+00:12:35,100 --> 00:12:37,100
+We'll make another.
+
+81
+00:12:37,100 --> 00:12:38,100
+Please don't worry.
+
+82
+00:12:38,100 --> 00:12:41,100
+I'll phone you.
+
+83
+00:12:41,100 --> 00:12:45,100
+I hope your daughter is all right. Good-bye.
+
+84
+00:12:45,100 --> 00:12:47,100
+Good-bye.
+

@@ -1,0 +1,320 @@
+1
+00:09:04,100 --> 00:09:06,100
+Excuse me. Is this seat taken?
+
+2
+00:09:06,100 --> 00:09:07,100
+No, it's not taken.
+
+3
+00:09:07,100 --> 00:09:08,100
+Oh, thank you.
+
+4
+00:09:08,100 --> 00:09:10,100
+Oh, let me help you with this.
+
+5
+00:09:10,100 --> 00:09:11,100
+Oh, thank you.
+
+6
+00:09:11,100 --> 00:09:18,100
+Do you want to sit by the window?
+
+7
+00:09:18,100 --> 00:09:21,100
+No, no, no. I like the aisle seat better.
+
+8
+00:09:21,100 --> 00:09:23,100
+Please, you sit by the window.
+
+9
+00:09:23,100 --> 00:09:32,100
+My name is Stewart... Malcolm Stewart.
+
+10
+00:09:32,100 --> 00:09:33,100
+Pleased to meet you.
+
+11
+00:09:33,100 --> 00:09:34,100
+I'm Elsa Tobin. How do you do?
+
+12
+00:09:34,100 --> 00:09:43,100
+Do you live in New York?
+
+13
+00:09:43,100 --> 00:09:45,100
+No, no. I'm from Florida.
+
+14
+00:09:45,100 --> 00:09:50,100
+I am, too. But didn't you just get on?
+
+15
+00:09:50,100 --> 00:09:53,100
+No, no. I just changed my seat.
+
+16
+00:09:53,100 --> 00:09:55,100
+A man next to me was smoking,
+
+17
+00:09:55,100 --> 00:09:58,100
+and smoke really bothers me.
+
+18
+00:09:58,100 --> 00:10:02,100
+Where are you from in Florida?
+
+19
+00:10:02,100 --> 00:10:05,100
+Titusville. It's near Orlando. Titusville
+
+20
+00:10:05,100 --> 00:10:08,100
+Small world. I'm from Titusville, too.
+
+21
+00:10:08,100 --> 00:10:12,100
+Really? What part?
+
+22
+00:10:12,100 --> 00:10:14,100
+My husband and I live near Spaceport.
+
+23
+00:10:14,100 --> 00:10:17,100
+I know that area.
+
+24
+00:10:17,100 --> 00:10:21,100
+My house is only a few miles from Spaceport.
+
+25
+00:10:21,100 --> 00:10:24,100
+Do you still live there?
+
+26
+00:10:24,100 --> 00:10:26,100
+Oh yes, yes. My husband's there now.
+
+27
+00:10:26,100 --> 00:10:30,100
+He couldn't take time off to come to New York with me.
+
+28
+00:10:30,100 --> 00:10:34,100
+Do you still live there?
+
+29
+00:10:34,100 --> 00:10:39,100
+No. I sold the house and the furniture,
+
+30
+00:10:39,100 --> 00:10:44,100
+put a few personal things in an old trunk,
+
+31
+00:10:44,100 --> 00:10:47,100
+and shipped it to my children in New York.
+
+32
+00:10:47,100 --> 00:10:49,100
+That's my destination.
+
+33
+00:10:49,100 --> 00:10:51,100
+Are you married?
+
+34
+00:10:51,100 --> 00:10:54,100
+My wife died four years ago.
+
+35
+00:10:54,100 --> 00:10:58,100
+She was a wonderful woman. A real friend.
+
+36
+00:10:58,100 --> 00:11:03,100
+I'm sorry. Really, I'm sorry.
+
+37
+00:11:03,100 --> 00:11:06,100
+Lots of wonderful memories.
+
+38
+00:11:06,100 --> 00:11:09,100
+We were married almost fifty years.
+
+39
+00:11:09,100 --> 00:11:12,100
+Well, forty-seven, to be exact.
+
+40
+00:11:12,100 --> 00:11:16,100
+John and I celebrate our fortieth anniversary next month.
+
+41
+00:11:16,100 --> 00:11:19,100
+Oh, congratulations! That's nice.
+
+42
+00:11:19,100 --> 00:11:23,100
+What does John do? John
+
+43
+00:11:23,100 --> 00:11:25,100
+He's an aerospace engineer
+
+44
+00:11:25,100 --> 00:11:27,100
+and works for Orlando Aircraft Corporation.
+
+45
+00:11:27,100 --> 00:11:33,100
+He started with them almost forty years ago.
+
+46
+00:11:33,100 --> 00:11:35,100
+What do you do?
+
+47
+00:11:35,100 --> 00:11:40,100
+I just retired. Had my own company.
+
+48
+00:11:40,100 --> 00:11:46,100
+A construction company. Roads, bridges, big stuff.
+
+49
+00:11:46,100 --> 00:11:51,100
+But I just sold it and retired.
+
+50
+00:11:51,100 --> 00:11:57,100
+Excuse me, ma'am. Ticket, please.
+
+51
+00:11:57,100 --> 00:12:03,100
+Would you kindly hold these keys, please?
+
+52
+00:12:03,100 --> 00:12:06,100
+I have a ticket, I know.
+
+53
+00:12:06,100 --> 00:12:09,100
+I was in the smoking section.
+
+54
+00:12:09,100 --> 00:12:10,100
+It's OK, lady. Take your time.
+
+55
+00:12:10,100 --> 00:12:14,100
+I'm sure it's in your purse, Mrs. Tobin.
+
+56
+00:12:14,100 --> 00:12:17,100
+Oh, here it is.
+
+57
+00:12:17,100 --> 00:12:22,100
+And here are your keys.
+
+58
+00:12:22,100 --> 00:12:23,100
+Thank you.
+
+59
+00:12:23,100 --> 00:12:31,100
+Do you have family in New York?
+
+60
+00:12:31,100 --> 00:12:36,100
+No, no. But I do have very close friends in New York City.
+
+61
+00:12:36,100 --> 00:12:39,100
+We like to go to the theater together.
+
+62
+00:12:39,100 --> 00:12:42,100
+You said you have family in New York.
+
+63
+00:12:42,100 --> 00:12:44,100
+Yes, indeed.
+
+64
+00:12:44,100 --> 00:12:48,100
+A son and his wife and their three children--
+
+65
+00:12:48,100 --> 00:12:49,100
+my grandchildren.
+
+66
+00:12:49,100 --> 00:12:51,100
+You must be excited.
+
+67
+00:12:51,100 --> 00:12:54,100
+I can't wait, to see them!
+
+68
+00:12:54,100 --> 00:12:56,100
+Are you going to live with them?
+
+69
+00:12:56,100 --> 00:12:57,100
+Yes.
+
+70
+00:12:57,100 --> 00:12:58,100
+Permanently?
+
+71
+00:12:58,100 --> 00:13:03,100
+Well... they want me to,
+
+72
+00:13:03,100 --> 00:13:06,100
+but it's too early to know for sure.
+
+73
+00:13:06,100 --> 00:13:07,100
+I'm pretty independent.
+
+74
+00:13:07,100 --> 00:13:12,100
+I tried to teach my kids the importance of independence,
+
+75
+00:13:12,100 --> 00:13:17,100
+but I'm not sure I want to be alone.
+
+76
+00:13:17,100 --> 00:13:23,100
+Some people don't mind being alone. I do.
+
+77
+00:13:23,100 --> 00:13:28,100
+I understand. But tell me.
+
+78
+00:13:28,100 --> 00:13:30,100
+Why did you stop working?
+
+79
+00:13:30,100 --> 00:13:39,100
+I retired because... I wanted to be with my family.
+
+80
+00:13:39,100 --> 00:13:44,100
+I didn't want to be alone anymore!
+

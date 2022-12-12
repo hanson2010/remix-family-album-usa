@@ -1,6 +1,7 @@
+
 1
 00:1:2,000-->00:1:4,000
-Excuse me, officer.
+Excuse me, officer. Can you help me?
 
 2
 00:1:4,000-->00:1:4,200
@@ -8,11 +9,11 @@ Sure.
 
 3
 00:1:4,200-->00:1:7,000
-Can you tell me
+Can you tell me how to get to Linden Street in Riverdale?
 
 4
 00:1:7,000-->00:1:12,000
-"Richard Stewart, 46 Linden Street,
+Richard Stewart, 46 Linden Street, Riverdale, New York.
 
 5
 00:1:12,000-->00:1:12,000

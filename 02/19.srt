@@ -1,9 +1,4 @@
-0
-00:0:0,600-->00:1:33,000
 
-email: taotaosong@163.com
-MSN : songtaotao1986@hotmail.com
-QQ : 498783048
 
 1
 00:1:59,600-->00:2:2,600
@@ -170,11 +165,11 @@ about your math teacher or your math homework.
 I want to have fun.
 
 42
-00:3:58,600-->00:3:58,600
+00:3:58,600-->00:3:59,600
 So do I.
 
 43
-00:3:58,600-->00:4:1,600
+00:3:59,600-->00:4:1,600
 I have to turn off the lights,
 
 44
