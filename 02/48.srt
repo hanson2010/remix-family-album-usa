@@ -10,7 +10,7 @@ Please don't tell me.
 
 3
 00:1:27,600-->00:1:29,600
-I recognize you ...
+I recognize you...
 
 4
 00:1:29,600-->00:1:31,600
@@ -29,16 +29,16 @@ Except for the beard, he hasn't changed in fifty years.
 It's Malcolm Stewart!
 
 8
-00:1:36,600-->00:1:28,600
+00:1:36,600-->00:1:37,600
 I know it's Malcolm Stewart.
 
 9
-00:1:28,600-->00:1:40,600
+00:1:37,600-->00:1:40,600
 You haven't changed much in fifty years.
 
 10
 00:1:40,600-->00:1:44,600
-Peggy--Peggy Pendleton! Peggy Peggyy Pendleton
+Peggy... Peggy Pendleton!
 
 11
 00:1:44,600-->00:1:46,600
@@ -130,7 +130,7 @@ And you're living with your children now? In New York?
 
 33
 00:2:34,600-->00:2:36,600
-Pete wrote us and told us. Pete
+Pete wrote us and told us.
 
 34
 00:2:36,600-->00:2:37,600
@@ -194,7 +194,7 @@ Lillian! Oh, my gosh!
 
 49
 00:3:16,600-->00:3:17,600
-Lillian Winters. Lillian Winterrs
+Lillian Winters.
 
 50
 00:3:17,600-->00:3:19,600
@@ -210,7 +210,7 @@ Oh, beautiful as ever, Lillian.
 
 53
 00:3:23,600-->00:3:25,600
-How's Donald? Donald
+How's Donald?
 
 54
 00:3:25,600-->00:3:27,600
@@ -218,7 +218,7 @@ That's OK, Malcolm.
 
 55
 00:3:27,600-->00:3:30,600
-Donald passed away a couple of years ago. Donald
+Donald passed away a couple of years ago.
 
 56
 00:3:30,600-->00:3:31,600
@@ -294,11 +294,11 @@ Well, I am pouring this iced tea
 
 74
 00:4:13,600-->00:4:17,600
-so that we can toast Lillian--and me.
+so that we can toast Lillian and me.
 
 75
 00:4:17,600-->00:4:20,600
-You don't mean to tell me that you and ...
+You don't mean to tell me that you and...
 
 76
 00:4:20,600-->00:4:22,600
@@ -342,7 +342,7 @@ It's wonderful for me.
 
 86
 00:4:42,600-->00:4:46,600
-Lillian will make me a happy man--finally. Lillian
+Lillian will make me a happy man, finally.
 
 87
 00:4:46,600-->00:4:48,600
@@ -374,7 +374,7 @@ That's another surprise.
 
 94
 00:5:3,600-->00:5:7,600
-Lillian and I were married two weeks ago in Detroit. Lillian
+Lillian and I were married two weeks ago in Detroit.
 
 95
 00:5:7,600-->00:5:9,600

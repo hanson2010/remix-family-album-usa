@@ -30,7 +30,7 @@ The next thing they'll see is
 
 8
 00:2:13,600-->00:2:16,600
-this enlargement with the words Family Album, U.S.A. Family Album, U.S.A.
+this enlargement with the words Family Album, U.S.A.
 
 9
 00:2:16,600-->00:2:19,600
@@ -106,7 +106,7 @@ So do I.
 
 27
 00:2:48,600-->00:2:53,600
-Marilyn and I hope to use money from the sales of this book Marilyn
+Marilyn and I hope to use money from the sales of this book
 
 28
 00:2:53,600-->00:2:54,600
@@ -262,15 +262,15 @@ I'm sure they'll like it.
 
 66
 00:4:11,600-->00:4:14,600
-Harvey, how are you? Harvey
+Harvey, how are you?
 
 67
 00:4:14,600-->00:4:16,600
-Mitchell, so nice of you to come. Mitchell
+Mitchell, so nice of you to come.
 
 68
 00:4:16,600-->00:4:18,600
-Richard, this is Mitchell Johnson. Richard
+Richard, this is Mitchell Johnson.
 
 69
 00:4:18,600-->00:4:20,600
@@ -298,7 +298,7 @@ Nice to meet you, Mr. Johnson.
 
 75
 00:4:29,600-->00:4:32,600
-Mitchell has always encouraged new talent. Mitchell
+Mitchell has always encouraged new talent.
 
 76
 00:4:32,600-->00:4:34,600
@@ -356,11 +356,11 @@ Tom is studying photography at NYU. Tom
 He's working with me during the summer months as an intern.
 
 90
-00:5:57,600-->00:5:57,600
+00:5:57,600-->00:5:58,600
 Oh, really?
 
 91
-00:5:57,600-->00:5:59,600
+00:5:58,600-->00:5:59,600
 I'd like to see your work.
 
 92
@@ -441,7 +441,7 @@ I have an autographed one in my office.
 
 111
 00:6:32,600-->00:6:36,600
-Tom, would you give Mr. Johnson Tom
+Tom, would you give Mr. Johnson
 
 112
 00:6:36,600-->00:6:37,600

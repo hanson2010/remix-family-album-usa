@@ -34,7 +34,7 @@ She can't sit around and do nothing.
 
 9
 00:2:19,600-->00:2:20,600
-Philip works late. Philip
+Philip works late.
 
 10
 00:2:20,600-->00:2:22,600
@@ -82,7 +82,7 @@ Mmm. I'm starving.
 
 21
 00:2:44,600-->00:2:45,600
-Um ... where's Mom?
+Um... where's Mom?
 
 22
 00:2:45,600-->00:2:47,600
@@ -109,7 +109,7 @@ Yeah.
 
 28
 00:3:31,600-->00:3:32,600
-Mike and I had a hamburger at the diner. Mike
+Mike and I had a hamburger at the diner.
 
 29
 00:3:32,600-->00:3:33,600

@@ -26,7 +26,7 @@ Whereabouts are you headed?
 
 7
 00:1:33,600-->00:1:36,600
-Pete Waters's farm, near Chesterton. Pete Waters
+Pete Waters's farm, near Chesterton.
 
 8
 00:1:36,600-->00:1:38,600
@@ -34,7 +34,7 @@ I know it well.
 
 9
 00:1:38,600-->00:1:41,600
-Pete Waters's lived around here almost as long as I have. Pete Waters
+Pete Waters's lived around here almost as long as I have.
 
 10
 00:1:41,600-->00:1:45,600
@@ -46,7 +46,7 @@ About fifteen minutes.
 
 12
 00:1:46,600-->00:1:48,600
-There's a shortcut--if you know it.
+There's a shortcut - if you know it.
 
 13
 00:1:48,600-->00:1:50,600
@@ -138,7 +138,7 @@ Ah. OK. That's a dollar and thirty cents change.
 
 35
 00:3:5,600-->00:3:9,600
-There we go ... will make twenty. Thanks.
+There we go... will make twenty. Thanks.
 
 36
 00:3:9,600-->00:3:11,600
@@ -231,7 +231,7 @@ Have a look around. Pete."
 
 59
 00:5:2,600-->00:5:7,600
-Same old Pete Waters. Pete Waters
+Same old Pete Waters.
 
 60
 00:5:7,600-->00:5:9,600

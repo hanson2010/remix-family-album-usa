@@ -29,7 +29,7 @@ and having lunch with you today.
 
 8
 00:1:5,600-->00:1:7,600
-Michelle picked these flowers out for you. Michelle
+Michelle picked these flowers out for you.
 
 9
 00:1:7,600-->00:1:9,600
@@ -61,7 +61,7 @@ Thank you.
 
 16
 00:1:25,600-->00:1:33,600
-Michelle is a little shy. Michelle
+Michelle is a little shy.
 
 17
 00:1:33,600-->00:1:36,600
@@ -69,7 +69,7 @@ I used to be that way when I was her age.
 
 18
 00:1:36,600-->00:1:40,600
-Harry, if Michelle doesn't want to go, Harry
+Harry, if Michelle doesn't want to go,
 
 19
 00:1:40,600-->00:1:41,600
@@ -109,7 +109,7 @@ Would you excuse me?
 
 28
 00:1:57,600-->00:2:4,600
-Sam, get Mr. Levine at Toytown Stores Sam
+Sam, get Mr. Levine at Toytown Stores
 
 29
 00:2:4,600-->00:2:6,600
@@ -129,7 +129,7 @@ He's on the phone.
 
 33
 00:2:17,600-->00:2:22,600
-Mr. Levine, Susan Stewart. Levine
+Mr. Levine, Susan Stewart.
 
 34
 00:2:22,600-->00:2:26,600
@@ -149,7 +149,7 @@ Can you and I meet for drinks tomorrow?
 
 38
 00:2:35,600-->00:2:40,600
-I'd really appreciate it.... Yes.... Thank you....
+I'd really appreciate it... Yes... Thank you...
 
 39
 00:2:40,600-->00:2:43,600
@@ -184,7 +184,7 @@ Well, the crab salad's always a big hit.
 
 47
 00:3:16,600-->00:3:18,600
-Susan, would you like the crab salad? Susan
+Susan, would you like the crab salad?
 
 48
 00:3:18,600-->00:3:19,600
@@ -192,7 +192,7 @@ I'd love the crab salad.
 
 49
 00:3:19,600-->00:3:22,600
-Michelle, would you like to try the crab salad, too? Michelle
+Michelle, would you like to try the crab salad, too?
 
 50
 00:3:22,600-->00:3:23,600
@@ -283,7 +283,7 @@ Enjoy it.
 
 72
 00:4:18,600-->00:4:26,600
-Michelle, can I help you with the lemonade? Michelle
+Michelle, can I help you with the lemonade?
 
 73
 00:4:26,600-->00:4:27,600
@@ -295,7 +295,7 @@ I'll wait for my father.
 
 75
 00:4:28,600-->00:4:33,600
-Michelle, can we have a talk? Michelle
+Michelle, can we have a talk?
 
 76
 00:4:33,600-->00:4:35,600

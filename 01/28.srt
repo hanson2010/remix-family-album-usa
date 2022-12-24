@@ -1,5 +1,4 @@
 
-
 1
 00:2:4,600-->00:2:7,600
 Good morning, Susan. 早安 Susan。

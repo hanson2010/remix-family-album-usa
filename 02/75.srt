@@ -38,7 +38,7 @@ We've got a forty-minute drive into the city.
 
 10
 00:0:57,600-->00:1:6,600
-Welcome home--
+Welcome home,
 
 11
 00:1:6,600-->00:1:8,600
@@ -114,11 +114,11 @@ and I stayed out an extra half hour.
 
 29
 00:1:52,600-->00:1:54,600
-The village was filled with people--the weather was so nice.
+The village was filled with people. The weather was so nice.
 
 30
 00:1:54,600-->00:1:57,600
-Harry's a professional camper, Mom. Harry
+Harry's a professional camper, Mom.
 
 31
 00:1:57,600-->00:1:59,600
@@ -258,7 +258,7 @@ I don't know if I can get to sleep.
 
 65
 00:3:28,600-->00:3:39,600
-Max has stopped crying. Max
+Max has stopped crying.
 
 66
 00:3:39,600-->00:3:43,600
@@ -293,11 +293,11 @@ I think I'm falling asleep.
 Like Max did.
 
 74
-00:4:17,600-->00:4:13,600
+00:4:17,600-->00:4:18,600
 Good night.
 
 75
-00:4:13,600-->00:4:29,600
+00:4:18,600-->00:4:29,600
 Sounds of the country.
 
 76

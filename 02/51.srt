@@ -10,7 +10,7 @@ The pictures you've taken are fabulous, Richard.
 
 3
 00:2:58,600-->00:3:0,600
-Mr. Carlson will love them. Carlson
+Mr. Carlson will love them.
 
 4
 00:3:0,600-->00:3:1,600
@@ -54,7 +54,7 @@ You.
 
 14
 00:3:32,600-->00:3:35,600
-Richard! I haven't brushed my hair. Richard
+Richard! I haven't brushed my hair.
 
 15
 00:3:35,600-->00:3:37,600
@@ -130,7 +130,7 @@ Absolutely.
 
 33
 00:4:45,600-->00:4:52,600
-Well ... what do you think? Do I have my book?
+Well... what do you think? Do I have my book?
 
 34
 00:4:52,600-->00:4:59,600

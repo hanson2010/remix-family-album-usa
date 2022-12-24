@@ -262,7 +262,7 @@ and we have Popo the Clown to entertain you.
 
 66
 00:4:40,600-->00:4:42,600
-And here he is--Popo the Clown.
+And here he is - Popo the Clown.
 
 67
 00:4:42,600-->00:6:9,600
@@ -286,7 +286,7 @@ It's your birthday.
 
 72
 00:6:15,600-->00:6:17,600
-What 's your wish?
+What's your wish?
 
 73
 00:6:17,600-->00:6:18,600

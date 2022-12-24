@@ -70,7 +70,7 @@ It is.
 
 18
 00:2:53,600-->00:2:57,600
-Nat's not as lucky as I am, Robbie. Nat
+Nat's not as lucky as I am, Robbie.
 
 19
 00:2:57,600-->00:2:59,600
@@ -86,7 +86,7 @@ and depends on places like a community center
 
 22
 00:3:5,600-->00:3:8,600
-to be with people--people his own age.
+to be with people, people his own age.
 
 23
 00:3:8,600-->00:3:12,600
@@ -210,7 +210,7 @@ We're just having some cola
 
 53
 00:4:37,600-->00:4:40,600
-before getting to the tough stuff--math.
+before getting to the tough stuff - math.
 
 54
 00:4:40,600-->00:4:44,600
@@ -218,7 +218,7 @@ He'll do anything to avoid getting down to math lessons,
 
 55
 00:4:44,600-->00:4:45,600
-Mr. Stewart. Stewart
+Mr. Stewart.
 
 56
 00:4:45,600-->00:4:48,600
@@ -330,7 +330,7 @@ I know you want to get to it.
 
 83
 00:6:9,600-->00:6:10,600
-Stay ... stay.
+Stay... stay.
 
 84
 00:6:10,600-->00:6:14,600
@@ -362,7 +362,7 @@ We'll talk about it out there.
 
 91
 00:6:25,600-->00:6:28,600
-Thanks. Nice to meet you ... again.
+Thanks. Nice to meet you... again.
 
 92
 00:6:28,600-->00:6:32,600

@@ -116,7 +116,7 @@ Yes. Here they are.
 
 30
 00:1:57,600-->00:2:5,600
-OK. What ... what kind of house did you have in mind?
+OK. What... what kind of house did you have in mind?
 
 31
 00:2:5,600-->00:2:6,600
@@ -172,7 +172,7 @@ I see. Then you don't have any collateral.
 
 44
 00:2:40,600-->00:2:43,600
-Perhaps you could get a guarantor--
+Perhaps you could get a guarantor -
 
 45
 00:2:43,600-->00:2:46,600
@@ -324,7 +324,7 @@ Then there'll be other houses, Marilyn.
 
 82
 00:4:51,600-->00:4:55,600
-Richard has a point. You're just beginning to look. Richard
+Richard has a point. You're just beginning to look.
 
 83
 00:4:55,600-->00:4:57,600

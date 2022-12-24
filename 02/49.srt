@@ -14,7 +14,7 @@ You think you've got what?
 
 4
 00:2:26,600-->00:2:31,600
-Performing arts--performing arts centers.
+Performing arts... performing arts centers.
 
 5
 00:2:31,600-->00:2:34,600
@@ -34,7 +34,7 @@ the New York City Ballet, the New York Philharmonic.
 
 9
 00:3:2,600-->00:3:9,600
-Shubert Alley, center of the theater on Broadway. Shubert Alley
+Shubert Alley, center of the theater on Broadway.
 
 10
 00:3:9,600-->00:3:11,600
@@ -162,7 +162,7 @@ His number is five, five, five, seven, five, three, two.
 
 41
 00:5:17,600-->00:5:24,600
-Five, five, five, seven, five, three, two. 5557532
+Five, five, five, seven, five, three, two.
 
 42
 00:5:24,600-->00:5:29,600
@@ -170,7 +170,7 @@ Hello. Mr. Carlson, please.
 
 43
 00:5:29,600-->00:5:33,600
-Mr. Carlson is busy at the moment. May I help you? Carlson
+Mr. Carlson is busy at the moment. May I help you?
 
 44
 00:5:33,600-->00:5:36,600
@@ -178,7 +178,7 @@ I'd like to make an appointment with him.
 
 45
 00:5:36,600-->00:5:38,600
-And your name is ...?
+And your name is...?
 
 46
 00:5:38,600-->00:5:39,600
@@ -206,7 +206,7 @@ I guess they're trying to set up an appointment for me.
 
 52
 00:6:0,600-->00:6:3,600
-Mr. Stewart, I just spoke to Mr. Carlson. Stewart
+Mr. Stewart, I just spoke to Mr. Carlson. Stewart.
 
 53
 00:6:3,600-->00:6:5,600

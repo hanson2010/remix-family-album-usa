@@ -145,7 +145,7 @@ What else?
 
 37
 00:3:22,600-->00:3:29,600
-Come on, Sam ...
+Come on, Sam.
 
 38
 00:3:29,600-->00:3:32,600
@@ -169,7 +169,7 @@ What for?
 
 43
 00:3:41,600-->00:3:44,600
-To enjoy the simple things in life ...
+To enjoy the simple things in life...
 
 44
 00:3:44,600-->00:3:46,600
@@ -220,11 +220,11 @@ Hmm. It's probably nothing.
 OK, let's get started.
 
 56
-00:4:19,600-->00:4:13,600
+00:4:19,600-->00:4:23,600
 Would you call Priscilla Smith at FAO Schwarz, please?
 
 57
-00:4:13,600-->00:4:24,600
+00:4:23,600-->00:4:24,600
 Right.
 
 58
@@ -317,7 +317,7 @@ What? Who?
 
 80
 00:5:41,600-->00:5:44,600
-Mr. Harry Bennett and his daughter. Harry Bennett
+Mr. Harry Bennett and his daughter.
 
 81
 00:5:44,600-->00:5:45,600
@@ -325,7 +325,7 @@ I remember!
 
 82
 00:5:45,600-->00:5:48,600
-Oh ... Harry!
+Oh... Harry!
 
 83
 00:5:48,600-->00:5:52,600

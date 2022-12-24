@@ -41,7 +41,7 @@ Well, you look good.
 
 11
 00:3:3,600-->00:3:6,600
-What's Harry doing tonight? Harry
+What's Harry doing tonight?
 
 12
 00:3:6,600-->00:3:7,600

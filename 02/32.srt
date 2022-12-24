@@ -93,7 +93,7 @@ Oh, so you don't need something immediately?
 
 24
 00:1:30,600-->00:1:33,600
-No. But in five or six months ...
+No. But in five or six months...
 
 25
 00:1:33,600-->00:1:35,600
@@ -173,7 +173,7 @@ I have a book with photos of some homes in that area.
 
 44
 00:2:14,600-->00:2:18,600
-Now, let's see..
+Now, let's see.
 
 45
 00:2:18,600-->00:2:21,600
@@ -425,7 +425,7 @@ Well, thanks so much for your help and your time,
 
 107
 00:4:45,600-->00:4:46,600
-Mrs. Martinelli. Martinelli
+Mrs. Martinelli.
 
 108
 00:4:46,600-->00:4:48,600

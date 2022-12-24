@@ -1,0 +1,364 @@
+1
+00:00:42,600 --> 00:00:45,600
+Do you like the dress?
+
+2
+00:00:45,600 --> 00:00:46,600
+I love it.
+
+3
+00:00:46,600 --> 00:00:48,600
+I designed it myself.
+
+4
+00:00:48,600 --> 00:00:49,600
+It's beautiful.
+
+5
+00:00:49,600 --> 00:00:51,600
+Are you ready?
+
+6
+00:00:51,600 --> 00:00:53,600
+We're supposed to be there
+
+7
+00:00:53,600 --> 00:00:54,600
+before the guests arrive.
+
+8
+00:00:54,600 --> 00:00:55,600
+I know. I know.
+
+9
+00:00:55,600 --> 00:01:02,600
+Help me with this tie, will you?
+
+10
+00:01:02,600 --> 00:01:04,600
+Honey, I'm scared to death.
+
+11
+00:01:04,600 --> 00:01:09,600
+But this is what you've been working for all these years.
+
+12
+00:01:09,600 --> 00:01:10,600
+No, no.
+
+13
+00:01:10,600 --> 00:01:12,600
+I worked to put together a book of photographs.
+
+14
+00:01:12,600 --> 00:01:13,600
+This is show business.
+
+15
+00:01:13,600 --> 00:01:15,600
+Well, it's all part of the same job.
+
+16
+00:01:15,600 --> 00:01:17,600
+Just relax and enjoy it.
+
+17
+00:01:17,600 --> 00:01:20,600
+You're right.
+
+18
+00:01:20,600 --> 00:01:25,600
+I earned this, and I'm going to enjoy it.
+
+19
+00:01:25,600 --> 00:01:31,600
+As soon as I recover from my nervous breakdown.
+
+20
+00:01:31,600 --> 00:01:36,600
+What are you afraid of?
+
+21
+00:01:36,600 --> 00:01:37,600
+Everything.
+
+22
+00:01:37,600 --> 00:01:39,600
+A critic was there this morning.
+
+23
+00:01:39,600 --> 00:01:40,600
+He probably hates my work.
+
+24
+00:01:40,600 --> 00:01:43,600
+I have to sign copies of my book for a lot of people
+
+25
+00:01:43,600 --> 00:01:44,600
+I never met before.
+
+26
+00:01:44,600 --> 00:01:46,600
+My new shoes hurt my feet...
+
+27
+00:01:46,600 --> 00:01:58,600
+You're going to be a great success.
+
+28
+00:01:58,600 --> 00:02:02,600
+Are you ready?
+
+29
+00:02:02,600 --> 00:02:04,600
+As soon as I get these cuff links on.
+
+30
+00:02:04,600 --> 00:02:05,600
+Let me help.
+
+31
+00:02:05,600 --> 00:02:12,600
+Mom and Dad are already on their way down to the gallery.
+
+32
+00:02:12,600 --> 00:02:20,600
+There! You look very attractive.
+
+33
+00:02:20,600 --> 00:02:23,600
+Thank you.
+
+34
+00:02:23,600 --> 00:02:26,600
+Well, I suppose I've run out of excuses.
+
+35
+00:02:26,600 --> 00:02:29,600
+Mm-hmm. Let's go...
+
+36
+00:02:29,600 --> 00:02:32,600
+Oh, one minute.
+
+37
+00:02:32,600 --> 00:02:35,600
+Before we go to the gallery,
+
+38
+00:02:35,600 --> 00:02:37,600
+I just want to tell you
+
+39
+00:02:37,600 --> 00:02:38,600
+that I never could have done this book
+
+40
+00:02:38,600 --> 00:02:40,600
+without your help and your love.
+
+41
+00:02:40,600 --> 00:02:43,600
+I appreciate it.
+
+42
+00:02:43,600 --> 00:02:45,600
+Thanks.
+
+43
+00:02:45,600 --> 00:02:51,600
+Now, no more stalling.
+
+44
+00:03:00,600 --> 00:03:01,600
+What is it?
+
+45
+00:03:01,600 --> 00:03:02,600
+There's nobody here!
+
+46
+00:03:02,600 --> 00:03:05,600
+Of course not, Richard.
+
+47
+00:03:05,600 --> 00:03:08,600
+Your show doesn't begin until eight thirty.
+
+48
+00:03:08,600 --> 00:03:12,600
+Oh. Right.
+
+49
+00:03:12,600 --> 00:03:16,600
+Richard! Welcome! Good luck tonight!
+
+50
+00:03:16,600 --> 00:03:17,600
+Well, thanks.
+
+51
+00:03:17,600 --> 00:03:19,600
+This is my publisher, Harvey Carlson.
+
+52
+00:03:19,600 --> 00:03:20,600
+You've met my wife Marilyn...
+
+53
+00:03:20,600 --> 00:03:22,600
+Charmed.
+
+54
+00:03:22,600 --> 00:03:24,600
+My mother, Ellen Stewart.
+
+55
+00:03:24,600 --> 00:03:25,600
+Harvey Carlson.
+
+56
+00:03:25,600 --> 00:03:26,600
+It's good to meet you.
+
+57
+00:03:26,600 --> 00:03:29,600
+This is my father, Dr. Philip Stewart...
+
+58
+00:03:29,600 --> 00:03:30,600
+Nice to meet you, Mr. Carlson.
+
+59
+00:03:30,600 --> 00:03:31,600
+My brother Robbie...
+
+60
+00:03:31,600 --> 00:03:32,600
+Hi.
+
+61
+00:03:32,600 --> 00:03:33,600
+Hi.
+
+62
+00:03:33,600 --> 00:03:36,600
+And this is my sister Susan and her husband Harry Bennett
+
+63
+00:03:36,600 --> 00:03:37,600
+and his daughter Michelle.
+
+64
+00:03:37,600 --> 00:03:39,600
+It's nice to meet you.
+
+65
+00:03:39,600 --> 00:03:43,600
+And this gentleman is my grandfather, Malcolm Stewart.
+
+66
+00:03:43,600 --> 00:03:45,600
+Welcome, Mr. Stewart.
+
+67
+00:03:45,600 --> 00:03:48,600
+Well, make yourselves comfortable.
+
+68
+00:03:48,600 --> 00:03:51,600
+There are hors d'oeuvres at the table, fruit punch at the bar.
+
+69
+00:03:51,600 --> 00:03:52,600
+Help yourselves.
+
+70
+00:03:52,600 --> 00:03:55,600
+Can I get you something, Mr. Stewart?
+
+71
+00:03:55,600 --> 00:03:56,600
+No, thank you.
+
+72
+00:03:56,600 --> 00:03:59,600
+You can feel very proud of your grandson, Mr. Stewart.
+
+73
+00:03:59,600 --> 00:04:01,600
+I do.
+
+74
+00:04:01,600 --> 00:04:04,600
+I'm proud of all my grandchildren, Mr. Carlson.
+
+75
+00:04:04,600 --> 00:04:05,600
+Of course.
+
+76
+00:04:05,600 --> 00:04:06,600
+Feel free to look around.
+
+77
+00:04:06,600 --> 00:04:08,600
+If you need anything, just ask.
+
+78
+00:04:08,600 --> 00:04:09,600
+Thank you.
+
+79
+00:04:09,600 --> 00:04:11,600
+Harvey? Harvey
+
+80
+00:04:11,600 --> 00:04:12,600
+Yes?
+
+81
+00:04:12,600 --> 00:04:14,600
+Did Mitchell Johnson's review come out yet?
+
+82
+00:04:14,600 --> 00:04:15,600
+Not yet.
+
+83
+00:04:15,600 --> 00:04:17,600
+The newspapers don't come out till about ten o'clock.
+
+84
+00:04:17,600 --> 00:04:19,600
+When they come out, we'll get it.
+
+85
+00:04:19,600 --> 00:04:20,600
+Thanks.
+
+86
+00:04:20,600 --> 00:04:22,600
+Ready?
+
+87
+00:04:22,600 --> 00:04:25,600
+Yes. Have the people arrived?
+
+88
+00:04:25,600 --> 00:04:26,600
+The guests are waiting.
+
+89
+00:04:26,600 --> 00:04:28,600
+Tom's about to open the doors.
+
+90
+00:04:28,600 --> 00:04:31,600
+Good luck! And stop worrying!
+
+91
+00:04:31,600 --> 00:04:33,600
+They're going to love it.
+

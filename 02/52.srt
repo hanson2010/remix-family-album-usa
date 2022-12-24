@@ -10,7 +10,7 @@ What's wrong?
 
 3
 00:1:56,600-->00:1:58,600
-Carter Boswell! Carter Boswell
+Carter Boswell!
 
 4
 00:1:58,600-->00:2:0,600
@@ -414,7 +414,7 @@ more than reading, writing, and arithmetic.
 
 104
 00:6:1,600-->00:6:4,600
-I want to keep the after-school programs--
+I want to keep the after-school programs -
 
 105
 00:6:4,600-->00:6:6,600
@@ -442,7 +442,7 @@ I plan to get help
 
 111
 00:6:16,600-->00:6:19,600
-from the businessmen and the corporations of Riverdale. Riverdale
+from the businessmen and the corporations of Riverdale.
 
 112
 00:6:19,600-->00:6:21,600

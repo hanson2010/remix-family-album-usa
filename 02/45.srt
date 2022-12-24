@@ -78,7 +78,7 @@ How wonderful! A boy or a girl?
 
 20
 00:1:27,600-->00:1:29,600
-A boy--Max.
+A boy - Max.
 
 21
 00:1:29,600-->00:1:30,600
@@ -97,11 +97,11 @@ Oh, he's adorable!
 And very bright.
 
 25
-00:1:41,600-->00:1:49,600
+00:1:41,600-->00:1:43,600
 Like his father. A real Stewart.
 
 26
-00:1:49,600-->00:1:45,600
+00:1:43,600-->00:1:45,600
 And very good-looking, like his mother.
 
 27
@@ -169,7 +169,7 @@ Let's see ... hotcakes and maple syrup, with scrambled eggs.
 
 43
 00:2:54,600-->00:2:58,600
-Umm ... smell that coffee ... cinnamon and cloves.
+Umm... smell that coffee... cinnamon and cloves.
 
 44
 00:2:58,600-->00:3:0,600
@@ -233,7 +233,7 @@ Mrs. Montefiore told me that Montefiore
 
 59
 00:3:56,600-->00:3:58,600
-George Washington sat at that desk George Washington
+George Washington sat at that desk
 
 60
 00:3:58,600-->00:3:59,600

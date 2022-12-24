@@ -1,0 +1,392 @@
+1
+00:15:23,600 --> 00:15:27,600
+How do you do?
+
+2
+00:15:27,600 --> 00:15:28,600
+Hello.
+
+3
+00:15:28,600 --> 00:15:30,600
+I'm Ralph Riley.
+
+4
+00:15:30,600 --> 00:15:33,600
+I'm Richard Stewart, and this is my wife, Marilyn.
+
+5
+00:15:33,600 --> 00:15:34,600
+Pleased to meet you.
+
+6
+00:15:34,600 --> 00:15:35,600
+Likewise, Mr. Riley.
+
+7
+00:15:35,600 --> 00:15:39,600
+Please, sit down. What can I do for you?
+
+8
+00:15:39,600 --> 00:15:41,600
+We'd like to discuss a mortgage.
+
+9
+00:15:41,600 --> 00:15:43,600
+For a house.
+
+10
+00:15:43,600 --> 00:15:45,600
+Fine. Are you buying a house
+
+11
+00:15:45,600 --> 00:15:47,600
+or are you refinancing your present home?
+
+12
+00:15:47,600 --> 00:15:48,600
+We're planning to buy a house.
+
+13
+00:15:48,600 --> 00:15:51,600
+And we'd like to find out about a mortgage.
+
+14
+00:15:51,600 --> 00:15:53,600
+We are customers of the bank.
+
+15
+00:15:53,600 --> 00:15:56,600
+As a matter of fact, my whole family banks here.
+
+16
+00:15:56,600 --> 00:15:58,600
+I have some questions to ask.
+
+17
+00:15:58,600 --> 00:16:01,600
+Do you own your house or do you rent?
+
+18
+00:16:01,600 --> 00:16:03,600
+Neither.
+
+19
+00:16:03,600 --> 00:16:06,600
+We live with my parents, Dr. and Mrs. Philip Stewart.
+
+20
+00:16:06,600 --> 00:16:10,600
+And how old are you?
+
+21
+00:16:10,600 --> 00:16:11,600
+I'm twenty-nine.
+
+22
+00:16:11,600 --> 00:16:12,600
+I'm thirty.
+
+23
+00:16:12,600 --> 00:16:16,600
+And, Mr. Stewart, what is your occupation?
+
+24
+00:16:16,600 --> 00:16:18,600
+I'm a freelance photographer.
+
+25
+00:16:18,600 --> 00:16:20,600
+And, Mrs. Stewart, are you working?
+
+26
+00:16:20,600 --> 00:16:23,600
+Yes. I'm a designer, and I work in a boutique.
+
+27
+00:16:23,600 --> 00:16:26,600
+Did you bring any savings or salary information?
+
+28
+00:16:26,600 --> 00:16:28,600
+Last year's tax forms?
+
+29
+00:16:28,600 --> 00:16:30,600
+Yes. Here they are.
+
+30
+00:16:30,600 --> 00:16:38,600
+OK. What... what kind of house did you have in mind?
+
+31
+00:16:38,600 --> 00:16:39,600
+We're talking about buying
+
+32
+00:16:39,600 --> 00:16:41,600
+a two-bedroom house in Mount Kisco.
+
+33
+00:16:41,600 --> 00:16:44,600
+Here are the financial details on the house.
+
+34
+00:16:44,600 --> 00:16:45,600
+Thank you.
+
+35
+00:16:45,600 --> 00:16:50,600
+Are you prepared to make a ten-percent down payment?
+
+36
+00:16:50,600 --> 00:16:51,600
+Yes, we are.
+
+37
+00:16:51,600 --> 00:16:54,600
+Payments over thirty years?
+
+38
+00:16:54,600 --> 00:16:55,600
+Yes.
+
+39
+00:16:55,600 --> 00:16:59,600
+Do you think we can get a loan?
+
+40
+00:16:59,600 --> 00:17:05,600
+Well, it depends. Do you own any other property?
+
+41
+00:17:05,600 --> 00:17:06,600
+Any stocks or bonds?
+
+42
+00:17:06,600 --> 00:17:09,600
+No.
+
+43
+00:17:09,600 --> 00:17:13,600
+I see. Then you don't have any collateral.
+
+44
+00:17:13,600 --> 00:17:16,600
+Perhaps you could get a guarantor -
+
+45
+00:17:16,600 --> 00:17:19,600
+someone to sign for the loan for you.
+
+46
+00:17:19,600 --> 00:17:21,600
+Why is that necessary?
+
+47
+00:17:21,600 --> 00:17:23,600
+Since you don't have enough income,
+
+48
+00:17:23,600 --> 00:17:25,600
+and you don't already own any property,
+
+49
+00:17:25,600 --> 00:17:27,600
+the bank needs to be sure
+
+50
+00:17:27,600 --> 00:17:28,600
+you can pay the mortgage every month.
+
+51
+00:17:28,600 --> 00:17:31,600
+A guarantor is responsible for the loan
+
+52
+00:17:31,600 --> 00:17:32,600
+if you can't make the payments.
+
+53
+00:17:32,600 --> 00:17:39,600
+I see. Well, the idea of buying a house is exciting.
+
+54
+00:17:39,600 --> 00:17:42,600
+Thank you, Mr. Riley. We'll read this over carefully.
+
+55
+00:17:42,600 --> 00:17:44,600
+Thank you.
+
+56
+00:17:44,600 --> 00:17:46,600
+Good-bye. Thanks.
+
+57
+00:17:46,600 --> 00:17:48,600
+Good-bye. And hope to see you soon.
+
+58
+00:17:48,600 --> 00:17:50,600
+I hope so, too.
+
+59
+00:17:50,600 --> 00:17:52,600
+Take care.
+
+60
+00:17:52,600 --> 00:17:53,600
+Good-bye.
+
+61
+00:17:53,600 --> 00:18:12,200
+It all sounded so easy
+
+62
+00:18:12,200 --> 00:18:15,600
+until they mentioned needing collateral or a guarantor.
+
+63
+00:18:15,600 --> 00:18:18,600
+We have no collateral.
+
+64
+00:18:18,600 --> 00:18:21,600
+And I don't think it's a good idea
+
+65
+00:18:21,600 --> 00:18:23,600
+to ask Dad to sign as a guarantor.
+
+66
+00:18:23,600 --> 00:18:25,600
+I don't feel right about it.
+
+67
+00:18:25,600 --> 00:18:27,600
+I understand your feelings about it, Richard.
+
+68
+00:18:27,600 --> 00:18:44,600
+Now, tell me, what's the problem?
+
+69
+00:18:44,600 --> 00:18:47,600
+We can get a loan from the bank
+
+70
+00:18:47,600 --> 00:18:49,600
+if we can put up some collateral.
+
+71
+00:18:49,600 --> 00:18:52,600
+And we don't own anything to use as collateral.
+
+72
+00:18:52,600 --> 00:18:56,600
+Or someone can sign with us as a guarantor.
+
+73
+00:18:56,600 --> 00:19:00,600
+Why don't you speak to Dad?
+
+74
+00:19:00,600 --> 00:19:04,600
+No. If we buy a house, I want to be able to handle it alone.
+
+75
+00:19:04,600 --> 00:19:08,600
+Everybody needs help sometimes, Richard.
+
+76
+00:19:08,600 --> 00:19:11,600
+I understand Richard's feelings about it, Ellen.
+
+77
+00:19:11,600 --> 00:19:14,600
+In two or three months, I'll have an advance on my book
+
+78
+00:19:14,600 --> 00:19:15,600
+and be able to put more money down.
+
+79
+00:19:15,600 --> 00:19:18,600
+What about the house in Mount Kisco?
+
+80
+00:19:18,600 --> 00:19:22,600
+Somebody else'll buy it by then.
+
+81
+00:19:22,600 --> 00:19:24,600
+Then there'll be other houses, Marilyn.
+
+82
+00:19:24,600 --> 00:19:28,600
+Richard has a point. You're just beginning to look.
+
+83
+00:19:28,600 --> 00:19:30,600
+We're in no great rush. It's true.
+
+84
+00:19:30,600 --> 00:19:33,600
+This has been a great learning experience for us, Marilyn.
+
+85
+00:19:33,600 --> 00:19:35,600
+Talking to the real-estate agent.
+
+86
+00:19:35,600 --> 00:19:36,600
+Looking at the houses.
+
+87
+00:19:36,600 --> 00:19:39,600
+Talking to the loan officer at the bank.
+
+88
+00:19:39,600 --> 00:19:42,600
+It has been a learning experience. That's true.
+
+89
+00:19:42,600 --> 00:19:46,600
+I think you're doing the right thing. Taking your time.
+
+90
+00:19:46,600 --> 00:19:50,600
+Looking around. Especially with a purchase of this kind.
+
+91
+00:19:50,600 --> 00:19:52,600
+You're talking about a lot of money.
+
+92
+00:19:52,600 --> 00:19:56,600
+We'll call Mrs. Martinelli and tell her to keep looking for us.
+
+93
+00:19:56,600 --> 00:19:58,600
+And I'll call Mr. Riley at the bank
+
+94
+00:19:58,600 --> 00:20:01,600
+and tell him we'll see him in a couple of months.
+
+95
+00:20:01,600 --> 00:20:04,600
+And if you ever need Dad or me to help you ...
+
+96
+00:20:04,600 --> 00:20:05,600
+We know.
+
+97
+00:20:05,600 --> 00:20:08,600
+You know we'll be there for you.
+
+98
+00:20:08,600 --> 00:20:12,600
+It's a Stewart tradition. We're a family.
+

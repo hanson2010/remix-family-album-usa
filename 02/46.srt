@@ -42,7 +42,7 @@ but there's a letter here addressed to you,
 
 11
 00:2:49,600-->00:2:52,600
-Mr. Malcolm Stewart, and it looks like a personal letter. Malcolm Stewarrt
+Mr. Malcolm Stewart, and it looks like a personal letter.
 
 12
 00:2:52,600-->00:2:53,600
@@ -58,7 +58,7 @@ The return name and address is
 
 15
 00:2:57,600-->00:3:0,600
-Pete Waters, RFD Number 1, Chesterton. Pete Waters CChesterton
+Pete Waters, RFD Number 1, Chesterton.
 
 16
 00:3:0,600-->00:3:3,600
@@ -66,7 +66,7 @@ You're joking. Pete Waters?
 
 17
 00:3:3,600-->00:3:7,600
-Pete Waters, RFD Number 1, Chesterton. Pete Waters
+Pete Waters, RFD Number 1, Chesterton.
 
 18
 00:3:7,600-->00:3:8,600
@@ -274,7 +274,7 @@ You think so?
 
 69
 00:5:20,600-->00:5:22,600
-Pete's full of surprises. Pete
+Pete's full of surprises.
 
 70
 00:5:22,600-->00:5:24,600
@@ -302,7 +302,7 @@ I'm kind of excited about going now.
 
 76
 00:5:40,600-->00:5:44,600
-Next weekend ...
+Next weekend...
 
 77
 00:5:44,600-->00:5:47,600

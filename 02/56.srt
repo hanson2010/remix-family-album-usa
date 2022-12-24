@@ -2,7 +2,7 @@
 
 1
 00:0:46,600-->00:0:49,600
-And now for ... something old,
+And now for... something old,
 
 2
 00:0:49,600-->00:0:50,600
@@ -158,7 +158,7 @@ Something borrowed, something blue.
 
 40
 00:3:2,600-->00:3:3,600
-Something old ...
+Something old...
 
 41
 00:3:3,600-->00:3:6,600
@@ -186,11 +186,11 @@ Perfect!
 
 47
 00:3:34,600-->00:3:36,600
-And when you both say, "I do,"
+And when you both say "I do",
 
 48
 00:3:36,600-->00:3:41,600
-Harry will lift this veil over your head Harry
+Harry will lift this veil over your head
 
 49
 00:3:41,600-->00:3:44,600
@@ -202,7 +202,7 @@ Oh, I'm so excited!
 
 51
 00:3:48,600-->00:3:50,600
-When you said, "I do," Marilyn,
+When you said "I do", Marilyn,
 
 52
 00:3:50,600-->00:3:53,600
@@ -242,7 +242,7 @@ to see Susan become Mrs. Harry Bennett.
 
 61
 00:4:14,600-->00:4:17,600
-Before you leave--do I look all right?
+Before you leave, do I look all right?
 
 62
 00:4:17,600-->00:4:21,600
@@ -282,7 +282,7 @@ We'll come upstairs and get you in a little while.
 
 71
 00:4:43,600-->00:4:46,600
-Richard's going to take some wedding pictures Richard
+Richard's going to take some wedding pictures
 
 72
 00:4:46,600-->00:4:47,600
@@ -301,13 +301,13 @@ Are you kidding? Relax?
 
 76
 00:5:14,600-->00:5:17,600
-Susan Stewart ... Susan Stewart
+Susan Stewart...
 
 77
 00:5:17,600-->00:5:20,600
-you are about to become Susan Bennett--
+you are about to become Susan Bennett
 
 78
 00:5:20,600-->00:5:29,600
-Mrs. Harry Bennett. Harry Bennet
+Mrs. Harry Bennett.
 

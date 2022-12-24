@@ -60,7 +60,7 @@ Gerald. Gerald
 
 16
 00:03:01,600 --> 00:03:02,600
-How old are you, Gerald? Gerald
+How old are you, Gerald?
 
 17
 00:03:02,600 --> 00:03:03,600
@@ -112,7 +112,7 @@ Terrific!
 
 29
 00:03:36,600 --> 00:03:41,600
-Give Mommy a kiss, Gerald. Gerald
+Give Mommy a kiss, Gerald.
 
 30
 00:03:41,600 --> 00:03:44,600
@@ -240,7 +240,7 @@ steelworkers, bankers, police, street vendors,
 
 61
 00:05:06,600 --> 00:05:14,600
-ambulance drivers, doctors....
+ambulance drivers, doctors...
 
 62
 00:05:14,600 --> 00:05:16,600
@@ -256,7 +256,7 @@ What's her name?
 
 65
 00:05:21,600 --> 00:05:22,600
-Ellen. Ellen
+Ellen.
 
 66
 00:05:22,600 --> 00:05:26,600
@@ -319,7 +319,7 @@ No. Hispanic.
 Oh no! It's five thirty.
 
 81
-00:06:04,000 --> 00:06:05,600
+00:06:04,600 --> 00:06:05,600
 Will you excuse me?
 
 82
@@ -352,7 +352,7 @@ What's your name?
 
 89
 00:06:17,600 --> 00:06:18,600
-Alexandra. Alexandra
+Alexandra.
 
 90
 00:06:18,600 --> 00:06:20,600

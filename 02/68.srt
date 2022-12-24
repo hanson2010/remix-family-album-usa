@@ -22,7 +22,7 @@ I could probably tell what it requires to fix it up.
 
 6
 00:1:11,600-->00:1:15,600
-How much paint, how many hours of work ...
+How much paint, how many hours of work...
 
 7
 00:1:15,600-->00:1:19,600
@@ -109,7 +109,7 @@ I'd like you to meet my friend Malcolm Stewart.
 
 28
 00:2:36,600-->00:2:38,600
-Malcolm, this is Joanne Thompson. Malcolm
+Malcolm, this is Joanne Thompson.
 
 29
 00:2:38,600-->00:2:41,600
@@ -173,11 +173,11 @@ I'm surprised they're not here.
 
 44
 00:3:12,600-->00:3:16,600
-Robbie left early this morning to meet Alexandra. Robbie
+Robbie left early this morning to meet Alexandra.
 
 45
 00:3:16,600-->00:3:20,600
-Frankly, I thought they'd be here, but ...
+Frankly, I thought they'd be here, but...
 
 46
 00:3:20,600-->00:3:23,600
@@ -193,7 +193,7 @@ I understand you used to be in the construction business,
 
 49
 00:3:29,600-->00:3:30,600
-Malcolm. Malcolm
+Malcolm.
 
 50
 00:3:30,600-->00:3:31,600
@@ -221,7 +221,7 @@ We've got permission to go inside the old building
 
 56
 00:3:46,600-->00:3:48,600
-during the week--
+during the week -
 
 57
 00:3:48,600-->00:3:50,600

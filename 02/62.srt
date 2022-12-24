@@ -186,7 +186,7 @@ Thanks, Grandpa.
 
 47
 00:3:27,600-->00:3:41,600
-Harry, it's the perfect job for you. You'll love it. Harry
+Harry, it's the perfect job for you. You'll love it.
 
 48
 00:3:41,600-->00:3:43,600
@@ -266,7 +266,7 @@ I know.
 
 67
 00:4:25,600-->00:4:28,600
-Craft and Craft is the biggest in the country. Craft and Crraft
+Craft and Craft is the biggest in the country.
 
 68
 00:4:28,600-->00:4:34,600
@@ -301,11 +301,11 @@ A vice-presidency
 
 76
 00:5:5,600-->00:5:7,600
-with the biggest accounting company in the country--
+with the biggest accounting company in the country -
 
 77
 00:5:7,600-->00:5:9,600
-Craft and Craft. Craft and Crraft
+Craft and Craft.
 
 78
 00:5:9,600-->00:5:11,600
@@ -389,5 +389,5 @@ Well, then you feel good about taking it?
 
 98
 00:5:56,600-->00:6:1,600
-Well ... I feel fine about it. Why shouldn't I?
+Well... I feel fine about it. Why shouldn't I?
 

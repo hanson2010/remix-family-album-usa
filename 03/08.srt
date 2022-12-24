@@ -72,7 +72,7 @@ Where are you from in Florida?
 
 19
 00:01:58,600 --> 00:02:01,600
-Titusville. It's near Orlando. Titusville
+Titusville. It's near Orlando.
 
 20
 00:02:01,600 --> 00:02:04,600
@@ -164,7 +164,7 @@ Oh, congratulations! That's nice.
 
 42
 00:03:15,600 --> 00:03:19,600
-What does John do? John
+What does John do?
 
 43
 00:03:19,600 --> 00:03:21,600
@@ -252,7 +252,7 @@ Yes, indeed.
 
 64
 00:04:40,600 --> 00:04:44,600
-A son and his wife and their three children--
+A son and his wife and their three children -
 
 65
 00:04:44,600 --> 00:04:45,600

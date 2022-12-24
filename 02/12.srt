@@ -33,11 +33,11 @@ The main course: steak and potatoes.
 
 9
 00:1:10,600-->00:1:14,600
-Richard, how much broccoli do I need for seven people? Richard
+Richard, how much broccoli do I need for seven people?
 
 10
 00:1:14,600-->00:1:19,600
-Marilyn, I have to tell you something. Marilyn
+Marilyn, I have to tell you something.
 
 11
 00:1:19,600-->00:1:22,600
@@ -121,7 +121,7 @@ Skip, hop, front.
 
 31
 00:2:37,600-->00:2:52,600
-Twist... again.... OK, now... scissors.
+Twist... again... OK, now... scissors.
 
 32
 00:2:52,600-->00:3:0,600
@@ -133,15 +133,15 @@ Yeah. Just wait.
 
 34
 00:3:4,600-->00:3:11,600
-5, 6, 7, go right, 1, 2, back, 5 6 7
+5, 6, 7, go right, 1, 2, back,
 
 35
 00:3:11,600-->00:3:15,600
-2, 3 , 1, 2, 3, pony, pony... 2 3 1 2 33
+2, 3 , 1, 2, 3, pony, pony...
 
 36
 00:3:15,600-->00:3:21,600
-1, 2, 3, kick... 1, 2, 3, kick... pony. 1 2 3
+1, 2, 3, kick... 1, 2, 3, kick... pony.
 
 37
 00:3:21,600-->00:3:27,600
@@ -161,7 +161,7 @@ I can barely move.
 
 41
 00:3:31,600-->00:3:45,600
-2, 3, 4, front. Now we're going to run it off. 2 3 4
+2, 3, 4, front. Now we're going to run it off.
 
 42
 00:3:45,600-->00:3:47,600
@@ -205,7 +205,7 @@ You have to cook dinner for the entire family.
 
 52
 00:4:20,600-->00:4:25,600
-Marilyn, I'm exhausted. I can't move. Marilyn
+Marilyn, I'm exhausted. I can't move.
 
 53
 00:4:25,600-->00:4:28,600

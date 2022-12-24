@@ -22,7 +22,7 @@ People we know?
 
 6
 00:1:2,600-->00:1:5,600
-Friends, teachers....
+Friends, teachers...
 
 7
 00:1:5,600-->00:1:7,600
@@ -106,7 +106,7 @@ I love animals.
 
 27
 00:1:45,600-->00:1:50,600
-To have a friend -- a pal.
+To have a friend - a pal.
 
 28
 00:1:50,600-->00:1:53,600
@@ -118,7 +118,7 @@ And one thing more.
 
 30
 00:1:56,600-->00:1:58,600
-If you're under twenty-one years of age ...
+If you're under 21 years of age...
 
 31
 00:1:58,600-->00:1:59,600
@@ -146,7 +146,7 @@ I'll be back with them.
 
 37
 00:2:7,600-->00:2:9,600
-If the real owners don't come to claim Gemma ...
+If the real owners don't come to claim Gemma...
 
 38
 00:2:9,600-->00:2:11,600
@@ -214,7 +214,7 @@ Bye.
 
 54
 00:2:40,600-->00:2:53,600
-I keep thinking about the dog -- about Gemma,
+I keep thinking about the dog, about Gemma,
 
 55
 00:2:53,600-->00:2:54,600
@@ -434,7 +434,7 @@ Thanks, Robbie.
 
 109
 00:4:53,600-->00:4:56,600
-And the Levinsons thank you for bringing their dog to us. Levinson
+And the Levinsons thank you for bringing their dog to us.
 
 110
 00:4:56,600-->00:4:58,600

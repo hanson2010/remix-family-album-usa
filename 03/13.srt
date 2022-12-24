@@ -36,7 +36,7 @@ You going to the baseball game today?
 
 10
 00:02:36,600 --> 00:02:42,600
-It's a perfect day for it--a little cloudy but nice and warm.
+It's a perfect day for it, a little cloudy but nice and warm.
 
 11
 00:02:42,600 --> 00:02:44,600
@@ -104,7 +104,7 @@ Well, maybe your dad and I could take you fishing with us.
 
 27
 00:03:23,600 --> 00:03:25,600
-I'd like that, but ...
+I'd like that, but...
 
 28
 00:03:25,600 --> 00:03:27,600
@@ -124,7 +124,7 @@ Sure, I can.
 
 32
 00:03:37,600 --> 00:03:42,600
-Robbie says you can't take him to the game today. Robbie
+Robbie says you can't take him to the game today.
 
 33
 00:03:42,600 --> 00:03:44,600
@@ -164,7 +164,7 @@ Remember our first fishing trip?
 
 42
 00:04:00,600 --> 00:04:01,600
-I sure do....
+I sure do...
 
 43
 00:04:01,600 --> 00:04:06,600
@@ -180,7 +180,7 @@ Going fishing?
 
 46
 00:04:10,600 --> 00:04:12,600
-I'm thinking about it....
+I'm thinking about it...
 
 47
 00:04:12,600 --> 00:04:16,600
@@ -280,7 +280,7 @@ It'll be like old times for you and me.
 
 71
 00:05:23,600 --> 00:05:25,600
-And Robbie will love it. Robbie
+And Robbie will love it.
 
 72
 00:05:25,600 --> 00:05:29,600

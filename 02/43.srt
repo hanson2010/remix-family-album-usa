@@ -62,7 +62,7 @@ where would you choose to spend our anniversary?
 
 16
 00:2:30,600-->00:2:34,600
-The Watermill Inn. Watermill Inn
+The Watermill Inn.
 
 17
 00:2:34,600-->00:2:37,600
@@ -114,7 +114,7 @@ has agreed to take care of him for the weekend.
 
 29
 00:3:1,600-->00:3:6,600
-Richard, isn't that too much to ask of your mother? Richard
+Richard, isn't that too much to ask of your mother?
 
 30
 00:3:6,600-->00:3:9,600
@@ -122,7 +122,7 @@ Too much? She loves taking care of Max.
 
 31
 00:3:9,600-->00:3:14,600
-But ... I'll miss him.
+But... I'll miss him.
 
 32
 00:3:14,600-->00:3:17,600
@@ -213,7 +213,7 @@ What?
 
 54
 00:4:22,600-->00:4:29,600
-Are you sure? But ... OK.
+Are you sure? But... OK.
 
 55
 00:4:29,600-->00:4:32,600
@@ -225,11 +225,11 @@ Wait! Don't hang up!
 
 57
 00:4:34,600-->00:4:37,600
-Can you recommend someplace nice--someplace nearby?
+Can you recommend someplace nice - someplace nearby?
 
 58
 00:4:37,600-->00:4:47,600
-Uh--hold it. Old Country Inn?
+Uh, hold it. Old Country Inn?
 
 59
 00:4:47,600-->00:4:52,600
@@ -253,7 +253,7 @@ It won't be the same, but what do you say?
 
 64
 00:5:8,600-->00:5:10,600
-Well ...
+Well...
 
 65
 00:5:10,600-->00:5:12,600
@@ -277,7 +277,7 @@ Yes. This is Richard Stewart.
 
 70
 00:5:29,600-->00:5:32,600
-The desk clerk at the Watemill suggested your inn. Watemill Inn
+The desk clerk at the Watemill suggested your inn.
 
 71
 00:5:32,600-->00:5:34,600
@@ -313,7 +313,7 @@ Yes, we'll be arriving by car about ten o'clock Friday night.
 
 79
 00:5:57,600-->00:6:4,600
-Stewart. S-t-e-w-a-r-t. Thank you. Stewart S t e w a r t
+Stewart. S-t-e-w-a-r-t. Thank you.
 
 80
 00:6:4,600-->00:6:10,600
@@ -325,5 +325,5 @@ are going to have a wonderful, romantic weekend!
 
 82
 00:6:13,600-->00:6:17,600
-Richard, that's the baby. Richard
+Richard, that's the baby.
 

@@ -2,7 +2,7 @@
 
 1
 00:1:43,600-->00:1:46,600
-I really like this one Susan. Do you? Susan
+I really like this one Susan. Do you?
 
 2
 00:1:46,600-->00:1:48,600
@@ -26,11 +26,11 @@ I like blue, too, Daddy.
 
 7
 00:1:59,600-->00:2:2,000
-Try on the skirt and blouse outfit, Michelle--
+Try on the skirt and blouse outfit, Michelle.
 
 8
 00:2:2,000-->00:2:3,600
-the one that Daddy wanted you to wear.
+The one that Daddy wanted you to wear.
 
 9
 00:2:3,600-->00:2:4,600
@@ -54,7 +54,7 @@ I love her very much. She's been a joy.
 
 14
 00:2:17,600-->00:2:20,600
-We're very lucky, the three of us ...
+We're very lucky, the three of us...
 
 15
 00:2:20,600-->00:2:23,600
@@ -66,15 +66,15 @@ We couldn't ask for anything more, could we?
 
 17
 00:2:26,600-->00:2:28,600
-Well ...
+Well...
 
 18
 00:2:28,600-->00:2:33,600
-Well ...? Could we ask for anything more?
+Well...? Could we ask for anything more?
 
 19
 00:2:33,600-->00:2:37,600
-Well ... we ...
+Well... we...
 
 20
 00:2:37,600-->00:2:38,600
@@ -110,7 +110,7 @@ OK.
 
 28
 00:2:58,600-->00:3:7,600
-What did you mean by "well ...?"
+What did you mean by "well"?
 
 29
 00:3:7,600-->00:3:9,600
@@ -202,7 +202,7 @@ in Los Angeles.
 
 51
 00:4:19,600-->00:4:23,600
-Los Angeles? That's a big decision. Los Angeles
+Los Angeles? That's a big decision.
 
 52
 00:4:23,600-->00:4:30,600
@@ -258,7 +258,7 @@ The real discussion comes tomorrow.
 
 65
 00:5:10,600-->00:5:18,600
-Susan, I don't plan to make any decisions Susan
+Susan, I don't plan to make any decisions
 
 66
 00:5:18,600-->00:5:21,600

@@ -17,7 +17,7 @@ Let me think.
 
 5
 00:1:7,600-->00:1:9,600
-Gemma, sit. Gemma
+Gemma, sit.
 
 6
 00:1:9,600-->00:1:10,600
@@ -73,11 +73,11 @@ They came and solved the problem.
 
 19
 00:1:33,600-->00:1:35,600
-Robbie, let's call them. Robbie
+Robbie, let's call them.
 
 20
 00:1:35,600-->00:1:42,600
-Let me see -- ASPCA....
+Let me see. ASPCA...
 
 21
 00:1:42,600-->00:1:48,600
@@ -85,7 +85,7 @@ Here it is.
 
 22
 00:1:48,600-->00:1:50,600
-ASPCA Animal Shelter. ASPCA
+ASPCA Animal Shelter.
 
 23
 00:1:50,600-->00:1:55,600
@@ -260,7 +260,7 @@ Your name?
 
 66
 00:3:58,600-->00:3:59,600
-Robbie Stewart. Robbie Stewart
+Robbie Stewart.
 
 67
 00:3:59,600-->00:4:1,600
@@ -276,7 +276,7 @@ Your address?
 
 70
 00:4:8,600-->00:4:12,600
-46 Linden street, Riverdale. Riverdale
+46 Linden street, Riverdale.
 
 71
 00:4:12,600-->00:4:16,600
@@ -328,7 +328,7 @@ Yes?
 
 83
 00:4:42,600-->00:4:47,600
-If you don't ... can I ... can I adopt the dog?
+If you don't... can I... can I adopt the dog?
 
 84
 00:4:47,600-->00:4:48,600
@@ -336,7 +336,7 @@ Why, yes.
 
 85
 00:4:48,600-->00:4:51,600
-If the owners don't claim the dog in forty-eight hours,
+If the owners don't claim the dog in 48 hours,
 
 86
 00:4:51,600-->00:4:53,600

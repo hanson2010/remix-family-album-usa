@@ -74,7 +74,7 @@ OK, I guess.
 
 19
 00:1:27,600-->00:1:30,600
-Especially when Alexandra gave me a surprise ...
+Especially when Alexandra gave me a surprise...
 
 20
 00:1:30,600-->00:1:31,600
@@ -86,7 +86,7 @@ This!
 
 22
 00:1:32,600-->00:1:35,600
-Alexandra! Alexandra
+Alexandra!
 
 23
 00:1:35,600-->00:1:40,600
@@ -242,15 +242,15 @@ Let's have some music!
 
 61
 00:3:1,600-->00:3:11,600
-Miss Pappas? Pappas
+Miss Pappas?
 
 62
 00:3:11,600-->00:3:12,600
-Mr. Stewart ... Stewart
+Mr. Stewart...
 
 63
 00:3:12,600-->00:3:16,600
-Mrs. Stewart, may I have this dance? Stewart
+Mrs. Stewart, may I have this dance?
 
 64
 00:3:16,600-->00:3:17,600

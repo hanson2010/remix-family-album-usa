@@ -2,7 +2,7 @@
 
 1
 00:0:44,600-->00:0:47,600
-... my slogan is "I care."
+My slogan is "I care".
 
 2
 00:0:47,600-->00:0:52,600
@@ -42,7 +42,7 @@ and I'm running for the open seat on the school board.
 
 11
 00:1:24,600-->00:1:28,600
-My slogan is "I care."
+My slogan is "I care".
 
 12
 00:1:28,600-->00:1:32,600
@@ -50,7 +50,7 @@ What does the word care mean?
 
 13
 00:1:32,600-->00:1:37,600
-... I care about people, not things.
+I care about people, not things.
 
 14
 00:1:37,600-->00:1:40,600
@@ -82,7 +82,7 @@ Leave it to me.
 
 21
 00:1:56,600-->00:2:3,600
-... I mean that when I say "I care",
+I mean that when I say "I care",
 
 22
 00:2:3,600-->00:2:6,600
@@ -110,7 +110,7 @@ in every appliance store in Riverdale,
 
 28
 00:2:21,600-->00:2:22,600
-except Hamlin's. Hamlin
+except Hamlin's.
 
 29
 00:2:22,600-->00:2:24,600
@@ -137,11 +137,11 @@ And guess what?
 I called channel five.
 
 35
-00:2:34,600-->00:2:34,600
+00:2:34,600-->00:2:35,600
 I called channel five.
 
 36
-00:2:34,600-->00:2:36,600
+00:2:35,600-->00:2:36,600
 Their TV news is going to cover it.
 
 37
@@ -165,11 +165,11 @@ Mom, you're going to win!
 I know it!
 
 42
-00:2:46,600-->00:2:46,600
+00:2:46,600-->00:2:47,600
 Hold it, Robbie!
 
 43
-00:2:46,600-->00:2:48,600
+00:2:47,600-->00:2:48,600
 Just cool down.
 
 44
@@ -198,30 +198,30 @@ for the one seat on the Riverdale School Board,
 
 50
 00:3:5,600-->00:3:8,600
-Mrs. Ellen Stewart has taken an early lead. Ellen Stewart
+Mrs. Ellen Stewart has taken an early lead.
 
 51
 00:3:8,600-->00:3:9,600
 She's winning!
 
 52
-00:3:9,600-->00:3:11,600
+00:3:9,600-->00:3:10,600
 Mom, you're winning!
 
 53
-00:3:11,600-->00:3:11,600
-Now returning to other local news ...
+00:3:10,600-->00:3:11,600
+Now returning to other local news...
 
 54
 00:3:11,600-->00:3:12,600
 Riverdale High School Riverdale
 
 55
-00:3:12,600-->00:3:14,600
+00:3:12,600-->00:3:13,600
 beat its rival Horace Mann in baseball today It's too soon to know for certain.
 
 56
-00:3:14,600-->00:3:14,600
+00:3:13,600-->00:3:14,600
 It's too soon to know for certain.
 
 57
@@ -250,7 +250,7 @@ and wait for the final results.
 
 63
 00:3:22,600-->00:3:26,600
-Ellen, why don't you go out to the backyard Ellen
+Ellen, why don't you go out to the backyard
 
 64
 00:3:26,600-->00:3:27,600
@@ -390,7 +390,7 @@ I'm gonna do an article
 
 98
 00:5:31,600-->00:5:33,600
-on "Ellen Stewart--she cares."
+on "Ellen Stewart, she cares".
 
 99
 00:5:33,600-->00:5:36,600
@@ -402,7 +402,7 @@ Good-bye.
 
 101
 00:5:37,600-->00:5:41,600
-Thank you--
+Thank you,
 
 102
 00:5:41,600-->00:5:43,600

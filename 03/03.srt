@@ -11,7 +11,7 @@ Don't worry. She'll be fine.
 You're welcome. Good-bye.
 
 4
-00:00:59,000 --> 00:01:12,000
+00:01:06,500 --> 00:01:12,000
 How are you?
 
 5
@@ -28,7 +28,7 @@ They'll be here soon, and then we'll eat.
 
 8
 00:01:18,000 --> 00:01:21,000
-All right. Is...is Susan coming?
+All right. Is... is Susan coming?
 
 9
 00:01:21,000 --> 00:01:23,000
@@ -39,11 +39,11 @@ Well, she'll be here later.
 She has to work late tonight.
 
 11
-00:01:25,000 --> 00:01:26,000
-And what's Robbie cooking for dinner? Robbie
+00:01:25,000 --> 00:01:27,000
+And what's Robbie cooking for dinner?
 
 12
-00:01:26,000 --> 00:01:29,000
+00:01:27,000 --> 00:01:29,000
 It's a surprise.
 
 13
@@ -52,7 +52,7 @@ I hope it's pasta.
 
 14
 00:01:32,000 --> 00:01:39,000
-Robbie, the dinner was terrific. Robbie
+Robbie, the dinner was terrific.
 
 15
 00:01:39,000 --> 00:01:41,000
@@ -68,7 +68,7 @@ Oh, I forgot dessert.
 
 18
 00:01:46,000 --> 00:01:49,000
-Robbie! Robbie
+Robbie!
 
 19
 00:01:49,000 --> 00:01:50,000
@@ -112,10 +112,10 @@ and one scoop of chocolate for me.
 
 29
 00:02:11,000 --> 00:02:15,000
-Robbie, will you help me serve? Robbie
+Robbie, will you help me serve?
 
 30
-00:02:15,000 --> 00:02:28,000
+00:02:22,500 --> 00:02:28,000
 I keep thinking about that bag of film. Eight rolls.
 
 31
@@ -132,7 +132,7 @@ Don't worry, Richard.
 
 34
 00:02:36,000 --> 00:02:37,000
-Somenoe will find it.
+Someone will find it.
 
 35
 00:02:37,000 --> 00:02:43,000
@@ -144,7 +144,7 @@ Hello.
 
 37
 00:02:50,000 --> 00:02:53,000
-Does Richard Stewart live here? Richard Stewart
+Does Richard Stewart live here?
 
 38
 00:02:53,000 --> 00:02:55,000
@@ -152,7 +152,7 @@ Yes, he's my brother.
 
 39
 00:02:55,000 --> 00:02:57,000
-I'm Robbie...Robbie Stewart.
+I'm Robbie... Robbie Stewart.
 
 40
 00:02:57,000 --> 00:03:00,000
@@ -176,15 +176,15 @@ I'm really glad to see you.
 
 45
 00:03:08,000 --> 00:03:11,000
-I mean...my brother'll be really glad to see you!
+I mean... my brother'll be really glad to see you!
 
 46
 00:03:11,000 --> 00:03:13,000
-Robbie! Who is it? Robbie
+Robbie! Who is it?
 
 47
 00:03:13,000 --> 00:03:16,000
-It's Richard's film! Richard
+It's Richard's film!
 
 48
 00:03:16,000 --> 00:03:19,000
@@ -196,7 +196,7 @@ Come in, please.
 
 50
 00:03:21,000 --> 00:03:28,000
-Alexandra! Alexandra
+Alexandra!
 
 51
 00:03:28,000 --> 00:03:30,000
@@ -208,7 +208,7 @@ Oh, thank you! Thank you!
 
 53
 00:03:33,000 --> 00:03:35,000
-Um...Alexandra, let me introduce you.
+Um... Alexandra, let me introduce you.
 
 54
 00:03:35,000 --> 00:03:37,000
@@ -216,7 +216,7 @@ This is my wife Marilyn.
 
 55
 00:03:37,000 --> 00:03:39,000
-Richard showed me your photo. Richard
+Richard showed me your photo.
 
 56
 00:03:39,000 --> 00:03:40,000
@@ -228,7 +228,7 @@ Oh yes.
 
 58
 00:03:41,000 --> 00:03:42,000
-Richard told us all about you. Richard
+Richard told us all about you.
 
 59
 00:03:42,000 --> 00:03:44,000
@@ -252,7 +252,7 @@ Nice to meet you, Alexandra.
 
 64
 00:03:51,000 --> 00:03:52,000
-And...ah...you met Robbie.
+And... ah... you met Robbie.
 
 65
 00:03:52,000 --> 00:03:55,000
@@ -312,7 +312,7 @@ Thanks. Excuse me.
 
 79
 00:04:18,000 --> 00:04:22,000
-Alexandra's a high-school exchange student from Greece. Alexandra
+Alexandra is a high-school exchange student from Greece.
 
 80
 00:04:22,000 --> 00:04:23,000
@@ -376,7 +376,7 @@ Biology and mathematics.
 
 95
 00:05:00,000 --> 00:05:02,000
-Richard tells me you're a doctor. Richard
+Richard tells me you're a doctor.
 
 96
 00:05:02,000 --> 00:05:04,000

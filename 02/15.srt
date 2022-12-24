@@ -165,7 +165,7 @@ Why are you back so early?
 
 42
 00:2:50,600-->00:2:52,600
-Philip had to go back to the hospital. Philip
+Philip had to go back to the hospital.
 
 43
 00:2:52,600-->00:2:54,600
@@ -205,7 +205,7 @@ We had a good day.
 
 52
 00:3:17,600-->00:3:20,600
-Robbie pulled a boy out of the water. Robbie
+Robbie pulled a boy out of the water.
 
 53
 00:3:20,600-->00:3:22,600

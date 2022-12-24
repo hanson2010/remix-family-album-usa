@@ -2,7 +2,7 @@
 
 1
 00:2:5,600-->00:2:8,600
-Ellen, I'd like your opinion. Ellen
+Ellen, I'd like your opinion.
 
 2
 00:2:8,600-->00:2:9,600
@@ -50,7 +50,7 @@ the baby can stay in your room for a while.
 
 13
 00:2:41,600-->00:2:45,600
-Richard feels we need to find a small house. Richard
+Richard feels we need to find a small house.
 
 14
 00:2:45,600-->00:2:53,600
@@ -58,7 +58,7 @@ I remember when I was pregnant with Richard.
 
 15
 00:2:53,600-->00:2:58,600
-Philip and I were living with Grandma and Grandpa. Philip
+Philip and I were living with Grandma and Grandpa.
 
 16
 00:2:58,600-->00:2:59,600
@@ -114,7 +114,7 @@ They're all alike.
 
 29
 00:3:28,600-->00:3:31,600
-Richard is a real Stewart. Richard
+Richard is a real Stewart.
 
 30
 00:3:31,600-->00:3:34,600

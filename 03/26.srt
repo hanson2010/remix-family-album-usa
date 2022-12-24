@@ -60,7 +60,7 @@ Thanks, Dad.
 
 16
 00:01:28,600 --> 00:01:30,600
-Thanks ... for what?
+Thanks... for what?
 
 17
 00:01:30,600 --> 00:01:32,600
@@ -68,7 +68,7 @@ Thanks for hearing me out. And ...
 
 18
 00:01:32,600 --> 00:01:34,600
-And ...?
+And...?
 
 19
 00:01:34,600 --> 00:01:37,600
@@ -80,7 +80,7 @@ Well, thank you, Robbie. Thank you.
 
 21
 00:01:41,600 --> 00:01:56,600
-Philip Stewart! Philip Stewart
+Philip Stewart!
 
 22
 00:01:56,600 --> 00:01:58,600
@@ -88,7 +88,7 @@ It's great to see you!
 
 23
 00:01:58,600 --> 00:02:03,600
-Charley Rafer--you look as young as ever. Charley Rafer
+Charley Rafer, you look as young as ever.
 
 24
 00:02:03,600 --> 00:02:06,600
@@ -104,15 +104,15 @@ Yes, this is my youngest son Robbie.
 
 27
 00:02:11,600 --> 00:02:13,600
-Robbie, I want you to meet Robbie
+Robbie, I want you to meet
 
 28
 00:02:13,600 --> 00:02:16,600
-one of the best tennis players on the Michigan team--
+one of the best tennis players on the Michigan team -
 
 29
 00:02:16,600 --> 00:02:17,600
-Charley Rafer. Charley Rafer
+Charley Rafer.
 
 30
 00:02:17,600 --> 00:02:19,600
@@ -132,7 +132,7 @@ Frankly, neither was I.
 
 34
 00:02:26,600 --> 00:02:29,600
-Charley was the star of the team. Charley
+Charley was the star of the team.
 
 35
 00:02:29,600 --> 00:02:31,600
@@ -152,7 +152,7 @@ Doesn't show.
 
 39
 00:02:36,600 --> 00:02:37,600
-How's Ellen? Ellen
+How's Ellen?
 
 40
 00:02:37,600 --> 00:02:39,600
@@ -160,7 +160,7 @@ Fine, thank you.
 
 41
 00:02:39,600 --> 00:02:41,600
-And how's Marge? Marge
+And how's Marge?
 
 42
 00:02:41,600 --> 00:02:45,600
@@ -252,7 +252,7 @@ What kinds of articles have you written?
 
 64
 00:03:30,600 --> 00:03:34,600
-All kinds--sports, editorials, theater reviews.
+All kinds - sports, editorials, theater reviews.
 
 65
 00:03:34,600 --> 00:03:36,600
@@ -276,7 +276,7 @@ Not until recently.
 
 70
 00:03:44,600 --> 00:03:47,600
-Michigan has a fine School of Journalism. Michigan
+Michigan has a fine School of Journalism.
 
 71
 00:03:47,600 --> 00:03:50,600

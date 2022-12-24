@@ -65,15 +65,15 @@ Last but not least,
 
 17
 00:3:21,600-->00:3:25,600
-the reason my apple pie is famous--cinnamon.
+the reason my apple pie is famous - cinnamon.
 
 18
 00:3:25,600-->00:3:27,600
-Cinnamon ...
+Cinnamon.
 
 19
 00:3:27,600-->00:3:31,600
-Ellen, where's the cinnamon? Ellen
+Ellen, where's the cinnamon?
 
 20
 00:3:31,600-->00:3:33,600
@@ -165,7 +165,7 @@ It's cold outside.
 
 42
 00:4:41,600-->00:4:47,600
-Alexandra might call. Alexandra
+Alexandra might call.
 
 43
 00:4:47,600-->00:4:49,600
@@ -185,11 +185,11 @@ Uh, why does he always have to slam the door?
 
 47
 00:5:0,600-->00:5:17,600
-Hello.... Hello, Alexandra. How are you? ... Fine.
+Hello... Hello, Alexandra. How are you? Fine.
 
 48
 00:5:17,600-->00:5:19,600
-Robbie just went to the store. Robbie
+Robbie just went to the store.
 
 49
 00:5:19,600-->00:5:20,600
@@ -201,7 +201,7 @@ He said he'll call you.
 
 51
 00:5:21,600-->00:5:27,600
-... Oh, oh, I see.... Oh ... certainly.
+Oh, oh, I see... Oh... certainly.
 
 52
 00:5:27,600-->00:5:29,600
@@ -209,7 +209,7 @@ Well, do you have the phone number there?
 
 53
 00:5:29,600-->00:5:35,600
-... Oh ... I see.... Please, I know he wants to talk to you....
+Oh... I see... Please, I know he wants to talk to you...
 
 54
 00:5:35,600-->00:5:37,600
@@ -221,7 +221,7 @@ and happy Thanksgiving to you and your family, too.
 
 56
 00:5:40,600-->00:5:44,600
-Try to come by later for dessert.... Bye.
+Try to come by later for dessert. Bye.
 
 57
 00:5:44,600-->00:5:48,600
@@ -273,7 +273,7 @@ Thanks, Son.
 
 69
 00:6:31,600-->00:6:35,600
-Alexandra called. Alexandra
+Alexandra called.
 
 70
 00:6:35,600-->00:6:36,600
@@ -333,7 +333,7 @@ He missed a phone call.
 
 84
 00:7:15,600-->00:7:16,600
-From ...?
+From...?
 
 85
 00:7:16,600-->00:7:18,600
@@ -341,7 +341,7 @@ Yes, Alexandra.
 
 86
 00:7:18,600-->00:7:25,600
-It's nice to see young love.... Oh, to be young again!
+It's nice to see young love... Oh, to be young again!
 
 87
 00:7:25,600-->00:7:27,600

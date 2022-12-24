@@ -1,7 +1,7 @@
 
 1
 00:0:53,600-->00:0:56,600
-Sam, would you come in, please? Sam
+Sam, would you come in, please?
 
 2
 00:0:56,600-->00:1:1,600
@@ -97,7 +97,7 @@ Simply this.
 
 25
 00:1:50,600-->00:1:53,600
-John Marchetta runs this company. John Marchetta
+John Marchetta runs this company.
 
 26
 00:1:53,600-->00:1:54,600

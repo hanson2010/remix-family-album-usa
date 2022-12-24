@@ -144,7 +144,7 @@ and not feel a thing!
 
 37
 00:04:42,600 --> 00:04:52,600
-The bet is -- I win, and you cook dinner for the entire family.
+The bet is, I win, and you cook dinner for the entire family.
 
 38
 00:04:52,600 --> 00:04:55,600
@@ -164,11 +164,11 @@ His number is 555-8842.
 
 42
 00:05:05,600 --> 00:05:07,600
-The advanced class starts at ten o'clock.
+The advanced class starts at 10 o'clock.
 
 43
 00:05:07,600 --> 00:05:08,600
-Well, it's eight twenty now.
+Well, it's 8:20 now.
 
 44
 00:05:08,600 --> 00:05:11,600
@@ -180,7 +180,7 @@ Give him a call.
 
 46
 00:05:13,600 --> 00:05:27,600
-Davis Aerobics Center for Good Health. Davis
+Davis Aerobics Center for Good Health.
 
 47
 00:05:27,600 --> 00:05:28,600

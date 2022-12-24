@@ -1,0 +1,228 @@
+1
+00:09:20,600 --> 00:09:22,600
+Hello. What can I do for you?
+
+2
+00:09:22,600 --> 00:09:24,600
+Hi. Fill 'er up.
+
+3
+00:09:24,600 --> 00:09:25,600
+I need a full tank.
+
+4
+00:09:25,600 --> 00:09:26,600
+Check the hood?
+
+5
+00:09:26,600 --> 00:09:28,600
+No, thanks.
+
+6
+00:09:28,600 --> 00:09:38,600
+Whereabouts are you headed?
+
+7
+00:09:38,600 --> 00:09:41,600
+Pete Waters's farm, near Chesterton.
+
+8
+00:09:41,600 --> 00:09:43,600
+I know it well.
+
+9
+00:09:43,600 --> 00:09:46,600
+Pete Waters's lived around here almost as long as I have.
+
+10
+00:09:46,600 --> 00:09:50,600
+How long is it going to take for me to get there?
+
+11
+00:09:50,600 --> 00:09:51,600
+About fifteen minutes.
+
+12
+00:09:51,600 --> 00:09:53,600
+There's a shortcut - if you know it.
+
+13
+00:09:53,600 --> 00:09:55,600
+No, I don't.
+
+14
+00:09:55,600 --> 00:09:58,600
+Could you tell me how to use the shortcut?
+
+15
+00:09:58,600 --> 00:10:01,600
+Sure. You take the next left turn.
+
+16
+00:10:01,600 --> 00:10:03,600
+You'll see a stop sign.
+
+17
+00:10:03,600 --> 00:10:05,600
+Make a right at the stop sign.
+
+18
+00:10:05,600 --> 00:10:09,600
+Stay on that road, and you'll cross a blue bridge.
+
+19
+00:10:09,600 --> 00:10:12,600
+Then you'll see a big old red barn.
+
+20
+00:10:12,600 --> 00:10:14,600
+That's the back of Pete Waters's place.
+
+21
+00:10:14,600 --> 00:10:19,600
+That's quite a difference from the directions that Pete sent me.
+
+22
+00:10:19,600 --> 00:10:24,600
+Now, if you take that route, it's probably a lot simpler,
+
+23
+00:10:24,600 --> 00:10:26,600
+but it'll take you ten minutes longer.
+
+24
+00:10:26,600 --> 00:10:32,600
+OK. Let me repeat it.
+
+25
+00:10:32,600 --> 00:10:36,600
+I take the next left turn to the stop sign.
+
+26
+00:10:36,600 --> 00:10:41,600
+Then a right across a blue bridge,
+
+27
+00:10:41,600 --> 00:10:44,600
+and then a big red barn.
+
+28
+00:10:44,600 --> 00:10:46,600
+Can't miss it.
+
+29
+00:10:46,600 --> 00:10:50,600
+How much do I owe you?
+
+30
+00:10:50,600 --> 00:10:54,600
+Well, that'll be eighteen dollars and seventy cents.
+
+31
+00:10:54,600 --> 00:10:57,600
+No charge for the cleanup.
+
+32
+00:10:57,600 --> 00:10:58,600
+It's on the house.
+
+33
+00:10:58,600 --> 00:11:01,600
+Well, here's a twenty.
+
+34
+00:11:01,600 --> 00:11:10,600
+Ah. OK. That's a dollar and thirty cents change.
+
+35
+00:11:10,600 --> 00:11:14,600
+There we go... will make twenty. Thanks.
+
+36
+00:11:14,600 --> 00:11:16,600
+Thank you.
+
+37
+00:11:16,600 --> 00:11:18,600
+And thanks for the directions.
+
+38
+00:11:56,600 --> 00:11:59,600
+This must be Pete's barn.
+
+39
+00:11:59,600 --> 00:12:01,600
+Turn right to the house.
+
+40
+00:12:12,600 --> 00:12:13,600
+Hi.
+
+41
+00:12:13,600 --> 00:12:14,600
+Hi. What can I do for you?
+
+42
+00:12:14,600 --> 00:12:16,600
+Is this the Pete Waters farm?
+
+43
+00:12:16,600 --> 00:12:17,600
+It is.
+
+44
+00:12:17,600 --> 00:12:19,600
+I'm a friend of Pete's.
+
+45
+00:12:19,600 --> 00:12:20,600
+I'm looking for the house.
+
+46
+00:12:20,600 --> 00:12:21,600
+It's just over yonder.
+
+47
+00:12:21,600 --> 00:12:22,600
+Keep along this road
+
+48
+00:12:22,600 --> 00:12:23,600
+till you get to the end of the fence.
+
+49
+00:12:23,600 --> 00:12:24,600
+You'll see the chicken house.
+
+50
+00:12:24,600 --> 00:12:26,600
+His house is on the left.
+
+51
+00:12:26,600 --> 00:12:27,600
+Well, thanks.
+
+52
+00:12:58,600 --> 00:13:01,600
+"Have gone to the railroad station.
+
+53
+00:13:01,600 --> 00:13:03,600
+Back soon with a surprise.
+
+54
+00:13:03,600 --> 00:13:05,600
+Make yourself at home.
+
+55
+00:13:05,600 --> 00:13:07,600
+Have a look around. Pete."
+
+56
+00:13:07,600 --> 00:13:12,600
+Same old Pete Waters.
+
+57
+00:13:12,600 --> 00:13:14,600
+Always full of surprises.
+

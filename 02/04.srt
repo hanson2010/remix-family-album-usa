@@ -10,7 +10,7 @@ Sure, what do you want?
 
 3
 00:2:8,000-->00:2:11,000
-Where is 83 Wooster Street? Wooster
+Where is 83 Wooster Street?
 
 4
 00:2:11,000-->00:2:14,000
@@ -50,7 +50,7 @@ No. Thank you. I have a dinner date.
 
 13
 00:2:30,000-->00:2:55,000
-555-9470...and it's busy.... 555-9470
+555-9470... and it's busy.
 
 14
 00:2:55,000-->00:3:1,000
@@ -58,7 +58,7 @@ Try again.
 
 15
 00:3:1,000-->00:3:11,000
-555-9470...and it's still busy. 555-9470
+555-9470... and it's still busy.
 
 16
 00:3:11,000-->00:3:20,000
@@ -74,7 +74,7 @@ Yes. Wooster Street is two blocks,
 
 19
 00:3:26,000-->00:3:33,000
-and 83 is to the right, about two houses. 83
+and 83 is to the right, about two houses.
 
 20
 00:3:33,000-->00:3:35,000
@@ -90,7 +90,7 @@ Who is it?
 
 23
 00:4:8,000-->00:4:10,000
-Harry Bennett. Is this Susan? Harry Bennett
+Harry Bennett. Is this Susan?
 
 24
 00:4:10,000-->00:4:11,000
@@ -138,7 +138,7 @@ Oh, I'd like you to meet my sister-in-law Marilyn.
 
 35
 00:4:41,000-->00:4:44,000
-Marilyn Stewart, this is Harry Bennett. Marilyn Stewart
+Marilyn Stewart, this is Harry Bennett.
 
 36
 00:4:44,000-->00:4:45,000
@@ -178,7 +178,7 @@ and leave the number with the baby-sitter.
 
 45
 00:4:58,000-->00:5:6,000
-Sure. The number is... five five five...seventeen twenty.
+Sure. The number is... five five five... seventeen twenty.
 
 46
 00:5:6,000-->00:5:10,000
@@ -186,7 +186,7 @@ May I use the phone?
 
 47
 00:5:10,000-->00:5:23,000
-Five five five...one seven two oh. Hello? 555-1720
+Five five five...one seven two oh. Hello?
 
 48
 00:5:23,000-->00:5:27,000
@@ -198,11 +198,11 @@ Can I speak to Betty?
 
 50
 00:5:28,000-->00:5:32,000
-I want to leave the phone number of the restaurant....
+I want to leave the phone number of the restaurant...
 
 51
 00:5:32,000-->00:5:37,000
-Hi, Betty. I'll be at five five five...seventeen twenty.
+Hi, Betty. I'll be at five five five... seventeen twenty.
 
 52
 00:5:37,000-->00:5:40,000

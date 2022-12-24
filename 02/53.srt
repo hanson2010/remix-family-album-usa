@@ -46,7 +46,7 @@ Can I speak with Mr. or Mrs. Anderson?
 
 12
 00:1:8,600-->00:1:9,600
-Mr. Nelson. Nelson
+Mr. Nelson.
 
 13
 00:1:9,600-->00:1:11,600
@@ -118,7 +118,7 @@ Everyone saw the story in the Riverdale newspaper.
 
 30
 00:1:35,600-->00:1:37,600
-Mr. Maxwell was very kind Maxwell
+Mr. Maxwell was very kind
 
 31
 00:1:37,600-->00:1:38,600
@@ -130,7 +130,7 @@ It helps enormously.
 
 33
 00:1:40,600-->00:1:43,600
-Everybody in Riverdale reads his paper. Riverdale
+Everybody in Riverdale reads his paper.
 
 34
 00:1:43,600-->00:1:46,600
@@ -158,7 +158,7 @@ Hello, darling.
 
 40
 00:1:53,600-->00:1:54,600
-May I ... may I help?
+May I... may I help?
 
 41
 00:1:54,600-->00:1:56,600
@@ -182,11 +182,11 @@ Hey, everybody,
 
 46
 00:2:5,600-->00:2:8,600
-Mrs. Greenberg is on the phone. Greenberg
+Mrs. Greenberg is on the phone.
 
 47
 00:2:8,600-->00:2:10,600
-She says Carter Boswell is on the TV right now--
+She says Carter Boswell is on the TV right now -
 
 48
 00:2:10,600-->00:2:11,600
@@ -198,11 +198,11 @@ What channel?
 
 50
 00:2:12,600-->00:2:16,600
-Five. 5
+Five.
 
 51
 00:2:16,600-->00:2:22,600
-... and if you ask what I care about, I'll tell you.
+And if you ask what I care about, I'll tell you.
 
 52
 00:2:22,600-->00:2:27,600
@@ -214,7 +214,7 @@ I care about more lockers for the teachers.
 
 54
 00:2:29,600-->00:2:33,600
-I care about new fixtures in the hallways--
+I care about new fixtures in the hallways,
 
 55
 00:2:33,600-->00:2:36,600
@@ -262,7 +262,7 @@ You have to go on television, too.
 
 66
 00:3:10,600-->00:3:13,600
-Boswell's a powerful speaker. Boswell
+Boswell's a powerful speaker.
 
 67
 00:3:13,600-->00:3:17,600

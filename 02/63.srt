@@ -1,4 +1,3 @@
-QQ : 498783048
 
 1
 00:0:50,000-->00:0:54,600
@@ -54,7 +53,7 @@ You're right. How do you feel about it?
 
 14
 00:1:29,600-->00:1:34,600
-Well, I really wouldn't want to move, but ...
+Well, I really wouldn't want to move, but...
 
 15
 00:1:34,600-->00:1:36,600
@@ -150,7 +149,7 @@ Really, Harry.
 
 38
 00:2:37,600-->00:2:39,600
-Michelle and I have all kinds of feelings Michelle
+Michelle and I have all kinds of feelings
 
 39
 00:2:39,600-->00:2:42,600
@@ -226,7 +225,7 @@ But, Daddy, I thought ...
 
 57
 00:3:30,600-->00:3:33,600
-Harry, you didn't turn it down because of me ... Harry
+Harry, you didn't turn it down because of me... Harry
 
 58
 00:3:33,600-->00:3:34,600

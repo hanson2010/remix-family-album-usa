@@ -18,7 +18,7 @@ Please sit down, Mr. Stewart.
 
 5
 00:0:48,600-->00:0:50,600
-Mr. Carlson will be with you shortly. Carlson
+Mr. Carlson will be with you shortly.
 
 6
 00:0:50,600-->00:0:51,600
@@ -122,15 +122,15 @@ how would you do it?
 
 31
 00:2:23,600-->00:2:28,600
-Well, I'd describe it as a book which is a ...
+Well, I'd describe it as a book which is a...
 
 32
 00:2:28,600-->00:2:31,600
-a portrait of the United States--
+a portrait of the United States -
 
 33
 00:2:31,600-->00:2:35,600
-the places, the people--mostly the people.
+the places, the people, mostly the people.
 
 34
 00:2:35,600-->00:2:39,600
@@ -146,11 +146,11 @@ A photographic journey.
 
 37
 00:2:44,600-->00:2:46,600
-These are wonderful--
+These are wonderful.
 
 38
 00:2:46,600-->00:2:49,600
-these photos in your performing arts section.
+These photos in your performing arts section.
 
 39
 00:2:49,600-->00:2:52,600
@@ -162,7 +162,7 @@ I'm glad you like them.
 
 41
 00:2:53,600-->00:2:56,600
-I do, but ...
+I do, but...
 
 42
 00:2:56,600-->00:2:58,600
@@ -210,7 +210,7 @@ The mimes.
 
 53
 00:3:30,600-->00:3:32,600
-Richard, if you go out Richard
+Richard, if you go out
 
 54
 00:3:32,600-->00:3:34,600

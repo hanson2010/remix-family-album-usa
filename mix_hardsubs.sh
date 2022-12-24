@@ -24,3 +24,4 @@ ffmpeg -i video/FAUSA_23.mp4 -c:v libx265 -tag:v hvc1 -filter:v unsharp -filter:
 ffmpeg -i video/FAUSA_24.mp4 -c:v libx265 -tag:v hvc1 -filter:v unsharp -filter:v subtitles=final/24.srt -c:a copy "video/FAUSA_24_Parting Friends.mkv"
 ffmpeg -i video/FAUSA_25.mp4 -c:v libx265 -tag:v hvc1 -filter:v unsharp -filter:v subtitles=final/25.srt -c:a copy "video/FAUSA_25_Country Music.mkv"
 ffmpeg -i video/FAUSA_26.mp4 -c:v libx265 -tag:v hvc1 -filter:v unsharp -filter:v subtitles=final/26.srt -c:a copy "video/FAUSA_26_Opening Night.mkv"
+

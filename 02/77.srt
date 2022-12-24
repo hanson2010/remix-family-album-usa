@@ -102,7 +102,7 @@ I never met before.
 
 26
 00:1:44,600-->00:1:46,600
-My new shoes hurt my feet ...
+My new shoes hurt my feet...
 
 27
 00:1:46,600-->00:1:58,600
@@ -138,7 +138,7 @@ Well, I suppose I've run out of excuses.
 
 35
 00:2:26,600-->00:2:29,600
-Mm-hmm. Let's go ...
+Mm-hmm. Let's go...
 
 36
 00:2:29,600-->00:2:32,600
@@ -197,7 +197,7 @@ Oh. Right.
 
 50
 00:3:12,600-->00:3:16,600
-Richard! Welcome! Good luck tonight! Richard
+Richard! Welcome! Good luck tonight!
 
 51
 00:3:16,600-->00:3:17,600
@@ -209,7 +209,7 @@ This is my publisher, Harvey Carlson.
 
 53
 00:3:19,600-->00:3:20,600
-You've met my wife Marilyn ...
+You've met my wife Marilyn...
 
 54
 00:3:20,600-->00:3:22,600
@@ -229,7 +229,7 @@ It's good to meet you.
 
 58
 00:3:26,600-->00:3:29,600
-This is my father, Dr. Philip Stewart ...
+This is my father, Dr. Philip Stewart...
 
 59
 00:3:29,600-->00:3:30,600
@@ -237,7 +237,7 @@ Nice to meet you, Mr. Carlson.
 
 60
 00:3:30,600-->00:3:31,600
-My brother Robbie ...
+My brother Robbie...
 
 61
 00:3:31,600-->00:3:32,600
@@ -325,7 +325,7 @@ Yes?
 
 82
 00:4:12,600-->00:4:14,600
-Did Mitchell Johnson's review come out yet? Mitchell Johnsson
+Did Mitchell Johnson's review come out yet?
 
 83
 00:4:14,600-->00:4:15,600
@@ -357,7 +357,7 @@ The guests are waiting.
 
 90
 00:4:26,600-->00:4:28,600
-Tom's about to open the doors. Tom
+Tom's about to open the doors.
 
 91
 00:4:28,600-->00:4:31,600

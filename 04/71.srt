@@ -1,0 +1,352 @@
+1
+00:10:54,600 --> 00:10:57,600
+You ready for the next problem?
+
+2
+00:10:57,600 --> 00:10:59,600
+You know what?
+
+3
+00:10:59,600 --> 00:11:01,600
+I can't look at another number.
+
+4
+00:11:01,600 --> 00:11:02,600
+How about a lemonade break?
+
+5
+00:11:02,600 --> 00:11:03,600
+Sure.
+
+6
+00:11:03,600 --> 00:11:08,600
+Oh, by the way,
+
+7
+00:11:08,600 --> 00:11:12,600
+when is your plane reservation for your flight to Athens?
+
+8
+00:11:12,600 --> 00:11:15,600
+Sunday. Why?
+
+9
+00:11:15,600 --> 00:11:17,600
+Would you be able to come over Saturday night?
+
+10
+00:11:17,600 --> 00:11:19,600
+Yes.
+
+11
+00:11:19,600 --> 00:11:21,600
+I should be finished packing by then.
+
+12
+00:11:21,600 --> 00:11:24,600
+My folks are giving me a little graduation party.
+
+13
+00:11:24,600 --> 00:11:25,600
+Terrific!
+
+14
+00:11:25,600 --> 00:11:28,600
+I'll pick you up.
+
+15
+00:11:28,600 --> 00:11:29,600
+That isn't necessary.
+
+16
+00:11:29,600 --> 00:11:31,600
+My dad's letting me borrow the car.
+
+17
+00:11:31,600 --> 00:11:35,600
+Oh, well, that would be very nice.
+
+18
+00:11:35,600 --> 00:11:37,600
+About eight o'clock?
+
+19
+00:11:37,600 --> 00:11:38,600
+Eight o'clock is fine.
+
+20
+00:11:38,600 --> 00:11:40,600
+Great! It's a date.
+
+21
+00:11:40,600 --> 00:11:42,600
+Who's going to be there?
+
+22
+00:11:42,600 --> 00:11:46,600
+Just my friend Mike and a few kids from school.
+
+23
+00:11:46,600 --> 00:11:49,600
+I'm going to miss all of you.
+
+24
+00:11:49,600 --> 00:11:52,600
+You've been like a second family to me.
+
+25
+00:11:52,600 --> 00:11:54,600
+We're going to miss you.
+
+26
+00:11:54,600 --> 00:11:57,600
+Maybe you could come to visit me in Greece?
+
+27
+00:11:57,600 --> 00:11:58,600
+I'm counting on it.
+
+28
+00:11:58,600 --> 00:11:59,600
+Wonderful!
+
+29
+00:11:59,600 --> 00:12:02,600
+Are you excited about graduating from high school?
+
+30
+00:12:02,600 --> 00:12:06,600
+Sure... and a little scared.
+
+31
+00:12:06,600 --> 00:12:07,600
+Scared? Why?
+
+32
+00:12:07,600 --> 00:12:09,600
+Aren't you a little scared?
+
+33
+00:12:09,600 --> 00:12:14,600
+I was when I first came to the United States.
+
+34
+00:12:14,600 --> 00:12:16,600
+I'd never been away from home,
+
+35
+00:12:16,600 --> 00:12:19,600
+and I didn't know what it would be like.
+
+36
+00:12:19,600 --> 00:12:24,600
+But then I found out that people are the same everywhere
+
+37
+00:12:24,600 --> 00:12:26,600
+once you get to know them.
+
+38
+00:12:26,600 --> 00:12:28,600
+I'm glad I got to know you.
+
+39
+00:12:28,600 --> 00:12:29,600
+Thank you.
+
+40
+00:12:29,600 --> 00:12:34,600
+I'm glad I got to know you, and your family.
+
+41
+00:12:34,600 --> 00:12:37,600
+Wouldn't it be nice if we could skip the examinations
+
+42
+00:12:37,600 --> 00:12:39,600
+and get right to the graduation party?
+
+43
+00:12:39,600 --> 00:12:41,600
+It would be very nice.
+
+44
+00:12:41,600 --> 00:12:44,600
+But that isn't the way it works.
+
+45
+00:12:44,600 --> 00:12:46,600
+So... back to work.
+
+46
+00:12:46,600 --> 00:12:52,600
+Good night, Robbie.
+
+47
+00:12:52,600 --> 00:12:53,600
+Good night, Mrs. Stewart.
+
+48
+00:12:53,600 --> 00:12:54,600
+Thank you for dinner.
+
+49
+00:12:54,600 --> 00:12:55,600
+Good night, Alexandra.
+
+50
+00:12:55,600 --> 00:12:56,600
+Will you be all right?
+
+51
+00:12:56,600 --> 00:12:58,600
+Yes. The Molinas are waiting for me.
+
+52
+00:12:58,600 --> 00:13:00,600
+Good night, Alexandra.
+
+53
+00:13:00,600 --> 00:13:03,600
+I'll pick you up on Saturday night, OK?
+
+54
+00:13:03,600 --> 00:13:06,600
+Yes.
+
+55
+00:13:06,600 --> 00:13:09,600
+I have to run.
+
+56
+00:13:09,600 --> 00:13:17,600
+Good night, Robbie.
+
+57
+00:13:17,600 --> 00:13:25,600
+She's really a good friend, isn't she?
+
+58
+00:13:25,600 --> 00:13:27,600
+Yeah.
+
+59
+00:13:27,600 --> 00:13:30,600
+You are going to miss her.
+
+60
+00:13:30,600 --> 00:13:34,600
+Am I going to miss her?
+
+61
+00:13:34,600 --> 00:13:36,600
+That's what I said!
+
+62
+00:13:36,600 --> 00:13:39,600
+You are going to miss her!
+
+63
+00:13:39,600 --> 00:13:42,600
+I'm going to miss her,
+
+64
+00:13:42,600 --> 00:13:46,600
+and my math teacher's going to miss her.
+
+65
+00:13:46,600 --> 00:13:49,600
+Well, you can write to her.
+
+66
+00:13:49,600 --> 00:13:51,600
+It's not the same.
+
+67
+00:14:03,600 --> 00:14:05,600
+How does that look, Rob?
+
+68
+00:14:05,600 --> 00:14:07,600
+Great! Pass me the hammer.
+
+69
+00:14:07,600 --> 00:14:08,600
+You got it!
+
+70
+00:14:08,600 --> 00:14:12,600
+You're sure Alexandra's going to be surprised?
+
+71
+00:14:12,600 --> 00:14:13,600
+Absolutely.
+
+72
+00:14:13,600 --> 00:14:16,600
+She has no idea that the party is in her honor.
+
+73
+00:14:16,600 --> 00:14:18,600
+Millie, did you bring the tapes for dancing?
+
+74
+00:14:18,600 --> 00:14:19,600
+They're in my bag.
+
+75
+00:14:19,600 --> 00:14:20,600
+What did you bring?
+
+76
+00:14:20,600 --> 00:14:21,600
+Some rock 'n' roll.
+
+77
+00:14:21,600 --> 00:14:23,600
+Perfect! Alexandra will love it!
+
+78
+00:14:23,600 --> 00:14:27,600
+I can't wait to see her face when she walks in here tonight.
+
+79
+00:14:27,600 --> 00:14:29,600
+What about the cake?
+
+80
+00:14:29,600 --> 00:14:31,600
+My mom's decorating it right now.
+
+81
+00:14:31,600 --> 00:14:37,600
+Robbie, there's a phone call for you.
+
+82
+00:14:37,600 --> 00:14:38,600
+It's Alexandra.
+
+83
+00:14:38,600 --> 00:14:39,600
+She sounds upset.
+
+84
+00:14:39,600 --> 00:14:40,600
+OK.
+
+85
+00:14:40,600 --> 00:14:41,600
+I'll take it in there.
+
+86
+00:14:41,600 --> 00:14:48,600
+Hi, Alexandra.
+
+87
+00:14:48,600 --> 00:14:54,600
+What? You what?
+
+88
+00:14:54,600 --> 00:14:58,600
+Oh no!
+

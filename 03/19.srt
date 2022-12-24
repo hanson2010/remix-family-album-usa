@@ -1,6 +1,6 @@
 1
 00:01:59,600 --> 00:02:02,600
-Robbie, this new Walkman is absolutely wonderful. Robbie
+Robbie, this new Walkman is absolutely wonderful.
 
 2
 00:02:02,600 --> 00:02:05,600
@@ -12,11 +12,11 @@ They're so thoughtful.
 
 4
 00:02:08,600 --> 00:02:12,600
-You are very lucky, Robbie, to have such a nice family. Robbie
+You are very lucky, Robbie, to have such a nice family.
 
 5
 00:02:12,600 --> 00:02:15,600
-Is something wrong, Alexandra? Alexandra
+Is something wrong, Alexandra?
 
 6
 00:02:15,600 --> 00:02:18,600
@@ -92,7 +92,7 @@ The Molinas treat me so nicely, Molina
 
 24
 00:03:03,600 --> 00:03:07,600
-and I love being with your family so much ...
+and I love being with your family so much...
 
 25
 00:03:07,600 --> 00:03:11,600
@@ -180,7 +180,7 @@ He says I never turn them out when I leave.
 
 46
 00:04:06,600 --> 00:04:08,600
-If they come home and they're on ...
+If they come home and they're on...
 
 47
 00:04:08,600 --> 00:04:13,600
@@ -252,11 +252,11 @@ and she belongs to Mr. and Mrs. Levinson.
 
 64
 00:04:59,600 --> 00:05:01,600
-There's a phone number --
+There's a phone number
 
 65
 00:05:01,600 --> 00:05:05,600
-five five five ... eight four four eight. 555
+555-8448.
 
 66
 00:05:05,600 --> 00:05:09,600
@@ -276,7 +276,7 @@ She's so cute.
 
 70
 00:05:16,600 --> 00:05:39,600
-The number you are calling -- 555-8448 --
+The number you are calling "555-8448"
 
 71
 00:05:39,600 --> 00:05:42,600

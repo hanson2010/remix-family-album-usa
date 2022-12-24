@@ -18,7 +18,7 @@ Oh, a new baby!
 
 5
 00:2:24,600-->00:2:29,600
-Max ... Max ... Max. Max
+Max... Max... Max.
 
 6
 00:2:29,600-->00:2:32,600
@@ -86,7 +86,7 @@ It's true.
 
 22
 00:3:18,600-->00:3:21,600
-Michelle is a lot like Harry in so many ways. Michelle
+Michelle is a lot like Harry in so many ways.
 
 23
 00:3:21,600-->00:3:25,600
@@ -106,7 +106,7 @@ And Harry, too?
 
 27
 00:3:33,600-->00:3:37,600
-Well ...
+Well...
 
 28
 00:3:37,600-->00:3:40,600
@@ -114,7 +114,7 @@ Uh, it's four-thirty. Oh my!
 
 29
 00:3:40,600-->00:3:44,600
-Marilyn and Richard will be home from the hospital any minute, Marilyn
+Marilyn and Richard will be home from the hospital any minute,
 
 30
 00:3:44,600-->00:3:46,600
@@ -130,7 +130,7 @@ Well, let's take everything to the living room.
 
 33
 00:3:51,600-->00:3:54,600
-Marilyn and Richard and the baby need the space. Marilyn
+Marilyn and Richard and the baby need the space.
 
 34
 00:3:54,600-->00:3:56,600
@@ -194,7 +194,7 @@ He's always made me feel like his own daughter.
 
 49
 00:4:41,600-->00:4:45,600
-that's because you're so much like us--wonderful!
+that's because you're so much like us. Wonderful!
 
 50
 00:4:45,600-->00:4:51,600
@@ -229,11 +229,11 @@ Does he have a middle name?
 No, just Max. I like that.
 
 58
-00:5:13,600-->00:5:13,600
+00:5:13,600-->00:5:15,600
 No, just Max. I like that.
 
 59
-00:5:13,600-->00:5:17,600
+00:5:15,600-->00:5:17,600
 No middle name. No middle initial.
 
 60
@@ -262,7 +262,7 @@ Eight-six. Big boy!
 
 66
 00:5:41,600-->00:5:44,600
-All the Stewart men were big. Stewart
+All the Stewart men were big.
 
 67
 00:5:44,600-->00:5:46,600
@@ -270,7 +270,7 @@ Well, Robbie was eight pounds two ounces,
 
 68
 00:5:46,600-->00:5:48,600
-and Richard was eight pounds three. Richard
+and Richard was eight pounds three.
 
 69
 00:5:48,600-->00:5:51,600
@@ -294,7 +294,7 @@ That's nice. Length. Length?
 
 74
 00:6:3,600-->00:6:6,600
-Richard says Max is twenty-one inches long. Richard
+Richard says Max is twenty-one inches long.
 
 75
 00:6:6,600-->00:6:9,600
@@ -326,7 +326,7 @@ I take after my mother's family.
 
 82
 00:6:29,600-->00:6:34,600
-They were ... they were ... they were average.
+They were... they were... they were average.
 
 83
 00:6:34,600-->00:6:41,600
@@ -342,7 +342,7 @@ Speaking of mother and of father
 
 86
 00:6:50,600-->00:6:54,600
---and speaking of Max--I hear the car.
+and speaking of Max, I hear the car.
 
 87
 00:6:54,600-->00:6:55,600
@@ -370,7 +370,7 @@ Come on, darlings.
 
 93
 00:7:9,600-->00:7:12,600
-Sweetheart .... Sit down right here.
+Sweetheart, sit down right here.
 
 94
 00:7:12,600-->00:7:19,600
@@ -378,7 +378,7 @@ Oh, he's so cute! Oh, Marilyn!
 
 95
 00:7:19,600-->00:7:21,600
-Max looks just like Grandpa. Max
+Max looks just like Grandpa.
 
 96
 00:7:21,600-->00:7:22,600
@@ -386,5 +386,5 @@ A real Stewart.
 
 97
 00:7:22,600-->00:7:27,600
-I'm so happy to be home with my family--and with Max.
+I'm so happy to be home with my family and with Max.
 

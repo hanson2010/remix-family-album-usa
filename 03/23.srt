@@ -8,7 +8,7 @@ Do you know how to play charades?
 
 3
 00:01:01,600 --> 00:01:05,600
-Frank, you've never played charades? Frank
+Frank, you've never played charades?
 
 4
 00:01:05,600 --> 00:01:08,600
@@ -16,7 +16,7 @@ Nope.
 
 5
 00:01:08,600 --> 00:01:10,600
-Carl, you're sure you've never played? Carl
+Carl, you're sure you've never played?
 
 6
 00:01:10,600 --> 00:01:16,600
@@ -28,7 +28,7 @@ We're going to play charades.
 
 8
 00:01:17,600 --> 00:01:20,600
-Frank, you can learn as we go. Frank
+Frank, you can learn as we go.
 
 9
 00:01:20,600 --> 00:01:21,600
@@ -92,7 +92,7 @@ We've got a movie.
 
 24
 00:02:01,600 --> 00:02:02,600
-The title ...
+The title...
 
 25
 00:02:02,600 --> 00:02:03,600
@@ -160,7 +160,7 @@ The first word sounds like no.
 
 41
 00:02:32,600 --> 00:02:36,600
-Row. Row. Row
+Row. Row.
 
 42
 00:02:36,600 --> 00:02:37,600
@@ -172,15 +172,15 @@ Nope.
 
 44
 00:02:39,600 --> 00:02:41,600
-Show. Show
+Show.
 
 45
 00:02:41,600 --> 00:02:43,600
-That's it--show.
+That's it - show.
 
 46
 00:02:43,600 --> 00:02:45,600
-No ... OK ...
+No... OK...
 
 47
 00:02:45,600 --> 00:02:53,600
@@ -192,7 +192,7 @@ Absolutely right, Betty.
 
 49
 00:02:55,600 --> 00:02:58,600
-Sounds like no -- snow.
+Sounds like no - snow.
 
 50
 00:02:58,600 --> 00:03:01,600
@@ -256,7 +256,7 @@ I got it!
 
 65
 00:03:27,600 --> 00:03:30,600
-Snow White and the Seven Dwarfs. Snow White and the Seven Dwarfs
+Snow White and the Seven Dwarfs.
 
 66
 00:03:30,600 --> 00:03:36,600
@@ -268,11 +268,11 @@ I got it.
 
 68
 00:03:38,600 --> 00:03:40,600
-Frank, you got it. Frank
+Frank, you got it.
 
 69
 00:03:40,600 --> 00:03:42,600
-Betty, you had it, but you didn't say it. Betty
+Betty, you had it, but you didn't say it.
 
 70
 00:03:42,600 --> 00:03:43,600
@@ -280,7 +280,7 @@ I knew it.
 
 71
 00:03:43,600 --> 00:03:47,600
-Carl, now you know charades. Carl
+Carl, now you know charades.
 
 72
 00:03:47,600 --> 00:03:48,600
@@ -396,7 +396,7 @@ I'm sorry, Carl.
 
 100
 00:04:40,600 --> 00:04:43,600
-Carl, you'll have your party when you go home, Carl
+Carl, you'll have your party when you go home,
 
 101
 00:04:43,600 --> 00:04:45,600

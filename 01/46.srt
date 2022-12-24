@@ -1,5 +1,4 @@
 
-
 1
 00:2:0,600-->00:2:3,600
 The mailman just dropped some mail in our box, Grandpa. 邮差刚刚塞进一一些信件在我们的信箱 爷爷

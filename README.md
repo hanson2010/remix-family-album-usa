@@ -43,7 +43,7 @@ mkdir 01
 for file in orig/*; do
     iconv -f gb18030 -t utf-8 $file -o 01/$(basename $file)
     sed -i 's/\s*\r$//' 01/$(basename $file)
-    sed -i '1,8d' 01/$(basename $file)
+    sed -i '1,9d' 01/$(basename $file)
 done
 
 # 删除中文（删除第一个中文字到行尾），以及空白行
@@ -74,8 +74,8 @@ srt normalise --input 02/03.srt --output 03/03.srt
 # 时移
 mkdir 04
 srt fixed-timeshift --seconds -19 --input 03/01.srt --output 04/01.srt
-srt fixed-timeshift --seconds 483.5 --input 03/02.srt --output 04/02.srt
-srt fixed-timeshift --seconds 855.5 --input 03/03.srt --output 04/03.srt
+srt fixed-timeshift --seconds 483 --input 03/02.srt --output 04/02.srt
+srt fixed-timeshift --seconds 855 --input 03/03.srt --output 04/03.srt
 ...
 
 # 拼接
@@ -84,8 +84,13 @@ cat author.srt 04/01.srt 04/02.srt 04/03.srt > 05/01.srt
 ...
 
 # 标准化
+mkdir prefinal
+srt normalise --input 05/01.srt --output prefinal/01.srt
+...
+
+# 使用专业工具继续修正，例如Aegisub
 mkdir final
-srt normalise --input 05/01.srt --output final/01.srt
+cp prefinal/* final
 ...
 ```
 
