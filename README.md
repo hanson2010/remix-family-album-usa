@@ -80,7 +80,7 @@ srt fixed-timeshift --seconds 855 --input 03/03.srt --output 04/03.srt
 
 # 拼接
 mkdir 05
-cat author.srt 04/01.srt 04/02.srt 04/03.srt > 05/01.srt
+cat title/author.srt title/01.srt 04/01.srt 04/02.srt 04/03.srt > 05/01.srt
 ...
 
 # 标准化
@@ -101,13 +101,13 @@ cp prefinal/* final
 ```bash
 sudo apt install ffmpeg
 
-ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libx265 -tag:v hvc1 -filter:v unsharp -c:a copy -c:s srt video/FAUSA_01.mkv
+ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libsvtav1 -crf 0 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
 ...
 ```
 
 其中：
 
-1. `-c:v libx265 -tag:v hvc1`表示视频使用 HEVC (x265) 编码；
+1. `-c:v libsvtav1 -crf 0`表示视频使用 AV1 编码；
 
 2. `-filter:v unsharp` 可以实现视频锐化，默认参数即可满足需求；
 
