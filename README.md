@@ -101,18 +101,23 @@ cp prefinal/* final
 ```bash
 sudo apt install ffmpeg
 
-ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libsvtav1 -crf 0 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
+# H.265/HEVC
+ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libx265 -tag:v hvc1 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
+# AV1
+ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libsvtav1 -crf 1 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
 ...
 ```
 
 其中：
 
-1. `-c:v libsvtav1 -crf 0`表示视频使用 AV1 编码；
+1. `-c:v libx265 -tag:v hvc1`表示视频使用 H.265/HECV 编码；
 
-2. `-filter:v unsharp` 可以实现视频锐化，默认参数即可满足需求；
+2. `-c:v libsvtav1 -crf 1`表示视频使用 AV1 编码；
 
-3. `-c:a copy`表示原样拷贝音频轨道；
+3. `-filter:v unsharp` 可以实现视频锐化，默认参数即可满足需求；
 
-4. `-c:s srt`指定字幕编码方式；
+4. `-c:a copy`表示原样拷贝音频轨道；
 
-5. 输出文件以`.mkv`命名，ffmpeg 就冰雪聪明的明白封装格式意图了。
+5. `-c:s srt`指定字幕编码方式；
+
+6. 输出文件以`.mkv`命名，ffmpeg 就冰雪聪明的明白封装格式意图了。
