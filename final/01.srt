@@ -384,740 +384,715 @@ You left your bag!
 Excuse me, officer. Can you help me?
 
 97
-00:09:07,697 --> 00:09:07,715
-Sure.
-Excuse me, officer. Can you help me?
-
-98
 00:09:07,715 --> 00:09:08,444
 Sure.
 
-99
+98
 00:09:08,440 --> 00:09:11,848
 Can you tell me how to get to Linden Street in Riverdale?
 
-100
+99
 00:09:11,840 --> 00:09:15,315
 Richard Stewart, 46 Linden Street, Riverdale, New York.
 
-101
+100
 00:09:15,310 --> 00:09:17,191
 You should take the number 1 subway.
 
-102
+101
 00:09:17,190 --> 00:09:18,853
 Is there a station near here?
 
-103
+102
 00:09:18,850 --> 00:09:20,568
 Yes. The station's that way.
 
-104
+103
 00:09:20,560 --> 00:09:23,075
 You should take the number 1 train to Van Cortlandt Park.
 
-105
+104
 00:09:23,070 --> 00:09:26,515
 Number 1 train to Van Cortlandt Park. Thank you.
 
-106
+105
 00:09:26,515 --> 00:09:27,502
 Anytime. Good luck.
 
-107
+106
 00:09:27,500 --> 00:09:30,400
 Remember, the number 1 train. The uptown platform.
 
-108
+107
 00:09:30,400 --> 00:09:31,680
 Thank you.
 
-109
+108
 00:09:31,680 --> 00:09:32,328
 You're welcome.
 
-110
+109
 00:09:49,208 --> 00:09:51,146
 Is this pink too bright for me?
 
-111
+110
 00:09:51,140 --> 00:09:55,875
 Mmm-hmm. It is a very bright pink.
 
-112
+111
 00:10:01,946 --> 00:10:07,022
 Try this. It's size eight.
 
-113
+112
 00:10:07,022 --> 00:10:08,782
 But I wear size ten.
 
-114
+113
 00:10:08,780 --> 00:10:13,848
 How about green? It's size ten.
 
-115
+114
 00:10:13,840 --> 00:10:15,128
 Let me try it on.
 
-116
+115
 00:10:15,120 --> 00:10:18,693
 I'm taking too much of your time.
 
-117
+116
 00:10:22,186 --> 00:10:23,600
 It's six o'clock.
 
-118
+117
 00:10:23,600 --> 00:10:25,004
 Where's my husband?
 
-119
+118
 00:10:25,000 --> 00:10:27,368
 I was expecting him here at 5:45.
 
-120
+119
 00:10:27,360 --> 00:10:29,760
 Don't worry. The traffic is very heavy at this hour.
 
-121
+120
 00:10:29,760 --> 00:10:33,493
 I know. But we're going to be late for dinner.
 
-122
+121
 00:10:33,490 --> 00:10:35,733
 I'll take this green sweater.
 
-123
+122
 00:10:35,730 --> 00:10:37,075
 I like the color on me, don't you?
 
-124
+123
 00:10:37,070 --> 00:10:39,066
 I think it looks terrific on you.
 
-125
+124
 00:10:44,604 --> 00:10:46,000
 I'm sorry I'm so late.
 
-126
-00:10:46,000 --> 00:10:46,026
-I had a really bad day.
-I'm sorry I'm so late.
-
-127
+125
 00:10:46,026 --> 00:10:47,502
 I had a really bad day.
 
-128
+126
 00:10:47,500 --> 00:10:50,791
 It's 6:10. We're late.
 
-129
+127
 00:10:50,790 --> 00:10:53,137
 Robbie's cooking tonight, and dinner's at 6:30.
 
-130
+128
 00:10:53,130 --> 00:10:55,893
 I know. I know. I'm really sorry.
 
-131
+129
 00:10:55,890 --> 00:10:58,453
 I left my bag of film on the ferry.
 
-132
+130
 00:10:58,450 --> 00:11:00,640
 I went back for it, but the ferry was gone.
 
-133
+131
 00:11:00,640 --> 00:11:02,551
 I lost a whole day's work.
 
-134
+132
 00:11:02,550 --> 00:11:05,537
 I'll call the Staten Island Ferry lost-and-found office.
 
-135
+133
 00:11:05,530 --> 00:11:07,760
 I didn't think of that. Thanks.
 
-136
+134
 00:11:13,573 --> 00:11:14,862
 Hello.
 
-137
+135
 00:11:14,860 --> 00:11:16,568
 Yes. The number, please,
 
-138
+136
 00:11:16,560 --> 00:11:19,617
 of the Staten Island Ferry lost-and-found office.
 
-139
+137
 00:11:21,724 --> 00:11:27,697
 555-0808.
 
-140
+138
 00:11:27,697 --> 00:11:29,084
 Thank you.
 
-141
+139
 00:11:30,382 --> 00:11:32,195
 I really appreciate it, Marilyn.
 
-142
+140
 00:11:32,711 --> 00:11:34,088
 Hello.
 
-143
+141
 00:11:34,080 --> 00:11:37,733
 Did anyone find a camera bag this afternoon,
 
-144
+142
 00:11:37,730 --> 00:11:40,204
 a small canvas bag,
 
-145
+143
 00:11:41,200 --> 00:11:47,164
 on the J. F. Kennedy Ferry? No?
 
-146
+144
 00:11:47,946 --> 00:11:50,302
 Maybe someone will find it.
 
-147
+145
 00:11:50,300 --> 00:11:53,457
 The name is Stewart, Richard Stewart.
 
-148
+146
 00:11:53,450 --> 00:11:59,226
 And the telephone number is 555-3090.
 
-149
+147
 00:12:00,453 --> 00:12:01,644
 Thank you.
 
-150
+148
 00:12:03,137 --> 00:12:05,484
 Sorry, Richard. They don't have it.
 
-151
+149
 00:12:06,222 --> 00:12:07,964
 Thanks, anyway.
 
-152
+150
 00:12:10,826 --> 00:12:12,755
 There was a girl on the ferry.
 
-153
-00:12:12,750 --> 00:12:12,773
+151
+00:12:12,750 --> 00:12:12,760
 Now maybe...
+
+152
+00:12:12,760 --> 00:12:13,560
+Tell me about it on the way home.
+Now maybe...
+
+153
+00:12:13,560 --> 00:12:15,240
+Tell me about it on the way home.
 
 154
-00:12:12,773 --> 00:12:13,555
-Tell me about it on the way home.
-Now maybe...
-
-155
-00:12:13,555 --> 00:12:15,368
-Tell me about it on the way home.
-
-156
 00:15:05,084 --> 00:15:08,373
 And give her a teaspoon of the medicine after every meal.
 
-157
+155
 00:15:08,915 --> 00:15:11,306
 Don't worry. She'll be fine.
 
-158
+156
 00:15:11,680 --> 00:15:15,022
 You're welcome. Good-bye.
 
-159
+157
 00:15:25,075 --> 00:15:27,537
 How are you?
 
-160
+158
 00:15:27,530 --> 00:15:30,008
 I'm tired and hungry.
 
-161
+159
 00:15:30,000 --> 00:15:32,355
 Well, Marilyn and Richard called.
 
-162
+160
 00:15:32,350 --> 00:15:34,213
 They'll be here soon, and then we'll eat.
 
-163
+161
 00:15:34,210 --> 00:15:37,422
 All right. Is... is Susan coming?
 
-164
+162
 00:15:37,420 --> 00:15:39,031
 Well, she'll be here later.
 
-165
+163
 00:15:39,030 --> 00:15:40,275
 She has to work late tonight.
 
-166
+164
 00:15:40,270 --> 00:15:42,408
 And what's Robbie cooking for dinner?
 
-167
+165
 00:15:43,626 --> 00:15:45,333
 It's a surprise.
 
-168
+166
 00:15:46,062 --> 00:15:47,911
 I hope it's pasta.
 
-169
+167
 00:15:51,724 --> 00:15:54,604
 Robbie, the dinner was terrific.
 
-170
+168
 00:15:54,600 --> 00:15:57,537
 Yes, it was delicious.
 
-171
+169
 00:15:58,817 --> 00:16:00,062
 What's for dessert?
 
-172
+170
 00:16:00,060 --> 00:16:02,355
 Oh, I forgot dessert.
 
-173
+171
 00:16:02,350 --> 00:16:04,177
 Robbie!
 
-174
+172
 00:16:04,170 --> 00:16:05,973
 Don't worry.
 
-175
+173
 00:16:05,970 --> 00:16:07,582
 We've got lots of ice cream.
 
-176
+174
 00:16:07,580 --> 00:16:09,662
 Oh, I'd love some ice cream.
 
-177
+175
 00:16:09,660 --> 00:16:15,973
 Well, there's chocolate and coffee and a little vanilla.
 
-178
+176
 00:16:15,970 --> 00:16:17,333
 I'll have vanilla.
 
-179
+177
 00:16:17,330 --> 00:16:18,746
 Is that all right with everyone?
 
-180
+178
 00:16:18,740 --> 00:16:20,133
 I'll have chocolate.
 
-181
+179
 00:16:20,130 --> 00:16:21,253
 Me, too.
 
-182
+180
 00:16:22,120 --> 00:16:24,764
 Uh, one scoop of coffee
 
-183
+181
 00:16:24,760 --> 00:16:26,897
 and one scoop of chocolate for me.
 
-184
+182
 00:16:28,346 --> 00:16:30,817
 Robbie, will you help me serve?
 
-185
+183
 00:16:41,777 --> 00:16:46,346
 I keep thinking about that bag of film. Eight rolls.
 
-186
+184
 00:16:46,340 --> 00:16:48,400
 A whole day's work.
 
-187
+185
 00:16:48,400 --> 00:16:50,293
 And good stuff, too.
 
-188
+186
 00:16:50,290 --> 00:16:51,600
 Don't worry, Richard.
 
-189
+187
 00:16:51,600 --> 00:16:53,040
 Someone will find it.
 
-190
+188
 00:16:57,155 --> 00:17:05,182
 I'll get it. Hello.
 
-191
+189
 00:17:05,182 --> 00:17:06,586
 Hello.
 
-192
+190
 00:17:06,580 --> 00:17:09,075
 Does Richard Stewart live here?
 
-193
+191
 00:17:09,070 --> 00:17:11,040
 Yes, he's my brother.
 
-194
+192
 00:17:11,040 --> 00:17:13,368
 I'm Robbie... Robbie Stewart.
 
-195
+193
 00:17:13,360 --> 00:17:15,235
 I'm Alexandra Pappas.
 
-196
+194
 00:17:15,230 --> 00:17:16,604
 How do you do?
 
-197
+195
 00:17:17,866 --> 00:17:20,897
 Your brother left his bag of film on the ferryboat.
 
-198
+196
 00:17:20,890 --> 00:17:21,928
 I found it.
 
-199
+197
 00:17:21,920 --> 00:17:24,160
 I'm really glad to see you.
 
-200
+198
 00:17:24,160 --> 00:17:27,573
 I mean... my brother'll be really glad to see you!
 
-201
+199
 00:17:27,570 --> 00:17:29,991
 Robbie! Who is it?
 
-202
+200
 00:17:29,990 --> 00:17:31,831
 It's Richard's film!
 
-203
+201
 00:17:31,830 --> 00:17:35,111
 I mean, Alexandra Pappas.
 
-204
+202
 00:17:35,110 --> 00:17:37,164
 Come in, please.
 
-205
+203
 00:17:42,151 --> 00:17:43,480
 Alexandra!
 
-206
-00:17:43,480 --> 00:17:43,493
-Hello, Richard. I found your bag!
-Alexandra!
-
-207
+204
 00:17:43,493 --> 00:17:46,026
 Hello, Richard. I found your bag!
 
-208
+205
 00:17:46,020 --> 00:17:49,368
 Oh, thank you! Thank you!
 
-209
+206
 00:17:49,360 --> 00:17:51,706
 Um... Alexandra, let me introduce you.
 
-210
+207
 00:17:51,700 --> 00:17:53,137
 This is my wife Marilyn.
 
-211
+208
 00:17:53,130 --> 00:17:54,986
 Richard showed me your photo.
 
-212
+209
 00:17:54,980 --> 00:17:56,000
 How do you do?
 
-213
-00:17:56,000 --> 00:17:56,080
-Oh yes.
-How do you do?
-
-214
+210
 00:17:56,080 --> 00:17:56,968
 Oh yes.
 
-215
+211
 00:17:56,960 --> 00:17:58,657
 Richard told us all about you.
 
-216
+212
 00:17:58,650 --> 00:17:59,875
 It's nice to meet you.
 
-217
+213
 00:17:59,870 --> 00:18:02,000
 And this is my mother, Ellen Stewart.
 
-218
-00:18:02,000 --> 00:18:02,035
-How do you do?
-And this is my mother, Ellen Stewart.
-
-219
+214
 00:18:02,035 --> 00:18:02,977
 How do you do?
 
-220
+215
 00:18:02,970 --> 00:18:05,440
 And my father, Dr. Philip Stewart.
 
-221
+216
 00:18:05,440 --> 00:18:06,933
 Nice to meet you, Alexandra.
 
-222
+217
 00:18:06,930 --> 00:18:08,462
 And... ah... you met Robbie.
 
-223
+218
 00:18:08,460 --> 00:18:11,937
 Yes. And you must be Susan. Hi.
 
-224
+219
 00:18:11,930 --> 00:18:13,200
 Hi. Welcome.
 
-225
+220
 00:18:13,200 --> 00:18:15,262
 I'm so glad you found the bag
 
-226
+221
 00:18:15,260 --> 00:18:17,315
 and took the time and trouble to return it.
 
-227
+222
 00:18:17,310 --> 00:18:18,862
 Oh, it was no trouble.
 
-228
+223
 00:18:18,860 --> 00:18:21,217
 I just took the wrong train.
 
-229
+224
 00:18:21,210 --> 00:18:22,613
 Would you like something to eat?
 
-230
+225
 00:18:22,610 --> 00:18:23,991
 Thank you, no.
 
-231
+226
 00:18:23,990 --> 00:18:25,804
 I'm late for dinner at my house.
 
-232
+227
 00:18:25,800 --> 00:18:26,720
 I really have to go.
 
-233
+228
 00:18:26,720 --> 00:18:28,960
 Would you like to call home?
 
-234
+229
 00:18:28,960 --> 00:18:30,551
 I'd appreciate that.
 
-235
+230
 00:18:30,550 --> 00:18:32,320
 Please, use the phone.
 
-236
+231
 00:18:32,320 --> 00:18:34,177
 Thanks. Excuse me.
 
-237
+232
 00:18:34,170 --> 00:18:37,431
 Alexandra is a high-school exchange student from Greece.
 
-238
+233
 00:18:37,430 --> 00:18:38,817
 Where does she live?
 
-239
+234
 00:18:38,810 --> 00:18:40,711
 With a family in the Bronx.
 
-240
+235
 00:18:40,710 --> 00:18:42,755
 Oh, that's not too far from here!
 
-241
+236
 00:18:42,750 --> 00:18:44,426
 Take it easy, Robbie.
 
-242
+237
 00:18:45,831 --> 00:18:46,568
 Thank you.
 
-243
+238
 00:18:46,560 --> 00:18:49,831
 I can only stay a few minutes.
 
-244
+239
 00:18:49,830 --> 00:18:52,071
 Have some iced tea.
 
-245
+240
 00:18:52,070 --> 00:18:53,982
 Thanks, Mrs. Stewart.
 
-246
+241
 00:18:53,982 --> 00:18:56,000
 Please sit down, Alexandra.
 
-247
+242
 00:19:02,035 --> 00:19:05,000
 So, you're an exchange student.
 
-248
+243
 00:19:05,000 --> 00:19:06,853
 Where do you go to school?
 
-249
+244
 00:19:06,850 --> 00:19:09,413
 At the Bronx High School of Science.
 
-250
+245
 00:19:09,410 --> 00:19:12,053
 Oh, that's a very good school.
 
-251
+246
 00:19:12,050 --> 00:19:13,866
 What are your favorite subjects?
 
-252
+247
 00:19:13,860 --> 00:19:16,266
 Biology and mathematics.
 
-253
+248
 00:19:16,260 --> 00:19:18,213
 Richard tells me you're a doctor.
 
-254
+249
 00:19:18,210 --> 00:19:20,284
 Yes, a pediatrician.
 
-255
+250
 00:19:20,280 --> 00:19:22,106
 And what does your father do?
 
-256
+251
 00:19:22,100 --> 00:19:24,106
 He's a lawyer, in Thessaloniki.
 
-257
+252
 00:19:24,100 --> 00:19:26,142
 Would you like some pasta?
 
-258
+253
 00:19:26,140 --> 00:19:27,502
 I made it myself.
 
-259
+254
 00:19:27,500 --> 00:19:29,377
 It might be a little cold.
 
-260
+255
 00:19:29,840 --> 00:19:33,608
 Thanks, no. I do have to go.
 
-261
+256
 00:19:33,600 --> 00:19:35,733
 It was nice meeting you all.
 
-262
+257
 00:19:35,730 --> 00:19:38,106
 Well, maybe you'll come for lunch some Sunday,
 
-263
+258
 00:19:38,100 --> 00:19:39,200
 so we can really thank you
 
-264
+259
 00:19:39,200 --> 00:19:40,782
 for bringing Richard's bag back.
 
-265
+260
 00:19:40,780 --> 00:19:41,475
 Maybe.
 
-266
+261
 00:19:41,470 --> 00:19:43,635
 You're welcome anytime.
 
-267
+262
 00:19:43,635 --> 00:19:45,000
 Good-bye.
 
-268
+263
 00:19:50,977 --> 00:19:52,631
 Can I drive you home?
 
-269
+264
 00:19:52,630 --> 00:19:53,528
 No, thanks.
 
-270
+265
 00:19:53,520 --> 00:19:54,817
 The train is just up the street.
 
-271
+266
 00:19:54,810 --> 00:19:56,373
 It won't take me long at all.
 
-272
+267
 00:19:56,370 --> 00:19:59,164
 Well, you really saved the day for me, Alexandra.
 
-273
+268
 00:19:59,160 --> 00:20:00,195
 Bye.
 
-274
+269
 00:20:00,190 --> 00:20:00,871
 Bye-bye.
 
-275
+270
 00:20:00,870 --> 00:20:01,973
 Good night.
 
-276
+271
 00:20:10,328 --> 00:20:13,920
 She's a smart young lady, and very nice.
 
-277
+272
 00:20:13,920 --> 00:20:17,786
 Very! Hey, she forgot her bag!
 
-278
+273
 00:20:17,780 --> 00:20:20,924
 I guess we'll be seeing Alexandra again.
 
-279
+274
 00:20:20,920 --> 00:20:22,897
 Right, Robbie?
 

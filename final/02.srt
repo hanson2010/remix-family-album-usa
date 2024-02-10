@@ -392,563 +392,558 @@ I hope you're hungry.
 What? Oh, yes. Starving. Well, I...
 
 99
-00:10:28,632 --> 00:10:29,480
-Well, I...
-What? Oh, yes. Starving. Well, I...
-
-100
 00:10:29,480 --> 00:10:31,544
 Well, I...
 
-101
+100
 00:10:33,752 --> 00:10:36,264
 What do you do at Universe Toy Company?
 
-102
+101
 00:10:36,260 --> 00:10:39,400
 I'm the vice-president of new toy development.
 
-103
+102
 00:10:39,400 --> 00:10:41,184
 Terrific!
 
-104
+103
 00:10:41,180 --> 00:10:43,336
 I know you're a CPA.
 
-105
+104
 00:10:43,330 --> 00:10:45,792
 That's true. Harry Bennett,
 
-106
+105
 00:10:45,790 --> 00:10:47,616
 certified public accountant.
 
-107
+106
 00:10:47,610 --> 00:10:48,992
 I love numbers.
 
-108
+107
 00:10:48,990 --> 00:10:50,704
 I do some work for Smith and Dale,
 
-109
+108
 00:10:50,700 --> 00:10:52,256
 Your company's accounting firm.
 
-110
+109
 00:10:52,250 --> 00:10:54,320
 And so...
 
-111
+110
 00:10:55,512 --> 00:10:56,976
 Here we are.
 
-112
+111
 00:10:56,970 --> 00:10:58,664
 Yes.
 
-113
+112
 00:10:58,660 --> 00:11:00,144
 I have a daughter.
 
-114
+113
 00:11:00,140 --> 00:11:02,320
 I know. How old is she?
 
-115
+114
 00:11:02,320 --> 00:11:03,936
 She's nine years old.
 
-116
+115
 00:11:03,930 --> 00:11:06,168
 That's a nice age. What's her name?
 
-117
+116
 00:11:06,160 --> 00:11:07,152
 Michelle.
 
-118
+117
 00:11:07,150 --> 00:11:09,336
 Do you have a picture of her?
 
-119
+118
 00:11:19,888 --> 00:11:21,728
 She's very pretty.
 
-120
+119
 00:11:21,720 --> 00:11:23,080
 Thank you.
 
-121
+120
 00:11:29,800 --> 00:11:31,848
 Rose-petal salad.
 
-122
+121
 00:11:31,840 --> 00:11:34,200
 And there's a phone call for you, Mr. Bennett.
 
-123
+122
 00:11:35,368 --> 00:11:36,520
 Excuse me, Susan.
 
-124
+123
 00:11:38,648 --> 00:11:40,704
 I hope nothing is wrong.
 
-125
+124
 00:11:40,984 --> 00:11:42,736
 I'll get the rest of the dinner.
 
-126
+125
 00:11:42,730 --> 00:11:43,616
 Excuse me.
 
-127
+126
 00:11:56,464 --> 00:11:58,704
 Please forgive me, Susan, but...
 
-128
+127
 00:11:58,700 --> 00:12:02,288
 I have to leave. I feel terrible, but...
 
-129
+128
 00:12:02,280 --> 00:12:04,376
 What's the matter?
 
-130
+129
 00:12:04,370 --> 00:12:06,536
 My daughter isn't feeling well.
 
-131
+130
 00:12:06,530 --> 00:12:09,064
 Oh no! Is it serious?
 
-132
+131
 00:12:09,060 --> 00:12:13,016
 I don't know. The baby-sitter says she has a stomachache,
 
-133
+132
 00:12:13,010 --> 00:12:13,840
 and she's crying.
 
-134
+133
 00:12:13,840 --> 00:12:14,720
 I'll have to go home.
 
-135
+134
 00:12:14,968 --> 00:12:16,144
 Will you forgive me?
 
-136
+135
 00:12:16,140 --> 00:12:19,544
 Of course. I'm so sorry for Michelle.
 
-137
+136
 00:12:19,540 --> 00:12:21,456
 And you didn't have a chance to eat.
 
-138
+137
 00:12:21,450 --> 00:12:22,512
 Oh, it's OK.
 
-139
+138
 00:12:22,510 --> 00:12:23,880
 Let me take you home first.
 
-140
+139
 00:12:23,880 --> 00:12:25,912
 No, no. Please, go ahead.
 
-141
+140
 00:12:26,456 --> 00:12:28,392
 It's our first date.
 
-142
+141
 00:12:28,390 --> 00:12:30,128
 We'll make another.
 
-143
+142
 00:12:30,120 --> 00:12:31,216
 Please don't worry.
 
-144
+143
 00:12:32,408 --> 00:12:33,936
 I'll phone you.
 
-145
+144
 00:12:33,930 --> 00:12:37,696
 I hope your daughter is all right. Good-bye.
 
-146
+145
 00:12:38,456 --> 00:12:39,064
 Good-bye.
 
-147
+146
 00:15:58,496 --> 00:15:59,888
 What happened?
 
-148
+147
 00:16:00,768 --> 00:16:02,632
 The baby-sitter called.
 
-149
+148
 00:16:02,864 --> 00:16:04,256
 His daughter is sick.
 
-150
+149
 00:16:05,408 --> 00:16:06,752
 What's wrong?
 
-151
+150
 00:16:06,920 --> 00:16:09,176
 I think she has a stomachache.
 
-152
+151
 00:16:11,248 --> 00:16:12,992
 He's a good father.
 
-153
+152
 00:16:16,008 --> 00:16:18,840
 So... what do you think of him?
 
-154
+153
 00:16:20,072 --> 00:16:21,568
 He's very nice.
 
-155
+154
 00:16:22,120 --> 00:16:24,872
 But I think he was nervous tonight.
 
-156
+155
 00:16:24,870 --> 00:16:27,520
 It was his first date in two years.
 
-157
+156
 00:16:30,328 --> 00:16:31,864
 Will you see him again?
 
-158
+157
 00:16:32,448 --> 00:16:33,752
 I hope so.
 
-159
+158
 00:16:36,984 --> 00:16:39,128
 This food is delicious.
 
-160
+159
 00:16:41,136 --> 00:16:43,528
 He didn't get a thing to eat.
 
-161
+160
 00:16:43,520 --> 00:16:46,352
 You ordered enough for three or four people,
 
-162
+161
 00:16:46,350 --> 00:16:47,808
 but I'm not complaining.
 
-163
+162
 00:16:48,264 --> 00:16:49,920
 The food is delicious.
 
-164
+163
 00:16:52,032 --> 00:16:53,544
 Who is that?
 
-165
+164
 00:16:53,540 --> 00:16:54,728
 Do you think it's...
 
-166
+165
 00:16:54,720 --> 00:17:04,280
 No. You won't believe it, Marilyn!
 
-167
+166
 00:17:04,280 --> 00:17:07,064
 I believe it. Even without looking.
 
-168
+167
 00:17:09,176 --> 00:17:10,536
 Hi!
 
-169
+168
 00:17:10,530 --> 00:17:11,568
 How...?
 
-170
+169
 00:17:11,560 --> 00:17:13,424
 Your downstairs neighbor let me in.
 
-171
+170
 00:17:14,520 --> 00:17:15,768
 Did you go home?
 
-172
+171
 00:17:15,760 --> 00:17:17,304
 I did, but everything is OK,
 
-173
+172
 00:17:17,300 --> 00:17:19,408
 so I decided to come back.
 
-174
+173
 00:17:20,112 --> 00:17:21,952
 To apologize for leaving so early,
 
-175
+174
 00:17:22,408 --> 00:17:23,824
 I brought you a little gift.
 
-176
+175
 00:17:24,216 --> 00:17:26,656
 It's a bonsai tree for your new apartment.
 
-177
+176
 00:17:27,328 --> 00:17:29,792
 Hi, Marilyn. I hope it's not too late.
 
-178
+177
 00:17:29,790 --> 00:17:31,672
 Oh, not at all. We're still eating.
 
-179
+178
 00:17:32,024 --> 00:17:34,896
 Please, come in. Join us.
 
-180
+179
 00:17:34,896 --> 00:17:37,600
 It's our meal from the restaurant.
 
-181
+180
 00:17:38,896 --> 00:17:41,120
 And how is your daughter?
 
-182
+181
 00:17:41,120 --> 00:17:42,984
 Oh, she's fine. It was only a tummy ache.
 
-183
+182
 00:17:43,640 --> 00:17:45,584
 It's good that you went back.
 
-184
+183
 00:17:45,808 --> 00:17:49,176
 Yes, I think it's important for me to be there
 
-185
+184
 00:17:49,170 --> 00:17:50,280
 since her mother died.
 
-186
+185
 00:17:50,944 --> 00:17:55,176
 I agree. Aren't you hungry?
 
-187
+186
 00:17:55,720 --> 00:17:58,704
 As a matter of fact... I am hungry.
 
-188
+187
 00:17:59,280 --> 00:18:01,208
 There's lots of food left.
 
-189
+188
 00:18:02,064 --> 00:18:04,856
 Mmm, this is delicious!
 
-190
+189
 00:18:04,850 --> 00:18:06,288
 Enjoy!
 
-191
+190
 00:18:06,280 --> 00:18:08,336
 I'm going to excuse myself.
 
-192
+191
 00:18:08,330 --> 00:18:11,576
 I have a lot of work to do to get ready for tomorrow.
 
-193
+192
 00:18:12,464 --> 00:18:14,384
 Good night, Harry. It was nice meeting you.
 
-194
+193
 00:18:14,380 --> 00:18:15,344
 Bye, Marilyn.
 
-195
+194
 00:18:15,504 --> 00:18:16,488
 Good night, Susan.
 
-196
+195
 00:18:16,808 --> 00:18:17,896
 Good night, Marilyn.
 
-197
+196
 00:18:20,088 --> 00:18:23,208
 She's going to a fashion show here in the city tomorrow.
 
-198
+197
 00:18:23,280 --> 00:18:24,784
 She is sleeping here
 
-199
+198
 00:18:24,780 --> 00:18:27,288
 so she won't have to travel from Riverdale in the morning.
 
-200
+199
 00:18:27,648 --> 00:18:29,024
 You two must be close.
 
-201
+200
 00:18:30,384 --> 00:18:31,392
 We are.
 
-202
+201
 00:18:31,390 --> 00:18:33,776
 The whole Stewart family is close.
 
-203
+202
 00:18:34,880 --> 00:18:35,840
 I like that.
 
-204
+203
 00:18:46,016 --> 00:18:48,816
 And then, two years ago, my wife died.
 
-205
+204
 00:18:49,968 --> 00:18:51,240
 You miss her.
 
-206
+205
 00:18:52,520 --> 00:18:55,880
 I do... yes, but I have Michelle and...
 
-207
+206
 00:18:55,880 --> 00:18:58,600
 with time...
 
-208
+207
 00:18:59,504 --> 00:19:02,472
 Is there anyone else in your life?
 
-209
+208
 00:19:03,648 --> 00:19:08,048
 No, not yet. What about you?
 
-210
+209
 00:19:08,960 --> 00:19:10,952
 Oh, I date occasionally,
 
-211
+210
 00:19:10,950 --> 00:19:13,296
 but my work keeps me busy.
 
-212
+211
 00:19:13,290 --> 00:19:15,760
 Ooh, speaking of keeping busy,
 
-213
+212
 00:19:15,760 --> 00:19:17,240
 I have an early start tomorrow,
 
-214
+213
 00:19:17,240 --> 00:19:19,168
 and the baby-sitter has to get home.
 
-215
+214
 00:19:20,016 --> 00:19:22,464
 Where did the time go?
 
-216
+215
 00:19:22,460 --> 00:19:23,424
 It's midnight.
 
-217
+216
 00:19:28,128 --> 00:19:29,400
 Thank you, Susan.
 
-218
+217
 00:19:29,912 --> 00:19:31,256
 I had a nice evening.
 
-219
+218
 00:19:32,640 --> 00:19:42,816
 Me, too, Harry. Harry?
 
-220
+219
 00:19:43,760 --> 00:19:44,416
 Yes?
 
-221
+220
 00:19:45,024 --> 00:19:48,296
 I'd like to meet your daughter someday.
 
-222
+221
 00:19:49,752 --> 00:19:51,392
 Does that mean that I can see you again?
 
-223
+222
 00:19:51,390 --> 00:19:53,064
 Of course.
 
-224
+223
 00:19:53,060 --> 00:19:54,776
 Wonderful. I'll call you,
 
-225
+224
 00:19:54,770 --> 00:19:55,912
 and we'll go out to dinner.
 
-226
+225
 00:19:55,910 --> 00:19:56,768
 Please do.
 
-227
+226
 00:19:56,760 --> 00:19:58,680
 I promise I won't leave early.
 
-228
+227
 00:19:58,944 --> 00:20:01,576
 It was for a good reason.
 
-229
+228
 00:20:02,672 --> 00:20:03,720
 You know something?
 
-230
+229
 00:20:04,272 --> 00:20:04,984
 What?
 
-231
+230
 00:20:04,980 --> 00:20:06,936
 I think we're going to be good friends.
 
-232
+231
 00:20:08,648 --> 00:20:09,712
 Good night, Susan.
 
-233
+232
 00:20:10,240 --> 00:20:11,416
 Good night, Harry.
 
-234
+233
 00:20:11,410 --> 00:20:13,080
 Have a safe trip home.
 
-235
+234
 00:20:21,280 --> 00:20:23,240
 Are you all right?
 
-236
+235
 00:20:24,216 --> 00:20:25,280
 Sorry.
 
-237
+236
 00:20:26,072 --> 00:20:28,656
 I never liked that umbrella stand.
 
-238
+237
 00:20:30,824 --> 00:20:32,176
 Good night, Harry.
 
