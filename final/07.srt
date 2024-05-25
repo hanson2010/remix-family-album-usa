@@ -578,7 +578,7 @@ Your address?
 
 145
 00:11:34,260 --> 00:11:38,180
-46 Linden street, Riverdale.
+46 Linden Street, Riverdale.
 
 146
 00:11:40,560 --> 00:11:42,200
@@ -818,7 +818,7 @@ If the real owners don't come to claim Gemma...
 
 205
 00:17:11,380 --> 00:17:13,000
-After forty-eight hours.
+After 48 hours.
 
 206
 00:17:13,100 --> 00:17:14,560
@@ -1131,4 +1131,124 @@ she'll help me find another dog.
 283
 00:20:22,360 --> 00:20:23,660
 Come on. Let's dance.
+
+284
+00:20:35,180 --> 00:20:37,360
+They come in every shape,
+
+285
+00:20:37,360 --> 00:20:39,860
+every size, and every color...
+
+286
+00:20:40,500 --> 00:20:45,180
+Long hair, and short hair, or no hair at all.
+
+287
+00:20:45,480 --> 00:20:48,080
+Some with feathers.
+
+288
+00:20:48,220 --> 00:20:50,320
+And some have fur.
+
+289
+00:20:50,700 --> 00:20:53,740
+And some will even come when you call.
+
+290
+00:20:54,060 --> 00:20:58,460
+I'm talking about pets in the U.S.A.
+
+291
+00:21:00,100 --> 00:21:02,920
+Pets in the U.S.A.
+
+292
+00:21:06,740 --> 00:21:08,940
+Some you can hold.
+
+293
+00:21:09,020 --> 00:21:11,720
+Some will walk by your side.
+
+294
+00:21:11,720 --> 00:21:15,180
+some you can ride every day.
+
+295
+00:21:16,620 --> 00:21:18,800
+some will shake your hand.
+
+296
+00:21:18,880 --> 00:21:21,100
+And when they get to know you,
+
+297
+00:21:21,100 --> 00:21:24,280
+they seem to understand what you say.
+
+298
+00:21:24,620 --> 00:21:29,060
+I'm talking about pets in the U.S.A.
+
+299
+00:21:30,620 --> 00:21:33,700
+Pets in the U.S.A.
+
+300
+00:21:37,560 --> 00:21:39,860
+No matter what they look like,
+
+301
+00:21:39,940 --> 00:21:41,960
+no matter what they are,
+
+302
+00:21:42,260 --> 00:21:45,880
+we like to think of them as our friends,
+
+303
+00:21:47,200 --> 00:21:48,900
+just like you and me.
+
+304
+00:21:48,900 --> 00:21:51,620
+They have personalities.
+
+305
+00:21:51,740 --> 00:21:57,280
+And they can be such good company.
+
+306
+00:21:57,600 --> 00:21:59,960
+Some live under water.
+
+307
+00:22:00,140 --> 00:22:02,420
+Some live in a cage.
+
+308
+00:22:02,560 --> 00:22:05,900
+And some can just walk around your home.
+
+309
+00:22:07,040 --> 00:22:09,380
+They may have droopy eyes.
+
+310
+00:22:09,420 --> 00:22:11,400
+They may have floppy ears.
+
+311
+00:22:11,400 --> 00:22:15,080
+But they can keep you from feeling all alone.
+
+312
+00:22:15,860 --> 00:22:19,620
+I'm talking about pets in the U.S.A.
+
+313
+00:22:21,180 --> 00:22:26,060
+Pets in the U.S.A.
 
