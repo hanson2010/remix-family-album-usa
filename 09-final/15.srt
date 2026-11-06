@@ -639,11 +639,11 @@ Do you want to stick it out for the whole weekend?
 Well, I'll admit the room is uncomfortable.
 
 161
-00:12:06,600 --> 00:12:06,800
+00:12:06,600 --> 00:12:07,000
 Uh-hum.
 
 162
-00:12:06,800 --> 00:12:11,000
+00:12:07,000 --> 00:12:11,000
 And I do feel bad about your mother
 
 163
@@ -731,362 +731,494 @@ Oh. Now all it has to do is stop raining.
 Let's go.
 
 184
+00:13:48,600 --> 00:13:53,120
+Marilyn and Richard hope to have a wonderful weekend.
+
+185
+00:13:53,120 --> 00:13:55,200
+Hope to have, hope to have.
+
+186
+00:13:56,280 --> 00:13:58,580
+But Richard doesn't like the view.
+
+187
+00:13:58,800 --> 00:13:59,200
+Great...
+
+188
+00:13:59,760 --> 00:14:01,980
+if you enjoy looking at a parking lot.
+
+189
+00:14:03,080 --> 00:14:05,680
+He doesn't enjoy looking at cars.
+
+190
+00:14:05,680 --> 00:14:08,400
+Enjoy looking, enjoy looking.
+
+191
+00:14:09,600 --> 00:14:13,720
+When two verbs are together in a sentence,
+
+192
+00:14:14,840 --> 00:14:21,200
+the second verb sometimes has "to" in front of it.
+
+193
+00:14:21,560 --> 00:14:23,780
+Sometimes it ends in "-ing".
+
+194
+00:14:26,540 --> 00:14:28,940
+Marilyn is happy.
+
+195
+00:14:30,440 --> 00:14:35,240
+We're here, we're alone, we're together,
+
+196
+00:14:36,280 --> 00:14:37,200
+and I love you.
+
+197
+00:14:39,640 --> 00:14:42,640
+But it keeps raining all night long.
+
+198
+00:14:42,880 --> 00:14:45,300
+Keeps raining, keeps raining.
+
+199
+00:14:46,040 --> 00:14:49,820
+The next morning, Richard wants to play tennis.
+
+200
+00:14:50,760 --> 00:14:52,940
+Wants to play, wants to play.
+
+201
+00:14:56,980 --> 00:14:58,360
+Marilyn suggests...
+
+202
+00:14:58,760 --> 00:15:01,160
+going to the coffee shop.
+
+203
+00:15:02,720 --> 00:15:05,060
+Suggests going, suggests going.
+
+204
+00:15:05,400 --> 00:15:06,920
+They don't have a coffee shop.
+
+205
+00:15:08,040 --> 00:15:09,600
+But they need to eat breakfast.
+
+206
+00:15:11,960 --> 00:15:14,560
+Need to eat, need to eat.
+
+207
+00:15:16,000 --> 00:15:18,400
+After "enjoy", "keep" and "suggest",
+
+208
+00:15:18,400 --> 00:15:20,200
+use a verb with "-ing".
+
+209
+00:15:21,160 --> 00:15:23,120
+After "hope", "want" and "need",
+
+210
+00:15:23,560 --> 00:15:26,840
+use a verb with "to" in front of it.
+
+211
+00:15:30,180 --> 00:15:32,600
+What are they going to do?
+
+212
+00:15:33,040 --> 00:15:35,300
+I love walking in the rain.
+
+213
+00:15:35,720 --> 00:15:37,760
+She loves walking in the rain.
+
+214
+00:15:38,240 --> 00:15:39,640
+Loves walking.
+
+215
+00:15:40,200 --> 00:15:42,740
+She loves to walk in the rain.
+
+216
+00:15:42,740 --> 00:15:44,960
+Loves to walk.
+
+217
+00:15:45,880 --> 00:15:47,760
+After "love", use a verb with "-ing".
+
+218
+00:15:48,200 --> 00:15:51,980
+You can also use a verb with "to" in front of it.
+
+219
 00:16:41,400 --> 00:16:42,880
 Welcome to the Watermill Inn.
 
-185
+220
 00:16:43,640 --> 00:16:44,560
 Oh, Richard,
 
-186
+221
 00:16:44,560 --> 00:16:47,040
 it's exactly as it was when we were married!
 
-187
+222
 00:16:47,060 --> 00:16:49,020
 And when I got married.
 
-188
+223
 00:16:49,520 --> 00:16:52,040
 Even the old patchwork quilt is the same!
 
-189
+224
 00:16:52,420 --> 00:16:55,420
 My great-grandmother made that quilt
 
-190
+225
 00:16:55,420 --> 00:16:57,040
 when Teddy Roosevelt was President.
 
-191
+226
 00:16:57,040 --> 00:16:59,720
 In those days, when they made quilts,
 
-192
+227
 00:16:59,720 --> 00:17:01,000
 they cut patches
 
-193
+228
 00:17:01,000 --> 00:17:04,160
 from the old clothing of every member in the family
 
-194
+229
 00:17:04,400 --> 00:17:06,560
 so that each one would be a part of it.
 
-195
+230
 00:17:06,560 --> 00:17:08,040
 What a lovely tradition!
 
-196
+231
 00:17:08,160 --> 00:17:09,840
 Thank you for calling us.
 
-197
+232
 00:17:10,160 --> 00:17:11,780
 I remember you and your wife
 
-198
+233
 00:17:11,780 --> 00:17:13,600
 from the first time you stayed with us.
 
-199
+234
 00:17:13,980 --> 00:17:15,380
 We were very young.
 
-200
+235
 00:17:15,640 --> 00:17:17,960
 And very much in love.
 
-201
+236
 00:17:18,420 --> 00:17:19,800
 We have a baby now.
 
-202
+237
 00:17:20,040 --> 00:17:23,400
 How wonderful! A boy or a girl?
 
-203
+238
 00:17:23,740 --> 00:17:25,340
 A boy - Max.
 
-204
+239
 00:17:26,040 --> 00:17:27,220
 Do you have a picture?
 
-205
+240
 00:17:27,260 --> 00:17:30,640
 Would a professional photographer be without a picture?
 
-206
+241
 00:17:33,600 --> 00:17:36,360
 Oh, he's adorable!
 
-207
+242
 00:17:36,840 --> 00:17:38,000
 And very bright.
 
-208
+243
 00:17:38,160 --> 00:17:40,280
 Like his father. A real Stewart.
 
-209
+244
 00:17:40,280 --> 00:17:42,200
 And very good-looking, like his mother.
 
-210
+245
 00:17:42,200 --> 00:17:44,920
 Well, it's nice to have you with us again.
 
-211
+246
 00:17:44,960 --> 00:17:46,700
 Next time, bring the baby.
 
-212
+247
 00:17:46,780 --> 00:17:49,640
 You see, Richard? Max is welcome here.
 
-213
+248
 00:17:49,640 --> 00:17:51,200
 Not on our anniversary.
 
-214
+249
 00:17:51,400 --> 00:17:53,220
 This vacation is for you and me.
 
-215
+250
 00:17:54,280 --> 00:17:56,420
 If there's anything you need, please call me.
 
-216
+251
 00:17:56,420 --> 00:17:58,280
 I'll be in the front office all day.
 
-217
+252
 00:18:01,040 --> 00:18:05,000
 Oh, I took the liberty of ordering some breakfast for you.
 
-218
+253
 00:18:09,280 --> 00:18:10,980
 Just put it over there, Charles.
 
-219
+254
 00:18:28,200 --> 00:18:29,360
 Thank you, Charles.
 
-220
+255
 00:18:31,400 --> 00:18:33,520
 Compliments of the Watermill Inn.
 
-221
+256
 00:18:33,920 --> 00:18:34,880
 Thank you.
 
-222
+257
 00:18:35,120 --> 00:18:36,200
 Thank you so much.
 
-223
+258
 00:18:39,880 --> 00:18:42,480
 Now, this is my idea of a good time.
 
-224
+259
 00:18:43,420 --> 00:18:51,000
 Let's see... hotcakes and maple syrup, with scrambled eggs.
 
-225
+260
 00:18:51,640 --> 00:18:54,780
 Umm... smell that coffee... cinnamon and cloves.
 
-226
+261
 00:18:54,980 --> 00:18:56,960
 Homemade buttermilk biscuits.
 
-227
+262
 00:18:57,440 --> 00:18:59,840
 Slices of orange with burnt honey.
 
-228
+263
 00:19:01,320 --> 00:19:01,820
 Let's eat!
 
-229
+264
 00:19:02,640 --> 00:19:04,040
 First I want to call home
 
-230
+265
 00:19:04,040 --> 00:19:05,280
 and check on your mother and the baby.
 
-231
+266
 00:19:05,600 --> 00:19:07,200
 Honey, if there were any problems,
 
-232
+267
 00:19:07,200 --> 00:19:08,080
 she would call us.
 
-233
+268
 00:19:08,380 --> 00:19:10,520
 She doesn't know we've changed hotels.
 
-234
+269
 00:19:10,600 --> 00:19:11,960
 You're right. Of course.
 
-235
+270
 00:19:20,360 --> 00:19:21,600
 Hello, operator.
 
-236
+271
 00:19:21,920 --> 00:19:24,560
 I'd like to call Riverdale, New York.
 
-237
-00:19:25,320 --> 00:19:27,920
+272
+00:19:30,457 --> 00:19:32,355
 This food is heavenly, isn't it?
 
-238
+273
 00:19:32,760 --> 00:19:35,140
 This whole place is heavenly.
 
-239
+274
 00:19:45,360 --> 00:19:47,360
 Do you remember that old desk?
 
-240
+275
 00:19:48,980 --> 00:19:50,800
 Mrs. Montefiore told me that
 
-241
+276
 00:19:50,800 --> 00:19:53,060
 George Washington sat at that desk
 
-242
+277
 00:19:53,060 --> 00:19:55,000
 and wrote to his wife Martha.
 
-243
+278
 00:19:55,040 --> 00:19:57,280
 What do you want to do after breakfast?
 
-244
+279
 00:19:58,400 --> 00:20:00,520
 Why don't we take a walk down to the river?
 
-245
+280
 00:20:00,600 --> 00:20:02,400
 In the rain?
 
-246
+281
 00:20:02,480 --> 00:20:06,480
 No. Look out the window. The sun is shining!
 
-247
+282
 00:20:10,800 --> 00:20:13,280
 Now this is my idea of a good time!
 
-248
+283
 00:20:30,240 --> 00:20:35,160
 Looking at our photographs from all our time together,
 
-249
+284
 00:20:35,360 --> 00:20:40,800
 I see us both changing through the years.
 
-250
+285
 00:20:41,000 --> 00:20:43,580
 I can't believe how young we looked.
 
-251
+286
 00:20:43,780 --> 00:20:46,400
 It seems a million years ago.
 
-252
+287
 00:20:46,600 --> 00:20:51,640
 But through it all we've shared our joys and tears.
 
-253
+288
 00:20:52,320 --> 00:20:57,360
 There we are together, once upon a time,
 
-254
+289
 00:20:57,560 --> 00:21:01,860
 reminding me of how we used to be.
 
-255
+290
 00:21:02,060 --> 00:21:07,000
 There we are together, smiling at the camera.
 
-256
+291
 00:21:07,200 --> 00:21:10,240
 Each day was bright and new for us.
 
-257
+292
 00:21:10,280 --> 00:21:13,060
 There we are, the two of us,
 
-258
+293
 00:21:13,060 --> 00:21:17,780
 and still we are together, you and me.
 
-259
+294
 00:21:18,940 --> 00:21:23,680
 Every photograph reminds me how I love you,
 
-260
+295
 00:21:23,880 --> 00:21:28,760
 and how our love gets better every day.
 
-261
+296
 00:21:29,640 --> 00:21:37,100
 Every photograph reminds me how the years just come and go,
 
-262
+297
 00:21:37,720 --> 00:21:41,300
-and I can see our love grow.
+and I can see our love grow
 
-263
+298
 00:21:42,820 --> 00:21:44,600
-Every photograph...
+with every photograph.
 
-264
+299
 00:21:45,080 --> 00:21:51,880
 Looking at our photographs, I'm going back in time,
 
-265
+300
 00:21:52,080 --> 00:21:54,980
 watching every anniversary.
 
-266
+301
 00:21:55,180 --> 00:21:59,520
 The pictures take me there again,
 
-267
+302
 00:21:59,720 --> 00:22:02,560
 but we both look so different then.
 
-268
+303
 00:22:02,760 --> 00:22:06,880
 Could that really be you and me?
 
-269
-00:22:12,480 --> 00:22:14,300
+304
+00:22:08,257 --> 00:22:14,300
 Every photograph reminds me how I love you,
 
-270
+305
 00:22:16,240 --> 00:22:20,260
-and I can see our love grow.
+and I can see our love grow
 
-271
+306
 00:22:20,460 --> 00:22:22,440
-With every photograph,
-
-272
-00:22:22,440 --> 00:22:36,960
-I can see our love grow.
-
-273
-00:22:36,960 --> 00:22:41,000
-With every photograph...
+with every photograph.
 
