@@ -1,0 +1,27 @@
+cat 06-titles/author.srt 06-titles/01.srt 05-timeshifted/01.srt 05-timeshifted/02.srt 05-timeshifted/03.srt > 07-concatenated/01.srt
+cat 06-titles/author.srt 06-titles/02.srt 05-timeshifted/04.srt 05-timeshifted/05.srt 05-timeshifted/06.srt > 07-concatenated/02.srt
+cat 06-titles/author.srt 06-titles/03.srt 05-timeshifted/07.srt 05-timeshifted/08.srt 05-timeshifted/09.srt > 07-concatenated/03.srt
+cat 06-titles/author.srt 06-titles/04.srt 05-timeshifted/10.srt 05-timeshifted/11.srt 05-timeshifted/12.srt > 07-concatenated/04.srt
+cat 06-titles/author.srt 06-titles/05.srt 05-timeshifted/13.srt 05-timeshifted/14.srt 05-timeshifted/15.srt > 07-concatenated/05.srt
+cat 06-titles/author.srt 06-titles/06.srt 05-timeshifted/16.srt 05-timeshifted/17.srt 05-timeshifted/18.srt > 07-concatenated/06.srt
+cat 06-titles/author.srt 06-titles/07.srt 05-timeshifted/19.srt 05-timeshifted/20.srt 05-timeshifted/21.srt > 07-concatenated/07.srt
+cat 06-titles/author.srt 06-titles/08.srt 05-timeshifted/22.srt 05-timeshifted/23.srt 05-timeshifted/24.srt > 07-concatenated/08.srt
+cat 06-titles/author.srt 06-titles/09.srt 05-timeshifted/25.srt 05-timeshifted/26.srt 05-timeshifted/27.srt > 07-concatenated/09.srt
+cat 06-titles/author.srt 06-titles/10.srt 05-timeshifted/28.srt 05-timeshifted/29.srt 05-timeshifted/30.srt > 07-concatenated/10.srt
+cat 06-titles/author.srt 06-titles/11.srt 05-timeshifted/31.srt 05-timeshifted/32.srt 05-timeshifted/33.srt > 07-concatenated/11.srt
+cat 06-titles/author.srt 06-titles/12.srt 05-timeshifted/34.srt 05-timeshifted/35.srt 05-timeshifted/36.srt > 07-concatenated/12.srt
+cat 06-titles/author.srt 06-titles/13.srt 05-timeshifted/37.srt 05-timeshifted/38.srt 05-timeshifted/39.srt > 07-concatenated/13.srt
+cat 06-titles/author.srt 06-titles/14.srt 05-timeshifted/40.srt 05-timeshifted/41.srt 05-timeshifted/42.srt > 07-concatenated/14.srt
+cat 06-titles/author.srt 06-titles/15.srt 05-timeshifted/43.srt 05-timeshifted/44.srt 05-timeshifted/45.srt > 07-concatenated/15.srt
+cat 06-titles/author.srt 06-titles/16.srt 05-timeshifted/46.srt 05-timeshifted/47.srt 05-timeshifted/48.srt > 07-concatenated/16.srt
+cat 06-titles/author.srt 06-titles/17.srt 05-timeshifted/49.srt 05-timeshifted/50.srt 05-timeshifted/51.srt > 07-concatenated/17.srt
+cat 06-titles/author.srt 06-titles/18.srt 05-timeshifted/52.srt 05-timeshifted/53.srt 05-timeshifted/54.srt > 07-concatenated/18.srt
+cat 06-titles/author.srt 06-titles/19.srt 05-timeshifted/55.srt 05-timeshifted/56.srt 05-timeshifted/57.srt > 07-concatenated/19.srt
+cat 06-titles/author.srt 06-titles/20.srt 05-timeshifted/58.srt 05-timeshifted/59.srt 05-timeshifted/60.srt > 07-concatenated/20.srt
+cat 06-titles/author.srt 06-titles/21.srt 05-timeshifted/61.srt 05-timeshifted/62.srt 05-timeshifted/63.srt > 07-concatenated/21.srt
+cat 06-titles/author.srt 06-titles/22.srt 05-timeshifted/64.srt 05-timeshifted/65.srt 05-timeshifted/66.srt > 07-concatenated/22.srt
+cat 06-titles/author.srt 06-titles/23.srt 05-timeshifted/67.srt 05-timeshifted/68.srt 05-timeshifted/69.srt > 07-concatenated/23.srt
+cat 06-titles/author.srt 06-titles/24.srt 05-timeshifted/70.srt 05-timeshifted/71.srt 05-timeshifted/72.srt > 07-concatenated/24.srt
+cat 06-titles/author.srt 06-titles/25.srt 05-timeshifted/73.srt 05-timeshifted/74.srt 05-timeshifted/75.srt > 07-concatenated/25.srt
+cat 06-titles/author.srt 06-titles/26.srt 05-timeshifted/76.srt 05-timeshifted/77.srt 05-timeshifted/78.srt > 07-concatenated/26.srt
+

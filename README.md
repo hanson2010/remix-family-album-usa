@@ -25,40 +25,32 @@ which python
 以下使用开源项目 [srt](https://github.com/cdown/srt) 和 [zhon](https://github.com/tsroten/zhon) 。
 
 ```bash
-pip install srt
-pip install zhon
+pip install -r requirements.txt
 ```
 
 ## 处理 srt 文件
 
-把下载好的 srt 文件放在 `~/remix-family-album-usa/orig` 目录。
+把下载好的 srt 文件放在 `~/remix-family-album-usa/01-original` 目录。
 
 ```bash
 cd remix-family-album-usa
 
-# 改变原始文件编码
-# 替换换行风格
-# 替换或删除第 0 号字幕
-mkdir 01
-for file in orig/*; do
-    iconv -f gb18030 -t utf-8 $file -o 01/$(basename $file)
-    sed -i 's/\s*\r$//' 01/$(basename $file)
-    sed -i '1,9d' 01/$(basename $file)
-done
+# 转为 UTF-8 编码，删除行尾空白和回车符，删除第 0 号字幕（前 9 行），输出到 02-utf8/
+bash 02-convert-utf8.sh
 
 # 删除中文（删除第一个中文字到行尾），以及空白行
-./remove_zh.py 01 02
+./03-remove-chinese.py 02-utf8 03-english
 
 # 修正人为错误
 # 后续不要再覆盖此目录
-vi 02/01.srt
+vi 03-english/01.srt
 ...
 
 # 标准化
-mkdir 03
-srt normalise --input 02/01.srt --output 03/01.srt
-srt normalise --input 02/02.srt --output 03/02.srt
-srt normalise --input 02/03.srt --output 03/03.srt
+mkdir 04-normalised
+srt normalise --input 03-english/01.srt --output 04-normalised/01.srt
+srt normalise --input 03-english/02.srt --output 04-normalised/02.srt
+srt normalise --input 03-english/03.srt --output 04-normalised/03.srt
 ...
 ```
 
@@ -72,52 +64,55 @@ srt normalise --input 02/03.srt --output 03/03.srt
 
 ```bash
 # 时移
-mkdir 04
-srt fixed-timeshift --seconds -19 --input 03/01.srt --output 04/01.srt
-srt fixed-timeshift --seconds 483 --input 03/02.srt --output 04/02.srt
-srt fixed-timeshift --seconds 855 --input 03/03.srt --output 04/03.srt
+mkdir 05-timeshifted
+srt fixed-timeshift --seconds -19 --input 04-normalised/01.srt --output 05-timeshifted/01.srt
+srt fixed-timeshift --seconds 483 --input 04-normalised/02.srt --output 05-timeshifted/02.srt
+srt fixed-timeshift --seconds 855 --input 04-normalised/03.srt --output 05-timeshifted/03.srt
 ...
 
 # 拼接
-mkdir 05
-cat title/author.srt title/01.srt 04/01.srt 04/02.srt 04/03.srt > 05/01.srt
+mkdir 07-concatenated
+cat 06-titles/author.srt 06-titles/01.srt 05-timeshifted/01.srt 05-timeshifted/02.srt 05-timeshifted/03.srt > 07-concatenated/01.srt
 ...
 
 # 标准化
-mkdir prefinal
-srt normalise --input 05/01.srt --output prefinal/01.srt
+mkdir 08-prefinal
+srt normalise --input 07-concatenated/01.srt --output 08-prefinal/01.srt
 ...
 
 # 使用专业工具继续修正，例如Aegisub
-mkdir final
-cp prefinal/* final
+mkdir 09-final
+cp 08-prefinal/* 09-final
 ...
 ```
 
-## 视频混合
+## 视频转码与字幕混合
 
-以下使用著名的开源软件 [ffmpeg](https://ffmpeg.org/) 。
+以下使用著名的开源软件 [ffmpeg](https://ffmpeg.org/) ，在仓库根目录运行。原始 H.264 视频放在 `video/h264/` 目录。
 
 ```bash
 sudo apt install ffmpeg
 
-# H.265/HEVC
-ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libx265 -tag:v hvc1 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
-# AV1
-ffmpeg -i video/FAUSA_01.mp4 -i final/01.srt -c:v libsvtav1 -crf 1 -filter:v unsharp -c:a copy -c:s srt "video/FAUSA_01_46 Linden Street.mkv"
-...
+# 1. 转码为 H.265/HEVC，输出到 video/h265/（耗时长，只需做一次）
+bash 10-encode-h265.sh
+
+# 2. 混入软字幕，输出到 video/softsubs/（不重新编码，字幕修改后重跑即可）
+bash 11-mux-softsubs.sh
+
+# 或者：烧录硬字幕，输出到 video/hardsubs/（烧录需要重新编码 H.265 视频）
+bash 11-burn-hardsubs.sh
 ```
 
 其中：
 
-1. `-c:v libx265 -tag:v hvc1`表示视频使用 H.265/HECV 编码；
+1. `-c:v libx265 -tag:v hvc1`表示视频使用 H.265/HEVC 编码；若要 AV1 编码，改为`-c:v libsvtav1 -crf 1`；
 
-2. `-c:v libsvtav1 -crf 1`表示视频使用 AV1 编码；
+2. `-filter:v unsharp=7:7:2.0:5:5:0.0`对视频锐化；
 
-3. `-filter:v unsharp` 可以实现视频锐化，默认参数即可满足需求；
+3. `-c:a copy`表示原样拷贝音频轨道；
 
-4. `-c:a copy`表示原样拷贝音频轨道；
+4. `-c copy`表示原样拷贝视频和音频，只加入字幕轨道；`-metadata:s:s:0 language=eng`把字幕语言标为英语；
 
-5. `-c:s srt`指定字幕编码方式；
+5. `subtitles=09-final/NN.srt`把字幕烧录进画面；
 
-6. 输出文件以`.mkv`命名，ffmpeg 就冰雪聪明的明白封装格式意图了。
+6. 输出文件以`.mkv`命名，ffmpeg 就冰雪聪明的明白封装格式意图了；文件名采用`Family Album U.S.A (1991) - S01E01 - 46 Linden Street.mkv`格式，VidHub 等媒体软件可据此从 TMDB 识别为同一部剧集。

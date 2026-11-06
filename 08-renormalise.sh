@@ -1,0 +1,27 @@
+srt normalise --input 07-concatenated/01.srt --output 08-prefinal/01.srt
+srt normalise --input 07-concatenated/02.srt --output 08-prefinal/02.srt
+srt normalise --input 07-concatenated/03.srt --output 08-prefinal/03.srt
+srt normalise --input 07-concatenated/04.srt --output 08-prefinal/04.srt
+srt normalise --input 07-concatenated/05.srt --output 08-prefinal/05.srt
+srt normalise --input 07-concatenated/06.srt --output 08-prefinal/06.srt
+srt normalise --input 07-concatenated/07.srt --output 08-prefinal/07.srt
+srt normalise --input 07-concatenated/08.srt --output 08-prefinal/08.srt
+srt normalise --input 07-concatenated/09.srt --output 08-prefinal/09.srt
+srt normalise --input 07-concatenated/10.srt --output 08-prefinal/10.srt
+srt normalise --input 07-concatenated/11.srt --output 08-prefinal/11.srt
+srt normalise --input 07-concatenated/12.srt --output 08-prefinal/12.srt
+srt normalise --input 07-concatenated/13.srt --output 08-prefinal/13.srt
+srt normalise --input 07-concatenated/14.srt --output 08-prefinal/14.srt
+srt normalise --input 07-concatenated/15.srt --output 08-prefinal/15.srt
+srt normalise --input 07-concatenated/16.srt --output 08-prefinal/16.srt
+srt normalise --input 07-concatenated/17.srt --output 08-prefinal/17.srt
+srt normalise --input 07-concatenated/18.srt --output 08-prefinal/18.srt
+srt normalise --input 07-concatenated/19.srt --output 08-prefinal/19.srt
+srt normalise --input 07-concatenated/20.srt --output 08-prefinal/20.srt
+srt normalise --input 07-concatenated/21.srt --output 08-prefinal/21.srt
+srt normalise --input 07-concatenated/22.srt --output 08-prefinal/22.srt
+srt normalise --input 07-concatenated/23.srt --output 08-prefinal/23.srt
+srt normalise --input 07-concatenated/24.srt --output 08-prefinal/24.srt
+srt normalise --input 07-concatenated/25.srt --output 08-prefinal/25.srt
+srt normalise --input 07-concatenated/26.srt --output 08-prefinal/26.srt
+
