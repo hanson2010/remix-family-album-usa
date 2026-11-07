@@ -107,7 +107,7 @@ bash 11-burn-hardsubs.sh
 
 1. `-c:v libx265 -tag:v hvc1`表示视频使用 H.265/HEVC 编码；若要 AV1 编码，改为`-c:v libsvtav1 -crf 1`；
 
-2. `-filter:v deblock=filter=weak:block=8,hqdn3d=2:1.5:3:3,deband,scale=480:360:flags=lanczos,setsar=1,unsharp=5:5:1.2:5:5:0,format=yuv420p10le`依次去块、轻度降噪、去色带、把画面还原为原片的 4:3 比例（原始视频为 540×360，被横向拉伸成 3:2；输出为 480×360 方形像素）、锐化亮度，并输出 10 位色深；`-crf 20 -preset slow`提高编码质量；`-color_primaries smpte170m -color_trc smpte170m -colorspace smpte170m -color_range tv`标明标清视频的 BT.601 色彩信息（原始视频未标明，Aegisub 等软件会提示缺少色彩矩阵）；
+2. `-filter:v deblock=filter=weak:block=8,hqdn3d=2:1.5:3:3,deband,scale=480:360:flags=lanczos,setsar=1,unsharp=5:5:1.5:5:5:0,format=yuv420p10le`依次去块、轻度降噪、去色带、把画面还原为原片的 4:3 比例（原始视频为 540×360，被横向拉伸成 3:2；输出为 480×360 方形像素）、锐化亮度，并输出 10 位色深；`-crf 24 -preset slow`提高编码质量；`-color_primaries smpte170m -color_trc smpte170m -colorspace smpte170m -color_range tv`标明标清视频的 BT.601 色彩信息（原始视频未标明，Aegisub 等软件会提示缺少色彩矩阵）；
 
 3. `-c:a copy`表示原样拷贝音频轨道；
 
