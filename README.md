@@ -107,12 +107,12 @@ bash 11-burn-hardsubs.sh
 
 1. `-c:v libx265 -tag:v hvc1`表示视频使用 H.265/HEVC 编码；若要 AV1 编码，改为`-c:v libsvtav1 -crf 1`；
 
-2. `-filter:v unsharp=7:7:2.0:5:5:0.0`对视频锐化；
+2. `-filter:v deblock=filter=weak:block=8,hqdn3d=2:1.5:3:3,deband,scale=480:360:flags=lanczos,setsar=1,unsharp=5:5:1.2:5:5:0,format=yuv420p10le`依次去块、轻度降噪、去色带、把画面还原为原片的 4:3 比例（原始视频为 540×360，被横向拉伸成 3:2；输出为 480×360 方形像素）、锐化亮度，并输出 10 位色深；`-crf 20 -preset slow`提高编码质量；`-color_primaries smpte170m -color_trc smpte170m -colorspace smpte170m -color_range tv`标明标清视频的 BT.601 色彩信息（原始视频未标明，Aegisub 等软件会提示缺少色彩矩阵）；
 
 3. `-c:a copy`表示原样拷贝音频轨道；
 
-4. `-c copy`表示原样拷贝视频和音频，只加入字幕轨道；`-metadata:s:s:0 language=eng`把字幕语言标为英语；
+4. `-c copy`表示原样拷贝视频和音频，只加入字幕轨道；`-metadata:s:s:0 language=eng`把字幕语言标为英语，`-disposition:s:0 default`把它设为默认字幕轨，播放时自动显示；
 
-5. `subtitles=09-final/NN.srt`把字幕烧录进画面；
+5. `subtitles=09-final/NN.srt`把字幕烧录进画面。第 18 集剧中电视播报员的 4 句台词以`{\an8}`开头，显示在画面顶部，与底部的人物对白同时出现；ffmpeg 与多数播放器支持这一标记，不支持的播放器会把它们显示在底部或显示出标记文字；
 
 6. 输出文件以`.mkv`命名，ffmpeg 就冰雪聪明的明白封装格式意图了；文件名采用`Family Album U.S.A (1991) - S01E01 - 46 Linden Street.mkv`格式，VidHub 等媒体软件可据此从 TMDB 识别为同一部剧集。

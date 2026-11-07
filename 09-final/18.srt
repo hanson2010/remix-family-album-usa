@@ -1296,7 +1296,7 @@ She's winning!
 
 325
 00:17:24,160 --> 00:17:26,460
-[TV Reporter] Now returning to other local news...
+{\an8}[TV Reporter] Now returning to other local news...
 
 326
 00:17:25,100 --> 00:17:26,460
@@ -1304,11 +1304,11 @@ Mom, you're winning!
 
 327
 00:17:26,460 --> 00:17:27,600
-[TV Reporter] Riverdale High School
+{\an8}[TV Reporter] Riverdale High School
 
 328
 00:17:27,600 --> 00:17:30,680
-[TV Reporter] beat its rival Horace Mann in baseball today.
+{\an8}[TV Reporter] beat its rival Horace Mann in baseball today.
 
 329
 00:17:27,600 --> 00:17:29,320
@@ -1324,7 +1324,7 @@ That's better than being behind.
 
 332
 00:17:31,040 --> 00:17:31,940
-[TV Reporter] More sports after this.
+{\an8}[TV Reporter] More sports after this.
 
 333
 00:17:32,080 --> 00:17:33,560
