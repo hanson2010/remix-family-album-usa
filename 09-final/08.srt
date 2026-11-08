@@ -283,694 +283,1094 @@ Change your clothes, Carl.
 Everything will be just fine.
 
 72
+00:05:11,780 --> 00:05:13,880
+How are you feeling?
+
+73
+00:05:13,880 --> 00:05:17,400
+He's had so many colds and sore throats recently.
+
+74
+00:05:17,600 --> 00:05:20,080
+You're gonna be fine.
+
+75
+00:05:20,280 --> 00:05:22,680
+You're gonna be fine.
+
+76
+00:05:22,880 --> 00:05:25,400
+You're gonna be all right.
+
+77
+00:05:25,600 --> 00:05:28,040
+You're gonna be fine.
+
+78
+00:05:28,620 --> 00:05:31,420
+You're gonna be fine.
+
+79
+00:05:31,620 --> 00:05:34,280
+You're gonna feel better.
+
+80
+00:05:34,480 --> 00:05:35,720
+Don't worry.
+
+81
+00:05:35,720 --> 00:05:39,920
+Carl will be perfectly fine after we remove his tonsils.
+
+82
+00:05:40,120 --> 00:05:42,500
+You're gonna be fine.
+
+83
+00:05:43,120 --> 00:05:45,440
+You're gonna be fine.
+
+84
+00:05:45,640 --> 00:05:47,940
+You're gonna be all right.
+
+85
+00:05:48,140 --> 00:05:50,880
+You're gonna be fine.
+
+86
+00:05:51,140 --> 00:05:53,960
+You're gonna be fine.
+
+87
+00:05:54,160 --> 00:05:55,840
+You're gonna feel better.
+
+88
+00:05:55,880 --> 00:05:57,700
+Are you feeling all right?
+
+89
+00:05:57,900 --> 00:06:00,440
+I have a cold.
+
+90
+00:06:00,640 --> 00:06:02,080
+How you doing?
+
+91
+00:06:02,280 --> 00:06:04,220
+I have a fever.
+
+92
+00:06:04,420 --> 00:06:05,900
+Does something hurt?
+
+93
+00:06:06,100 --> 00:06:08,440
+I have a headache.
+
+94
+00:06:08,640 --> 00:06:10,080
+How you feeling?
+
+95
+00:06:10,120 --> 00:06:12,100
+I have a stomachache.
+
+96
+00:06:15,760 --> 00:06:17,960
+It's a very easy operation, Carl.
+
+97
+00:06:18,160 --> 00:06:20,780
+You won't feel a thing.
+
+98
+00:06:21,160 --> 00:06:23,800
+You're gonna be fine.
+
+99
+00:06:24,120 --> 00:06:26,480
+You're gonna be fine.
+
+100
+00:06:26,680 --> 00:06:28,960
+You're gonna be all right.
+
+101
+00:06:29,160 --> 00:06:31,640
+You're gonna be fine.
+
+102
+00:06:32,180 --> 00:06:34,980
+You're gonna be fine.
+
+103
+00:06:35,180 --> 00:06:37,640
+You're gonna feel better.
+
+104
+00:06:37,840 --> 00:06:39,400
+How're you doing?
+
+105
+00:06:39,600 --> 00:06:41,280
+Not too well.
+
+106
+00:06:41,280 --> 00:06:43,360
+Does your throat hurt?
+
+107
+00:06:43,680 --> 00:06:45,060
+Yes, it does.
+
+108
+00:06:45,220 --> 00:06:46,760
+Do you want to get better?
+
+109
+00:06:46,960 --> 00:06:49,420
+Yes, I do.
+
+110
+00:06:49,620 --> 00:06:52,080
+Everything will be just fine.
+
+111
+00:06:52,280 --> 00:06:56,280
+You're gonna be fine.
+
+112
+00:06:56,320 --> 00:06:59,260
+You're gonna be fine.
+
+113
+00:06:59,300 --> 00:07:01,200
+You're gonna be fine.
+
+114
 00:08:02,760 --> 00:08:04,260
 OK.
 
-73
+115
 00:08:04,500 --> 00:08:06,560
 Do you know how to play charades?
 
-74
+116
 00:08:08,420 --> 00:08:11,100
 Frank, you've never played charades?
 
-75
+117
 00:08:11,280 --> 00:08:12,420
 Nope.
 
-76
+118
 00:08:13,420 --> 00:08:16,660
 Carl, you're sure you've never played?
 
-77
+119
 00:08:18,160 --> 00:08:21,040
 OK, Betty, Tim, and Frank.
 
-78
+120
 00:08:21,060 --> 00:08:22,440
 We're going to play charades.
 
-79
+121
 00:08:22,660 --> 00:08:24,640
 Frank, you can learn as we go.
 
-80
+122
 00:08:24,720 --> 00:08:26,680
 And, Carl, you join in at any time.
 
-81
+123
 00:08:26,800 --> 00:08:29,960
 OK, let me think.
 
-82
+124
 00:08:31,720 --> 00:08:33,580
 OK, I've got one.
 
-83
+125
 00:08:44,440 --> 00:08:46,040
 All right.
 
-84
+126
 00:08:49,680 --> 00:08:51,720
 A movie! A movie!
 
-85
+127
 00:08:51,940 --> 00:08:52,880
 Right.
 
-86
+128
 00:08:53,180 --> 00:08:54,200
 A movie.
 
-87
+129
 00:08:54,280 --> 00:08:55,740
 OK.
 
-88
+130
 00:08:58,340 --> 00:08:59,620
 Six words.
 
-89
+131
 00:08:59,680 --> 00:09:01,100
 It has six words.
 
-90
+132
 00:09:01,420 --> 00:09:02,300
 That's easy.
 
-91
+133
 00:09:02,360 --> 00:09:03,320
 I can play.
 
-92
+134
 00:09:03,400 --> 00:09:04,860
 Good. OK.
 
-93
+135
 00:09:04,940 --> 00:09:05,840
 We've got a movie.
 
-94
+136
 00:09:05,920 --> 00:09:06,780
 The title...
 
-95
+137
 00:09:07,020 --> 00:09:08,400
 Six words.
 
-96
+138
 00:09:09,360 --> 00:09:10,140
 Right.
 
-97
+139
 00:09:10,360 --> 00:09:12,180
 First word...
 
-98
+140
 00:09:13,300 --> 00:09:14,560
 Sounds like.
 
-99
+141
 00:09:14,760 --> 00:09:16,580
 Sounds like...
 
-100
+142
 00:09:16,820 --> 00:09:18,340
 You got that part right.
 
-101
+143
 00:09:18,400 --> 00:09:19,000
 Yes.
 
-102
+144
 00:09:19,480 --> 00:09:21,480
 Sounds like...
 
-103
+145
 00:09:23,780 --> 00:09:25,040
 Sounds like what?
 
-104
+146
 00:09:25,140 --> 00:09:26,780
 Sounds like no.
 
-105
+147
 00:09:27,100 --> 00:09:29,060
 Absolutely right, Frank.
 
-106
+148
 00:09:29,180 --> 00:09:30,640
 Sounds like no.
 
-107
+149
 00:09:31,280 --> 00:09:32,120
 OK.
 
-108
+150
 00:09:32,120 --> 00:09:33,500
 We've got a movie.
 
-109
+151
 00:09:34,300 --> 00:09:35,440
 Six words.
 
-110
+152
 00:09:35,440 --> 00:09:38,160
 The first word sounds like no.
 
-111
+153
 00:09:40,040 --> 00:09:41,700
 Row. Row.
 
-112
+154
 00:09:42,180 --> 00:09:43,160
 Go.
 
-113
+155
 00:09:43,240 --> 00:09:44,040
 Nope.
 
-114
+156
 00:09:46,140 --> 00:09:46,840
 Show.
 
-115
+157
 00:09:46,840 --> 00:09:48,800
 That's it - show.
 
-116
+158
 00:09:48,800 --> 00:09:50,920
 No... OK...
 
-117
+159
 00:09:56,420 --> 00:09:58,360
 Snow.
 
-118
+160
 00:09:58,580 --> 00:10:00,980
 Absolutely right, Betty.
 
-119
+161
 00:10:01,180 --> 00:10:03,660
 Sounds like no - snow.
 
-120
+162
 00:10:03,720 --> 00:10:06,420
 OK, a movie. Six words.
 
-121
+163
 00:10:06,420 --> 00:10:09,360
 The first word is snow.
 
-122
+164
 00:10:09,360 --> 00:10:10,680
 This is fun.
 
-123
+165
 00:10:10,680 --> 00:10:12,740
 Oh, OK.
 
-124
+166
 00:10:14,120 --> 00:10:16,000
 The fifth word.
 
-125
+167
 00:10:16,580 --> 00:10:18,360
 Right, fifth word.
 
-126
+168
 00:10:18,760 --> 00:10:19,900
 Seven?
 
-127
+169
 00:10:21,040 --> 00:10:22,300
 Absolutely right.
 
-128
+170
 00:10:22,300 --> 00:10:22,760
 Very good.
 
-129
+171
 00:10:22,760 --> 00:10:23,840
 The fifth word is seven.
 
-130
+172
 00:10:23,920 --> 00:10:26,040
 OK, we've got a movie.
 
-131
+173
 00:10:26,240 --> 00:10:28,180
 The first word is snow.
 
-132
+174
 00:10:28,340 --> 00:10:30,380
 Fifth word, seven.
 
-133
+175
 00:10:30,820 --> 00:10:32,900
 I got it! I got it!
 
-134
+176
 00:10:33,140 --> 00:10:36,080
 Snow White and the Seven Dwarfs.
 
-135
+177
 00:10:40,520 --> 00:10:43,200
 I got it.
 
-136
+178
 00:10:43,860 --> 00:10:45,140
 Frank, you got it.
 
-137
+179
 00:10:45,140 --> 00:10:47,320
 Betty, you had it, but you didn't say it.
 
-138
+180
 00:10:47,420 --> 00:10:48,300
 I knew it.
 
-139
+181
 00:10:50,640 --> 00:10:52,880
 Carl, now you know charades.
 
-140
+182
 00:10:52,880 --> 00:10:53,800
 Why don't you join us?
 
-141
+183
 00:10:53,800 --> 00:10:55,300
 I don't like charades.
 
-142
+184
 00:10:55,380 --> 00:10:56,600
 It's for babies.
 
-143
+185
 00:10:56,760 --> 00:10:57,960
 Oh, I like it.
 
-144
+186
 00:10:58,820 --> 00:11:01,300
 Well, they're babies.
 
-145
+187
 00:11:01,880 --> 00:11:03,920
 You're a sore loser.
 
-146
+188
 00:11:03,920 --> 00:11:04,360
 Yeah.
 
-147
+189
 00:11:04,360 --> 00:11:05,480
 No arguing.
 
-148
+190
 00:11:05,480 --> 00:11:06,820
 Save your voices.
 
-149
+191
 00:11:07,360 --> 00:11:08,580
 Between now and tomorrow
 
-150
+192
 00:11:08,580 --> 00:11:09,760
 you're all going to have your tonsils out.
 
-151
+193
 00:11:10,120 --> 00:11:11,760
 And you won't be able to speak for a while.
 
-152
+194
 00:11:11,760 --> 00:11:14,040
 So save your voices till then.
 
-153
+195
 00:11:14,240 --> 00:11:15,960
 Hi, gang. Hi, everybody.
 
-154
+196
 00:11:16,660 --> 00:11:19,140
 Well, what's going on?
 
-155
+197
 00:11:19,160 --> 00:11:20,920
 I sure I am glad to see you, Dr. Stewart.
 
-156
+198
 00:11:20,920 --> 00:11:22,140
 This is a rough group.
 
-157
+199
 00:11:22,160 --> 00:11:24,280
 I didn't want to play charades,
 
-158
+200
 00:11:24,320 --> 00:11:26,300
 so they're angry at me.
 
-159
+201
 00:11:26,740 --> 00:11:28,880
 Why don't you want to play?
 
-160
+202
 00:11:29,000 --> 00:11:30,780
 Because I don't want to be here.
 
-161
+203
 00:11:30,840 --> 00:11:32,640
 I don't want my tonsils out.
 
-162
+204
 00:11:32,820 --> 00:11:34,000
 Why not?
 
-163
+205
 00:11:34,080 --> 00:11:35,900
 Because my birthday is tomorrow.
 
-164
+206
 00:11:35,940 --> 00:11:39,000
 My mother promised me a birthday party with a clown.
 
-165
+207
 00:11:39,140 --> 00:11:41,440
 But you can have one when you go home, Carl.
 
-166
+208
 00:11:41,540 --> 00:11:43,760
 But my birthday is tomorrow.
 
-167
+209
 00:11:43,900 --> 00:11:45,480
 I'm sorry, Carl.
 
-168
+210
 00:11:45,600 --> 00:11:48,660
 Carl, you'll have your party when you go home,
 
-169
+211
 00:11:48,720 --> 00:11:51,180
 But it won't be on my birthday!
 
-170
+212
 00:11:51,580 --> 00:11:54,900
 And you promised me a surprise.
 
-171
+213
+00:12:15,200 --> 00:12:18,900
+Sounds like...
+
+214
+00:12:19,000 --> 00:12:21,300
+Sounds like what?
+
+215
+00:12:21,300 --> 00:12:22,600
+Sounds like no.
+
+216
+00:12:22,760 --> 00:12:25,440
+The first word sounds like no.
+
+217
+00:12:28,140 --> 00:12:29,400
+Row, row!
+
+218
+00:12:32,080 --> 00:12:34,600
+Row, so, low... ow.
+
+219
+00:12:35,540 --> 00:12:38,660
+Raw, saw, law... aw.
+
+220
+00:12:38,660 --> 00:12:41,900
+Row, raw, so, saw, low, law.
+
+221
+00:12:42,340 --> 00:12:44,440
+Ow, aw.
+
+222
+00:12:44,440 --> 00:12:45,740
+Ball.
+
+223
+00:12:49,180 --> 00:12:49,880
+Ball.
+
+224
+00:12:50,600 --> 00:12:51,660
+Bowl.
+
+225
+00:12:57,080 --> 00:13:00,000
+Why is this ball in my bowl?
+
+226
+00:13:02,100 --> 00:13:05,220
+Pot, rock, mop... o.
+
+227
+00:13:05,220 --> 00:13:08,640
+Pat, rack, map... a.
+
+228
+00:13:08,640 --> 00:13:11,700
+Pot, pat, rock, rack, mop, map.
+
+229
+00:13:12,120 --> 00:13:14,540
+O, a.
+
+230
+00:13:14,540 --> 00:13:15,280
+Hot.
+
+231
+00:13:18,720 --> 00:13:19,600
+Hot.
+
+232
+00:13:20,220 --> 00:13:21,000
+Hat.
+
+233
+00:13:27,720 --> 00:13:30,160
+I'm hot in this hat.
+
+234
+00:13:32,260 --> 00:13:35,100
+Eat, seek, leap... ea.
+
+235
+00:13:35,620 --> 00:13:38,540
+It, sick, lip... i.
+
+236
+00:13:38,940 --> 00:13:41,520
+Eat, it, seek, sick, leap, lip.
+
+237
+00:13:44,440 --> 00:13:45,200
+Fit.
+
+238
+00:13:48,240 --> 00:13:49,140
+Fit.
+
+239
+00:13:50,140 --> 00:13:51,100
+Feet.
+
+240
+00:13:56,260 --> 00:13:59,860
+My feet don't fit.
+
+241
+00:14:02,160 --> 00:14:03,460
+His feet don't fit.
+
+242
+00:14:05,460 --> 00:14:06,920
+He's hot in his hat.
+
+243
+00:14:07,820 --> 00:14:10,820
+And the ball is in his bowl.
+
+244
 00:15:33,480 --> 00:15:35,940
 It hurts, doesn't it?
 
-172
+245
 00:15:37,600 --> 00:15:39,820
 You'll feel better tomorrow, Betty, believe me.
 
-173
+246
 00:15:39,980 --> 00:15:44,380
 Only one day, and it won't hurt as much.
 
-174
+247
 00:15:44,680 --> 00:15:45,780
 Do you feel like eating?
 
-175
+248
 00:15:45,840 --> 00:15:47,200
 Having some dinner?
 
-176
+249
 00:15:48,080 --> 00:15:50,860
 Oh, don't look so sad.
 
-177
+250
 00:15:51,320 --> 00:15:52,760
 Let me tell you about your dinner.
 
-178
+251
 00:15:52,900 --> 00:15:54,360
 It's ice cream.
 
-179
+252
 00:15:54,740 --> 00:15:55,840
 Ice cream.
 
-180
+253
 00:15:56,100 --> 00:15:57,560
 All kinds of flavors.
 
-181
+254
 00:15:58,500 --> 00:15:59,620
 Chocolate.
 
-182
+255
 00:16:01,320 --> 00:16:02,540
 Strawberry?
 
-183
+256
 00:16:02,760 --> 00:16:03,740
 Vanilla?
 
-184
+257
 00:16:04,000 --> 00:16:05,300
 Vanilla, too?
 
-185
+258
 00:16:05,820 --> 00:16:08,000
 I see you're feeling better already, Betty.
 
-186
+259
 00:16:08,060 --> 00:16:09,840
 So you will have dinner?
 
-187
+260
 00:16:10,060 --> 00:16:12,140
 OK, honey, we'll see to it
 
-188
+261
 00:16:12,200 --> 00:16:15,060
 that you have strawberry and vanilla ice cream.
 
-189
+262
 00:16:16,520 --> 00:16:17,620
 Just rest now.
 
-190
+263
 00:16:17,720 --> 00:16:20,020
 You need some rest to help you get better quickly.
 
-191
+264
 00:16:25,260 --> 00:16:27,400
 Hi, Frank.
 
-192
+265
 00:16:28,720 --> 00:16:30,260
 How you doing?
 
-193
+266
 00:16:32,360 --> 00:16:33,880
 Oh, come on now.
 
-194
+267
 00:16:33,920 --> 00:16:34,900
 You're a big boy.
 
-195
+268
 00:16:34,940 --> 00:16:36,560
 It doesn't hurt that much, does it?
 
-196
+269
 00:16:38,500 --> 00:16:41,280
 Oh, I'm sorry it hurts so much,
 
-197
+270
 00:16:41,340 --> 00:16:42,820
 and you won't be able to have dinner.
 
-198
+271
 00:16:42,880 --> 00:16:44,880
 You're just going to have to have ice cream.
 
-199
+272
 00:16:46,820 --> 00:16:49,100
 Yes, ice cream.
 
-200
+273
 00:16:49,280 --> 00:16:50,700
 Lots of flavors.
 
-201
+274
 00:16:50,800 --> 00:16:51,840
 Want to hear them?
 
-202
+275
 00:16:52,320 --> 00:16:53,240
 Chocolate?
 
-203
+276
 00:16:53,520 --> 00:16:56,000
 Then chocolate it is.
 
-204
+277
 00:16:56,060 --> 00:16:57,080
 One scoop or two?
 
-205
+278
 00:16:57,280 --> 00:16:59,240
 Three scoops?
 
-206
+279
 00:16:59,540 --> 00:17:03,260
 Then three it will be.
 
-207
+280
 00:17:08,900 --> 00:17:11,300
 You want three scoops also?
 
-208
+281
 00:17:11,380 --> 00:17:12,660
 Chocolate, too?
 
-209
+282
 00:17:13,600 --> 00:17:15,740
 Well, I see you're feeling better.
 
-210
+283
 00:17:16,700 --> 00:17:20,340
 Well, at least you're acting like you feel better.
 
-211
+284
 00:17:20,480 --> 00:17:24,480
 Three scoops of chocolate ice cream for Tim coming up.
 
-212
+285
 00:17:30,620 --> 00:17:32,360
 Hi, Carl.
 
-213
+286
 00:17:33,200 --> 00:17:35,140
 How you doing?
 
-214
+287
 00:17:36,940 --> 00:17:39,040
 I know it hurts.
 
-215
+288
 00:17:39,200 --> 00:17:41,080
 But it'll be better tomorrow.
 
-216
+289
 00:17:41,540 --> 00:17:43,740
 In the meantime, what would you like?
 
-217
+290
 00:17:44,660 --> 00:17:45,760
 Surprise.
 
-218
+291
 00:17:46,360 --> 00:17:47,880
 A surprise?
 
-219
+292
 00:17:48,720 --> 00:17:51,040
 I promised you a surprise, didn't I?
 
-220
+293
 00:17:51,200 --> 00:17:53,360
 And it wasn't just ice cream, was it?
 
-221
+294
 00:17:55,060 --> 00:17:57,320
 Your birthday is tomorrow, isn't it?
 
-222
+295
 00:17:57,980 --> 00:17:59,920
-Well, maybe, 
+Well, maybe,
 
-223
+296
 00:18:00,140 --> 00:18:02,360
 just maybe, there will be a surprise.
 
-224
+297
 00:18:02,620 --> 00:18:05,440
 But first you have to smile.
 
-225
+298
 00:18:05,720 --> 00:18:09,740
 I just want to see one smile from you.
 
-226
+299
 00:18:11,260 --> 00:18:14,240
 No smile, no surprise.
 
-227
+300
 00:18:15,900 --> 00:18:17,800
 That's the deal.
 
-228
+301
 00:18:17,980 --> 00:18:19,820
 No smile, no surprise.
 
-229
+302
 00:18:19,940 --> 00:18:21,360
 If you want a surprise,
 
-230
+303
 00:18:21,400 --> 00:18:23,400
 then you've got to smile first.
 
-231
+304
 00:18:42,440 --> 00:18:44,400
 How are you all doing?
 
-232
+305
 00:18:45,240 --> 00:18:46,740
 Well, I'm glad you're feeling better
 
-233
+306
 00:18:46,780 --> 00:18:49,420
 because we have a little surprise for you today.
 
-234
+307
 00:18:49,560 --> 00:18:50,920
 It's Carl's birthday,
 
-235
+308
 00:18:51,020 --> 00:18:54,220
 and we have Popo the Clown to entertain you.
 
-236
+309
 00:18:54,240 --> 00:18:56,880
 And here he is - Popo the Clown.
 
-237
+310
 00:20:23,100 --> 00:20:26,340
 Happy birthday, Carl. Happy birthday.
 
-238
+311
 00:20:26,400 --> 00:20:27,880
 All right, everybody.
 
-239
+312
 00:20:27,940 --> 00:20:29,020
 OK, Carl.
 
-240
+313
 00:20:29,060 --> 00:20:30,260
 It's your birthday.
 
-241
+314
 00:20:30,360 --> 00:20:31,340
 What's your wish?
 
-242
+315
 00:20:31,440 --> 00:20:32,460
 What would you like?
 
-243
+316
 00:20:32,800 --> 00:20:33,900
 Hmm?
 
-244
+317
 00:20:35,100 --> 00:20:36,540
 You want to play charades?
+
+318
+00:20:49,900 --> 00:20:51,440
+Your birthday is tomorrow.
+
+319
+00:20:53,640 --> 00:20:54,480
+Isn't it?
+
+320
+00:20:55,340 --> 00:20:56,960
+Your birthday is tomorrow, isn't it?
+
+321
+00:20:58,040 --> 00:20:59,940
+I promised you a surprise, didn't I?
+
+322
+00:20:59,940 --> 00:21:01,480
+It wasn't just ice cream.
+
+323
+00:21:03,840 --> 00:21:04,240
+Was it?
+
+324
+00:21:05,520 --> 00:21:07,240
+It wasn't just ice cream, was it?
+
+325
+00:21:10,920 --> 00:21:12,120
+It doesn't hurt that much.
+
+326
+00:21:14,480 --> 00:21:15,040
+Does it?
+
+327
+00:21:16,720 --> 00:21:18,280
+It doesn't hurt that much, does it?
+
+328
+00:21:21,160 --> 00:21:22,920
+Your birthday is tomorrow.
+
+329
+00:21:25,780 --> 00:21:26,840
+Isn't it?
+
+330
+00:21:30,400 --> 00:21:32,620
+And it wasn't just ice cream.
+
+331
+00:21:34,000 --> 00:21:35,880
+Was it?
+
+332
+00:21:39,760 --> 00:21:41,640
+It doesn't hurt that much.
+
+333
+00:21:44,280 --> 00:21:45,440
+Does it?
+
+334
+00:21:49,760 --> 00:21:52,640
+And you promised me a surprise.
+
+335
+00:21:54,120 --> 00:21:55,560
+He was upset.
+
+336
+00:21:58,300 --> 00:21:59,420
+Wasn't he?
+
+337
+00:22:02,400 --> 00:22:04,040
+He wasn't happy.
+
+338
+00:22:07,660 --> 00:22:08,480
+Was he?
+
+339
+00:22:10,900 --> 00:22:12,580
+Happy birthday, Carl.
+
+340
+00:22:12,680 --> 00:22:13,200
+Happy birthday.
+
+341
+00:22:15,840 --> 00:22:17,820
+Carl isn't sad now.
+
+342
+00:22:19,920 --> 00:22:20,960
+Is he?
+
+343
+00:22:21,400 --> 00:22:22,800
+He is happier now.
+
+344
+00:22:24,800 --> 00:22:26,360
+Isn't he?
 

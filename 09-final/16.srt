@@ -175,11 +175,11 @@ No, he doesn't, Robbie.
 He never married.
 
 45
-00:04:17,320 --> 00:04:18,000
+00:04:17,320 --> 00:04:19,060
 He's not as lucky as I am
 
 46
-00:04:18,000 --> 00:04:22,100
+00:04:19,320 --> 00:04:22,100
 to have a family and grandchildren.
 
 47
@@ -475,7 +475,7 @@ and I want to see you again.
 Let's get together, have a reunion."
 
 120
-00:09:20,400 --> 00:09:21,360
+00:09:19,660 --> 00:09:21,360
 Hello. What can I do for you?
 
 121
@@ -631,11 +631,11 @@ This must be Pete's barn.
 Turn right to the house.
 
 159
-00:12:05,980 --> 00:12:06,880
+00:12:11,000 --> 00:12:11,800
 Hi.
 
 160
-00:12:12,500 --> 00:12:13,320
+00:12:11,800 --> 00:12:13,320
 Hi. What can I do for you?
 
 161
@@ -747,7 +747,7 @@ Then you'll see a big old red barn.
 Here goes.
 
 188
-00:13:59,020 --> 00:14:01,640
+00:13:59,020 --> 00:14:02,080
 Oh, oh, here. Yes. OK.
 
 189
@@ -831,7 +831,7 @@ cross the railroad tracks,
 and make a right at the first intersection.
 
 209
-00:14:58,520 --> 00:15:00,620
+00:14:57,740 --> 00:15:00,940
 Pete's driveway should be the first right turn.
 
 210
@@ -887,15 +887,15 @@ You're Peggy Pendleton!
 Who am I, you old rascal?
 
 223
-00:16:56,120 --> 00:16:57,160
+00:16:56,120 --> 00:16:57,500
 You don't recognize me, do you?
 
 224
-00:16:59,280 --> 00:17:00,840
+00:16:57,740 --> 00:16:59,300
 I know who you are.
 
 225
-00:17:00,840 --> 00:17:02,760
+00:16:59,300 --> 00:17:01,600
 You're Arnold Franklin!
 
 226
@@ -951,11 +951,11 @@ The two of you look unbelievable!
 How's your family?
 
 239
-00:17:34,720 --> 00:17:36,020
+00:17:34,720 --> 00:17:35,820
 Oh, I was sorry
 
 240
-00:17:36,240 --> 00:17:37,000
+00:17:35,840 --> 00:17:37,840
 to hear about your wife having passed away.
 
 241
@@ -1031,11 +1031,11 @@ You haven't changed a bit.
 Lillian! Oh, my gosh!
 
 259
-00:18:23,880 --> 00:18:24,280
+00:18:23,880 --> 00:18:24,980
 Lillian Winters.
 
 260
-00:18:24,280 --> 00:18:27,360
+00:18:25,000 --> 00:18:28,320
 We were together in the Thursday night drama society.
 
 261
@@ -1059,11 +1059,11 @@ That's OK, Malcolm.
 Donald passed away a couple of years ago.
 
 266
-00:18:38,840 --> 00:18:39,240
+00:18:38,840 --> 00:18:39,660
 Sorry to hear that, Lillian.
 
 267
-00:18:39,240 --> 00:18:40,280
+00:18:39,660 --> 00:18:40,280
 Oh, I'm so sorry.
 
 268
@@ -1288,7 +1288,7 @@ And he wanted to spend his life with her.
 
 323
 00:21:16,600 --> 00:21:18,340
-Lill liked Pete,
+Lillian liked Pete,
 
 324
 00:21:18,740 --> 00:21:20,920

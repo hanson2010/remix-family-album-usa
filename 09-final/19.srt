@@ -455,7 +455,7 @@ No, no, Robbie doesn't have them.
 He gave them to me to hold on to them
 
 115
-00:05:40,640 --> 00:05:42,640
+00:05:40,640 --> 00:05:42,820
 because he didn't want the responsibility of holding them.
 
 116
@@ -543,7 +543,7 @@ I guess you're right.
 Two hours from now.
 
 137
-00:06:52,600 --> 00:06:53,740
+00:06:36,480 --> 00:06:37,540
 Two hours from now.
 
 138
@@ -827,7 +827,7 @@ Help me with them, Marilyn.
 I've never worn them before.
 
 208
-00:11:31,320 --> 00:11:32,400
+00:11:31,320 --> 00:11:33,180
 I've been saving them for today.
 
 209
@@ -855,11 +855,11 @@ Lovely!
 Lovely!
 
 215
-00:11:58,640 --> 00:11:59,720
+00:11:56,660 --> 00:11:59,660
 Something borrowed, something blue.
 
 216
-00:12:00,000 --> 00:12:01,040
+00:11:59,660 --> 00:12:01,040
 Something old...
 
 217
@@ -951,7 +951,7 @@ Before you leave, do I look all right?
 You never looked better.
 
 239
-00:13:18,480 --> 00:13:19,280
+00:13:19,980 --> 00:13:21,120
 Mom.
 
 240
@@ -1135,236 +1135,236 @@ You bet I will.
 I love you, Harry.
 
 285
-00:17:14,100 --> 00:17:15,500
+00:17:14,100 --> 00:17:15,940
 Philip... Ellen.
 
 286
-00:17:15,600 --> 00:17:17,200
+00:17:15,940 --> 00:17:17,200
 Ah, Judge.
 
 287
-00:17:18,320 --> 00:17:18,960
+00:17:17,200 --> 00:17:18,960
 How are you?
 
 288
-00:17:18,960 --> 00:17:21,520
-I think it's time for the wedding to begin.
+00:17:18,960 --> 00:17:19,400
+Hello.
 
 289
+00:17:19,400 --> 00:17:21,520
+I think it's time for the wedding to begin.
+
+290
 00:17:26,960 --> 00:17:28,800
 All right, ladies and gentlemen.
 
-290
+291
 00:17:28,800 --> 00:17:30,120
 Please take your places.
 
-291
+292
 00:17:30,200 --> 00:17:32,600
 The wedding ceremony is about to begin.
 
-292
-00:17:56,260 --> 00:17:57,160
+293
+00:17:55,000 --> 00:17:57,160
 OK, Jane. Start the music.
 
-293
+294
 00:18:51,080 --> 00:18:52,420
 Dearly beloved,
 
-294
+295
 00:18:52,420 --> 00:18:54,340
 we are gathered here today
 
-295
+296
 00:18:54,340 --> 00:18:59,560
 to join this man and this woman in holy matrimony.
 
-296
+297
 00:19:00,540 --> 00:19:02,800
 Do either of you have any reason
 
-297
+298
 00:19:02,880 --> 00:19:05,720
 why you should not be legally joined in marriage?
 
-298
+299
 00:19:08,060 --> 00:19:10,000
 Is there anyone present who can show
 
-299
+300
 00:19:10,000 --> 00:19:12,440
 any just cause why these two people
 
-300
+301
 00:19:12,440 --> 00:19:15,340
 should not be legally joined in marriage?
 
-301
+302
 00:19:19,360 --> 00:19:22,320
 Then, Harry Bennett, do you take Susan Stewart
 
-302
+303
 00:19:22,320 --> 00:19:24,080
 to be your lawful, wedded wife?
 
-303
+304
 00:19:26,580 --> 00:19:27,420
 I do.
 
-304
+305
 00:19:28,880 --> 00:19:31,040
 And you, Susan Stewart,
 
-305
+306
 00:19:31,200 --> 00:19:32,540
 do you take Harry Bennett
 
-306
+307
 00:19:32,540 --> 00:19:34,400
 to be your lawful, wedded husband?
 
-307
+308
 00:19:36,320 --> 00:19:37,160
 I do.
 
-308
+309
 00:19:38,040 --> 00:19:39,200
 The rings, please.
 
-309
+310
 00:19:42,520 --> 00:19:43,520
 I have them, Harry.
 
-310
+311
 00:20:10,120 --> 00:20:14,320
 By the power vested in me by the laws of the State of New York,
 
-311
+312
 00:20:14,760 --> 00:20:17,740
 I now pronounce you husband and wife.
 
-312
+313
 00:20:19,080 --> 00:20:20,940
 You may kiss the bride now, Harry.
 
-313
+314
 00:20:49,100 --> 00:20:51,160
 What a wonderful wedding, Philip.
 
-314
+315
 00:20:51,920 --> 00:20:52,600
 Just perfect.
 
-315
+316
 00:20:54,120 --> 00:20:55,340
 It was, Ellen.
 
-316
+317
 00:20:55,340 --> 00:20:58,080
 And you were the beautiful mother of the bride.
 
-317
+318
 00:20:58,480 --> 00:21:00,440
 Look at you, here, with Robbie,
 
-318
+319
 00:21:00,440 --> 00:21:02,260
 as he escorted you onto the patio.
 
-319
+320
 00:21:02,640 --> 00:21:04,320
 Robbie looked so grown up.
 
-320
+321
 00:21:04,760 --> 00:21:06,920
 And handsome, like his father.
 
-321
+322
 00:21:08,000 --> 00:21:09,720
 And look at Michelle.
 
-322
+323
 00:21:10,200 --> 00:21:11,720
 What a sweet flower girl.
 
-323
+324
 00:21:11,720 --> 00:21:13,300
 She was so excited.
 
-324
+325
 00:21:13,300 --> 00:21:14,720
 She'd never been to a wedding before.
 
-325
+326
 00:21:16,500 --> 00:21:18,840
 And here's Susan's bridesmaid, Marilyn.
 
-326
+327
 00:21:19,160 --> 00:21:22,060
 Marilyn was Susan's matron of honor, Philip.
 
-327
+328
 00:21:23,120 --> 00:21:24,960
 Look at Richard and Harry.
 
-328
+329
 00:21:25,560 --> 00:21:27,520
 They seem like brothers, don't they?
 
-329
+330
 00:21:28,640 --> 00:21:31,460
 And Dad with our new grandson, Max.
 
-330
+331
 00:21:31,460 --> 00:21:33,640
 I love this picture.
 
-331
+332
 00:21:34,580 --> 00:21:38,440
 And I love this one of you escorting Susan.
 
-332
+333
 00:21:38,440 --> 00:21:40,560
 That's our little girl, Ellen.
 
-333
+334
 00:21:40,560 --> 00:21:41,120
 Oh, Philip.
 
-334
+335
 00:21:41,720 --> 00:21:44,360
 I remember when she was just a baby.
 
-335
+336
 00:21:45,240 --> 00:21:47,460
 Our little girl grew up so fast.
 
-336
+337
 00:21:55,760 --> 00:22:00,340
 And now she's a mature, married woman with her own family.
 
-337
+338
 00:22:01,980 --> 00:22:04,160
 I feel like I've lost my daughter.
 
-338
+339
 00:22:04,180 --> 00:22:06,320
 Ellen, you haven't lost a daughter.
 
-339
+340
 00:22:07,140 --> 00:22:08,480
 We've gained a son.
 
-340
+341
 00:22:08,480 --> 00:22:11,520
 A talented, intelligent, likable son,
 
-341
-00:22:11,720 --> 00:22:13,620
-who happens to love our daughter very much.
-
 342
-00:22:13,620 --> 00:22:14,020
-You're right.
+00:22:11,720 --> 00:22:14,340
+who happens to love our daughter very much.
 
 343
 00:22:14,640 --> 00:22:17,720

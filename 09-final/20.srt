@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:05,000 --> 00:00:08,000
 Subtitles added by Hanson Hu
 
@@ -7,1110 +7,1542 @@ Subtitles added by Hanson Hu
 Episode 20 - Quality Time
 
 3
-00:02:02,600 --> 00:02:05,600
+00:02:00,920 --> 00:02:02,380
 Where's Mom?
 
 4
-00:02:05,600 --> 00:02:07,600
+00:02:02,840 --> 00:02:04,560
 She went to a school-board meeting.
 
 5
-00:02:07,600 --> 00:02:10,600
+00:02:05,600 --> 00:02:06,840
 I don't know how she does it.
 
 6
-00:02:10,600 --> 00:02:11,600
+00:02:06,840 --> 00:02:08,160
 She sure keeps busy.
 
 7
-00:02:11,600 --> 00:02:13,600
+00:02:08,520 --> 00:02:10,160
 It's important to her.
 
 8
-00:02:13,600 --> 00:02:16,600
+00:02:12,000 --> 00:02:13,260
 There are lots of places to go,
 
 9
-00:02:16,600 --> 00:02:17,600
+00:02:13,400 --> 00:02:14,520
 lots of things to do.
 
 10
-00:02:17,600 --> 00:02:21,600
+00:02:14,520 --> 00:02:17,860
 She can't sit around and do nothing.
 
 11
-00:02:21,600 --> 00:02:22,600
+00:02:17,920 --> 00:02:19,200
 Philip works late.
 
 12
-00:02:22,600 --> 00:02:24,600
+00:02:19,400 --> 00:02:21,100
 I guess you're right.
 
 13
-00:02:24,600 --> 00:02:27,600
+00:02:22,160 --> 00:02:23,900
 I wish I had her energy.
 
 14
-00:02:27,600 --> 00:02:29,600
+00:02:24,580 --> 00:02:26,400
 Anybody home?
 
 15
-00:02:29,600 --> 00:02:31,600
+00:02:26,460 --> 00:02:27,600
 We're in here, Dad.
 
 16
-00:02:31,600 --> 00:02:35,600
+00:02:29,600 --> 00:02:31,560
 Oh. Hi, gang.
 
 17
-00:02:35,600 --> 00:02:36,600
+00:02:31,900 --> 00:02:32,800
 Hello, Philip.
 
 18
-00:02:36,600 --> 00:02:37,600
+00:02:32,800 --> 00:02:33,780
 How was your day?
 
 19
-00:02:37,600 --> 00:02:39,600
+00:02:33,780 --> 00:02:36,380
 My day was just fine.
 
 20
-00:02:39,600 --> 00:02:41,600
+00:02:36,840 --> 00:02:38,120
 So was my night.
 
 21
-00:02:41,600 --> 00:02:43,600
+00:02:38,120 --> 00:02:40,080
 It's almost ten o'clock.
 
 22
-00:02:43,600 --> 00:02:46,600
+00:02:40,080 --> 00:02:43,440
 Mmm. I'm starving.
 
 23
-00:02:46,600 --> 00:02:47,600
+00:02:43,720 --> 00:02:44,560
 Um... where's Mom?
 
 24
-00:02:47,600 --> 00:02:49,600
+00:02:44,680 --> 00:02:46,320
 She went to a school-board meeting.
 
 25
-00:02:49,600 --> 00:02:52,600
+00:02:46,520 --> 00:02:49,060
 There's a note for you on the refrigerator.
 
 26
-00:02:52,600 --> 00:02:53,600
+00:02:49,520 --> 00:02:50,240
 Oh?
 
 27
-00:03:29,600 --> 00:03:32,600
+00:03:26,880 --> 00:03:27,960
 Did you have dinner, Robbie?
 
 28
-00:03:32,600 --> 00:03:33,600
+00:03:28,000 --> 00:03:28,740
 Yeah.
 
 29
-00:03:33,600 --> 00:03:34,600
+00:03:28,800 --> 00:03:30,660
 Mike and I had a hamburger at the diner.
 
 30
-00:03:34,600 --> 00:03:35,600
+00:03:30,660 --> 00:03:31,900
 I came home a little while ago.
 
 31
-00:03:35,600 --> 00:03:37,600
+00:03:33,260 --> 00:03:34,560
 You've been working late
 
 32
-00:03:37,600 --> 00:03:39,600
+00:03:34,560 --> 00:03:36,020
 almost every night this week, Dad.
 
 33
-00:03:39,600 --> 00:03:40,600
+00:03:36,020 --> 00:03:37,220
 Aren't you exhausted?
 
 34
-00:03:40,600 --> 00:03:43,600
+00:03:38,580 --> 00:03:40,180
 I don't have time to be exhausted.
 
 35
-00:03:43,600 --> 00:03:46,600
+00:03:41,060 --> 00:03:43,040
 You and Mom haven't had dinner together with us
 
 36
-00:03:46,600 --> 00:03:47,600
+00:03:43,040 --> 00:03:44,360
 in almost a full week.
 
 37
-00:03:47,600 --> 00:03:48,600
+00:03:44,860 --> 00:03:45,400
 Yeah,
 
 38
-00:03:48,600 --> 00:03:50,600
+00:03:45,400 --> 00:03:47,120
 I feel bad
 
 39
-00:03:50,600 --> 00:03:52,600
+00:03:47,200 --> 00:03:48,640
 about us not having dinner with the family,
 
 40
-00:03:52,600 --> 00:03:54,600
+00:03:48,640 --> 00:03:50,800
 but our schedules are so different.
 
 41
-00:03:54,600 --> 00:03:56,600
+00:03:51,000 --> 00:03:52,940
 Either I'm at the hospital doing paperwork,
 
 42
-00:03:56,600 --> 00:03:58,600
+00:03:52,940 --> 00:03:54,840
 or Mom is at a committee meeting.
 
 43
-00:03:58,600 --> 00:04:01,600
+00:03:55,320 --> 00:03:58,560
 I frankly don't know what to do about it.
 
 44
-00:04:01,600 --> 00:04:04,600
+00:03:59,520 --> 00:04:01,240
 I'm worried about you and Mom.
 
 45
-00:04:04,600 --> 00:04:07,600
+00:04:01,860 --> 00:04:04,000
 You really have been working too hard.
 
 46
-00:04:07,600 --> 00:04:08,600
+00:04:04,820 --> 00:04:05,280
 Well,
 
 47
-00:04:08,600 --> 00:04:10,600
+00:04:05,280 --> 00:04:06,600
 I think I've had enough of that sandwich.
 
 48
-00:04:10,600 --> 00:04:12,600
+00:04:07,100 --> 00:04:08,480
 You didn't finish it.
 
 49
-00:04:12,600 --> 00:04:17,600
+00:04:12,400 --> 00:04:14,400
 It's not good to eat before going to bed.
 
 50
-00:04:17,600 --> 00:04:21,600
+00:04:16,400 --> 00:04:18,160
 A cookie can't hurt, though.
 
 51
-00:04:21,600 --> 00:04:23,600
+00:04:18,400 --> 00:04:18,800
 Well,
 
 52
-00:04:23,600 --> 00:04:25,600
+00:04:19,940 --> 00:04:21,620
 I'm heading off for bed
 
 53
-00:04:25,600 --> 00:04:26,600
+00:04:21,760 --> 00:04:23,440
 and a good night's sleep.
 
 54
-00:04:26,600 --> 00:04:28,600
+00:04:23,940 --> 00:04:25,160
 Well, good night.
 
 55
-00:04:28,600 --> 00:04:29,600
+00:04:25,280 --> 00:04:26,360
 Good night, Son.
 
 56
-00:04:29,600 --> 00:04:32,600
+00:04:28,680 --> 00:04:29,760
 Good night, Dad.
 
 57
-00:04:32,600 --> 00:04:33,600
+00:04:29,760 --> 00:04:30,460
 I'm going to bed.
 
 58
-00:04:33,600 --> 00:04:34,600
+00:04:30,600 --> 00:04:31,560
 Good night, Philip.
 
 59
-00:04:34,600 --> 00:04:37,600
+00:04:32,720 --> 00:04:34,520
 Haven't you finished balancing that checkbook?
 
 60
-00:04:37,600 --> 00:04:40,600
+00:04:34,700 --> 00:04:36,800
 I found another mistake.
 
 61
-00:04:40,600 --> 00:04:43,600
+00:04:37,660 --> 00:04:40,060
 I'll be off to bed myself in a minute.
 
 62
-00:04:43,600 --> 00:04:44,600
+00:04:40,060 --> 00:04:41,600
 OK. Good night.
 
 63
-00:04:44,600 --> 00:04:55,600
+00:04:50,040 --> 00:04:51,680
 I'm really concerned about them,
 
 64
-00:04:55,600 --> 00:04:56,600
+00:04:51,680 --> 00:04:52,360
 Grandpa.
 
 65
-00:04:56,600 --> 00:04:57,600
+00:04:52,720 --> 00:04:54,360
 Concerned about whom?
 
 66
-00:04:57,600 --> 00:04:59,600
+00:04:54,520 --> 00:04:55,940
 About Mom and Dad.
 
 67
-00:04:59,600 --> 00:05:01,600
+00:04:55,940 --> 00:04:58,260
 They hardly ever see each other.
 
 68
-00:05:01,600 --> 00:05:03,600
+00:04:59,040 --> 00:05:00,580
 Dad often works late,
 
 69
-00:05:03,600 --> 00:05:05,600
+00:05:00,680 --> 00:05:02,660
 and Mom has all these committees she's on.
 
 70
-00:05:05,600 --> 00:05:09,600
+00:05:02,900 --> 00:05:05,720
 What do you propose to do about it?
 
 71
-00:05:09,600 --> 00:05:11,600
+00:05:05,840 --> 00:05:08,040
 You have that look in your eye.
 
 72
-00:05:11,600 --> 00:05:12,600
+00:05:08,300 --> 00:05:09,200
 I don't know,
 
 73
-00:05:12,600 --> 00:05:14,600
+00:05:09,200 --> 00:05:11,100
 but there must be a way
 
 74
-00:05:14,600 --> 00:05:16,600
+00:05:11,100 --> 00:05:13,180
 of getting them to spend more time together.
 
 75
-00:05:16,600 --> 00:05:19,600
+00:05:13,180 --> 00:05:14,700
 Quality time.
 
 76
-00:09:01,600 --> 00:09:04,600
-Hello there, Robbie.
+00:05:24,080 --> 00:05:28,800
+I got home late after working all day.
 
 77
-00:09:04,600 --> 00:09:06,600
-What are you doing up this late?
+00:05:28,800 --> 00:05:32,480
+I was hoping to find you, but you were away.
 
 78
-00:09:06,600 --> 00:09:08,600
-Reading.
+00:05:32,680 --> 00:05:36,220
+You left me some dinner, something to eat,
 
 79
-00:09:08,600 --> 00:09:09,600
-Reading?
+00:05:36,220 --> 00:05:41,120
+but I won't be waiting up, 'cause I gotta get to sleep.
 
 80
-00:09:09,600 --> 00:09:10,600
-At this hour?
+00:05:41,520 --> 00:05:45,700
+I'm gonna get home late after working all day.
 
 81
-00:09:10,600 --> 00:09:11,600
-Ah, come on, Robbie.
+00:05:45,760 --> 00:05:49,460
+I know you'll be home, but I'll miss you anyway.
 
 82
-00:09:11,600 --> 00:09:12,600
-What are you doing up this late?
+00:05:49,480 --> 00:05:53,040
+I hope you find my note and have something to eat.
 
 83
-00:09:12,600 --> 00:09:15,600
-Things on my mind.
+00:05:53,040 --> 00:05:56,720
+I really wanna see you, but you'll be asleep.
 
 84
-00:09:15,600 --> 00:09:19,600
-Do you care to talk about them?
+00:05:56,920 --> 00:06:02,480
+We never seem to have any fun like we had before.
 
 85
-00:09:19,600 --> 00:09:21,600
-Sure,
+00:06:04,400 --> 00:06:09,720
+We're working too hard, and I never get to see you anymore.
 
 86
-00:09:21,600 --> 00:09:23,600
-if you don't mind listening.
+00:06:11,840 --> 00:06:15,380
+We have to make time for each other.
 
 87
-00:09:23,600 --> 00:09:26,600
-Robbie, Robbie, remember me?
+00:06:15,580 --> 00:06:19,120
+We owe it to ourselves and one another.
 
 88
-00:09:26,600 --> 00:09:28,600
-I'm your mother.
+00:06:19,320 --> 00:06:21,160
+So why don't we do it?
 
 89
-00:09:28,600 --> 00:09:31,600
-If you have something you want to talk about,
+00:06:21,360 --> 00:06:23,520
+What do you say?
 
 90
-00:09:31,600 --> 00:09:32,600
-I'm always prepared to listen.
+00:06:23,720 --> 00:06:24,980
+Let's make some changes.
 
 91
-00:09:32,600 --> 00:09:36,600
-You haven't been around much lately.
+00:06:24,980 --> 00:06:26,800
+We can start today.
 
 92
-00:09:36,600 --> 00:09:39,600
-So that's it.
+00:06:27,000 --> 00:06:31,440
+We need some quality time together.
 
 93
-00:09:39,600 --> 00:09:41,600
-OK, let's talk.
+00:06:31,640 --> 00:06:35,280
+What we need is quality time, oh yeah.
 
 94
-00:09:41,600 --> 00:09:45,600
-You and Dad are like ships that pass in the night.
+00:06:35,380 --> 00:06:38,000
+We need to talk to each other,
 
 95
-00:09:45,600 --> 00:09:48,600
-Dad works hard, and he works late.
+00:06:38,000 --> 00:06:40,320
+laugh with each other.
 
 96
-00:09:48,600 --> 00:09:50,600
-You work hard on all your committees,
+00:06:40,520 --> 00:06:43,560
+Let's get together, you and me,
 
 97
-00:09:50,600 --> 00:09:52,600
-and you work late.
+00:06:43,760 --> 00:06:45,260
+with quality time.
 
 98
-00:09:52,600 --> 00:09:54,600
-I thought you were proud of the work I do.
+00:06:45,260 --> 00:06:48,480
+We'll enjoy each other's company.
 
 99
-00:09:54,600 --> 00:09:55,600
-I am, Mom.
+00:06:49,140 --> 00:06:53,120
+You're working long hours, and you're never at home.
 
 100
-00:09:55,600 --> 00:09:56,600
-Real proud.
+00:06:53,320 --> 00:06:56,400
+Sometimes it seems you're just a voice on the phone.
 
 101
-00:09:56,600 --> 00:10:00,600
-You are one fantastic mom,
+00:06:56,400 --> 00:07:00,360
+And when you call, you say you'll be home late.
 
 102
-00:10:00,600 --> 00:10:04,600
-but ... but I've been noticing
+00:07:00,560 --> 00:07:04,980
+You're always missing dinner, 'cause it just can't wait.
 
 103
-00:10:04,600 --> 00:10:06,600
-how little quality time
+00:07:05,840 --> 00:07:09,560
+My job keeps me busy, and I know you're busy too.
 
 104
-00:10:06,600 --> 00:10:09,600
-you spend with Dad and me... and the family.
+00:07:09,620 --> 00:07:13,200
+I really wanna spend more time with you.
 
 105
-00:10:09,600 --> 00:10:15,600
-It's a real problem, Robbie.
+00:07:13,340 --> 00:07:16,880
+I'm getting up early, and I'm coming home late.
 
 106
-00:10:15,600 --> 00:10:17,600
-I know it.
+00:07:17,080 --> 00:07:21,500
+If I wanna see you, I gotta make a special date.
 
 107
-00:10:17,600 --> 00:10:22,600
-I'm concerned.
+00:07:21,700 --> 00:07:25,480
+We need some quality time together.
 
 108
-00:10:22,600 --> 00:10:24,600
-There must be a way
+00:07:25,480 --> 00:07:29,440
+What we need is quality time, oh yeah.
 
 109
-00:10:24,600 --> 00:10:27,600
-that Dad and you can spend more time together.
+00:07:29,640 --> 00:07:31,920
+We need to talk to each other,
 
 110
-00:10:27,600 --> 00:10:31,600
-Well, we always talk about
+00:07:31,960 --> 00:07:34,000
+laugh with each other.
 
 111
-00:10:31,600 --> 00:10:33,600
-taking a vacation together with the family.
+00:08:59,040 --> 00:09:00,640
+Hello there, Robbie.
 
 112
-00:10:33,600 --> 00:10:36,600
-I think you ought to
+00:09:01,440 --> 00:09:03,040
+What are you doing up this late?
 
 113
-00:10:36,600 --> 00:10:39,600
-take a vacation away from the family, alone.
+00:09:03,620 --> 00:09:04,320
+Reading.
 
 114
-00:10:39,600 --> 00:10:41,600
-Kind of a second honeymoon.
+00:09:04,760 --> 00:09:05,700
+Reading?
 
 115
-00:10:41,600 --> 00:10:44,600
-It would be wonderful,
+00:09:05,700 --> 00:09:06,840
+At this hour?
 
 116
-00:10:44,600 --> 00:10:46,600
-but our schedules won't allow it.
+00:09:07,120 --> 00:09:08,120
+Ah, come on, Robbie.
 
 117
-00:10:46,600 --> 00:10:48,600
-I think I have an idea.
+00:09:08,120 --> 00:09:09,200
+What are you doing up this late?
 
 118
-00:10:48,600 --> 00:10:50,600
-You do?
+00:09:09,940 --> 00:09:11,340
+Things on my mind.
 
 119
-00:10:50,600 --> 00:10:51,600
-Yup.
+00:09:14,320 --> 00:09:15,840
+Do you care to talk about them?
 
 120
-00:10:51,600 --> 00:10:53,600
-I think I have an idea
+00:09:17,560 --> 00:09:18,080
+Sure,
 
 121
-00:10:53,600 --> 00:10:54,600
-that will bring Dad and you
+00:09:18,080 --> 00:09:19,260
+if you don't mind listening.
 
 122
-00:10:54,600 --> 00:10:56,600
-together in a more scheduled way.
+00:09:21,700 --> 00:09:23,120
+Robbie, Robbie, remember me?
 
 123
-00:10:56,600 --> 00:10:58,600
-What is it?
+00:09:23,280 --> 00:09:24,240
+I'm your mother.
 
 124
-00:10:58,600 --> 00:10:59,600
-Well,
+00:09:24,360 --> 00:09:27,520
+If you have something you want to talk about,
 
 125
-00:10:59,600 --> 00:11:01,600
-you know how Dad is always talking about
+00:09:27,520 --> 00:09:29,280
+I'm always prepared to listen.
 
 126
-00:11:01,600 --> 00:11:02,600
-the kids in the ward
+00:09:30,560 --> 00:09:32,280
+You haven't been around much lately.
 
 127
-00:11:02,600 --> 00:11:05,600
-and how important it is for them to be paid attention to?
+00:09:34,460 --> 00:09:35,540
+So that's it.
 
 128
-00:11:05,600 --> 00:11:06,600
-Yes.
+00:09:37,000 --> 00:09:38,240
+OK, let's talk.
 
 129
-00:11:06,600 --> 00:11:07,600
-Well...
+00:09:38,560 --> 00:09:41,440
+You and Dad are like ships that pass in the night.
 
 130
-00:11:07,600 --> 00:11:08,600
-and how hard it is
+00:09:41,720 --> 00:09:44,360
+Dad works hard, and he works late.
 
 131
-00:11:08,600 --> 00:11:10,600
-because the doctors and nurses are so busy?
+00:09:44,960 --> 00:09:46,880
+You work hard on all your committees,
 
 132
-00:11:10,600 --> 00:11:11,600
-Yes.
+00:09:46,880 --> 00:09:48,020
+and you work late.
 
 133
-00:11:11,600 --> 00:11:16,600
-Well, how would it be if you took some time
+00:09:48,240 --> 00:09:50,560
+I thought you were proud of the work I do.
 
 134
-00:11:16,600 --> 00:11:18,600
-to work with Dad towards solving that problem?
+00:09:50,600 --> 00:09:51,800
+I am, Mom.
 
 135
-00:11:18,600 --> 00:11:20,600
-I don't get it.
+00:09:51,800 --> 00:09:52,980
+Real proud.
 
 136
-00:11:20,600 --> 00:11:24,600
-Like setting up a regular weekly reading program.
+00:09:53,740 --> 00:09:56,160
+You are one fantastic mom,
 
 137
-00:11:24,600 --> 00:11:26,600
-You and Dad.
+00:09:57,120 --> 00:10:00,200
+but... but I've been noticing
 
 138
-00:11:26,600 --> 00:11:28,600
-You and Dr. Philip Stewart--
+00:10:00,200 --> 00:10:02,200
+how little quality time
 
 139
-00:11:28,600 --> 00:11:31,600
-going to the children's ward once or twice a week
+00:10:02,200 --> 00:10:05,480
+you spend with Dad and me... and the family.
 
 140
-00:11:31,600 --> 00:11:32,600
-and reading to them.
+00:10:10,480 --> 00:10:12,080
+It's a real problem, Robbie.
 
 141
-00:11:32,600 --> 00:11:35,600
-Not bad.
+00:10:12,080 --> 00:10:14,000
+I know it.
 
 142
-00:11:35,600 --> 00:11:37,600
-Not a bad idea, Robbie.
+00:10:17,300 --> 00:10:18,740
+I'm concerned.
 
 143
-00:11:37,600 --> 00:11:39,600
-As a matter of fact,
+00:10:19,620 --> 00:10:21,100
+There must be a way
 
 144
-00:11:39,600 --> 00:11:41,600
-it fits right in with something I'm working on right now
+00:10:21,100 --> 00:10:23,520
+that Dad and you can spend more time together.
 
 145
-00:11:41,600 --> 00:11:43,600
-with the school-board committee.
+00:10:25,700 --> 00:10:26,920
+Well, we always talk about
 
 146
-00:11:43,600 --> 00:11:44,600
-What's that?
+00:10:26,920 --> 00:10:30,160
+taking a vacation together with the family.
 
 147
-00:11:44,600 --> 00:11:46,600
-I've been trying
+00:10:31,200 --> 00:10:32,360
+I think you ought to
 
 148
-00:11:46,600 --> 00:11:48,600
-to work out a program
+00:10:32,360 --> 00:10:35,480
+take a vacation away from the family, alone.
 
 149
-00:11:48,600 --> 00:11:49,600
-in the public school
+00:10:35,720 --> 00:10:37,480
+Kind of a second honeymoon.
 
 150
-00:11:49,600 --> 00:11:53,600
-that will bring parents and teachers together once a week
+00:10:38,920 --> 00:10:40,000
+It would be wonderful,
 
 151
-00:11:53,600 --> 00:11:56,600
-to read to the students - their own children, really.
+00:10:40,000 --> 00:10:42,080
+but our schedules won't allow it.
 
 152
-00:11:56,600 --> 00:11:58,600
-By doing that, it will encourage reading.
+00:10:42,240 --> 00:10:44,240
+I think I have an idea.
 
 153
-00:11:58,600 --> 00:12:01,600
-So it might fit in with a program
+00:10:45,980 --> 00:10:46,700
+You do?
 
 154
-00:12:01,600 --> 00:12:03,600
-for reading to the kids in the hospital.
+00:10:46,700 --> 00:10:47,400
+Yup.
 
 155
-00:12:03,600 --> 00:12:04,600
-You're right.
+00:10:47,640 --> 00:10:49,240
+I think I have an idea
 
 156
-00:12:04,600 --> 00:12:06,600
-We'll do it!
+00:10:49,320 --> 00:10:50,800
+that will bring Dad and you
 
 157
-00:12:06,600 --> 00:12:08,600
-I'm going to talk to Daddy about it right now.
+00:10:50,800 --> 00:10:52,640
+together in a more scheduled way.
 
 158
-00:12:08,600 --> 00:12:12,600
-But Dad was so exhausted when he came home from work.
-
-159
-00:12:12,600 --> 00:12:14,600
-Why don't you talk to him about it tomorrow?
-
-160
-00:12:14,600 --> 00:12:18,600
-You are a very smart young man, Robbie.
-
-161
-00:12:18,600 --> 00:12:21,600
-I think I'll wait until tomorrow.
-
-162
-00:12:21,600 --> 00:12:23,600
-You won't forget, will you?
-
-163
-00:12:23,600 --> 00:12:25,600
-Believe me, I won't.
-
-164
-00:12:25,600 --> 00:12:27,600
-It is a great idea,
-
-165
-00:12:27,600 --> 00:12:29,600
-and I promise you I won't forget.
-
-166
-00:12:29,600 --> 00:12:31,600
-Thanks, Mom.
-
-167
-00:12:31,600 --> 00:12:32,600
-Thank you, Robbie.
-
-168
-00:15:11,600 --> 00:15:14,600
-Good morning.
-
-169
-00:15:14,600 --> 00:15:16,600
-What a wonderful morning!
-
-170
-00:15:16,600 --> 00:15:18,600
-Don't the flowers smell wonderful?
-
-171
-00:15:18,600 --> 00:15:20,600
-Good morning, Ellen.
-
-172
-00:15:20,600 --> 00:15:22,600
-Yes, they do.
-
-173
-00:15:22,600 --> 00:15:25,600
-That's why I'm reading my paper and having my coffee
-
-174
-00:15:25,600 --> 00:15:27,600
-on the patio this morning.
-
-175
-00:15:27,600 --> 00:15:32,600
-Ah, it does smell sweet.
-
-176
-00:15:32,600 --> 00:15:35,600
-How was your school-board meeting last night?
-
-177
-00:15:35,600 --> 00:15:37,600
-You must've come home very late.
-
-178
-00:15:37,600 --> 00:15:39,600
-Did you find the sandwich I made for you?
-
-179
-00:15:39,600 --> 00:15:41,600
-Thanks, dear.
-
-180
-00:15:41,600 --> 00:15:44,600
-I was so tired
-
-181
-00:15:44,600 --> 00:15:45,600
-I didn't even finish it.
-
-182
-00:15:45,600 --> 00:15:52,600
-Philip, I've been working on this special project
-
-183
-00:15:52,600 --> 00:15:53,600
-with the school board,
-
-184
-00:15:53,600 --> 00:15:55,600
-and I'd like your opinion about it.
-
-185
-00:15:55,600 --> 00:15:57,600
+00:10:54,040 --> 00:10:54,880
 What is it?
 
-186
-00:15:57,600 --> 00:16:00,600
-I've been trying to find
-
-187
-00:16:00,600 --> 00:16:02,600
-a way to encourage reading.
-
-188
-00:16:02,600 --> 00:16:05,600
-Good luck!
-
-189
-00:16:05,600 --> 00:16:08,600
-Well, I think I may have found a way to do it.
-
-190
-00:16:08,600 --> 00:16:09,600
-Tell me about it.
-
-191
-00:16:09,600 --> 00:16:12,600
-I work with families every day, Ellen.
-
-192
-00:16:12,600 --> 00:16:14,600
-I see how people spend their leisure time,
-
-193
-00:16:14,600 --> 00:16:16,600
-young and old.
-
-194
-00:16:16,600 --> 00:16:18,600
-Mostly watching television.
-
-195
-00:16:18,600 --> 00:16:20,600
-Well, that would be OK
-
-196
-00:16:20,600 --> 00:16:22,600
-if, and I repeat,
-
-197
-00:16:22,600 --> 00:16:24,600
-if people took the time to read.
-
-198
-00:16:24,600 --> 00:16:26,600
-I couldn't agree with you more.
-
-199
-00:16:26,600 --> 00:16:28,600
-The question is,
-
-200
-00:16:28,600 --> 00:16:31,600
-how do we get them to read more?
-
-201
-00:16:31,600 --> 00:16:33,600
-I think
-
-202
-00:16:33,600 --> 00:16:37,600
-you're going to give me the answer to that question.
-
-203
-00:16:37,600 --> 00:16:39,600
-You have that look in your eye.
-
-204
-00:16:39,600 --> 00:16:41,600
-I do have an answer, Philip.
-
-205
-00:16:41,600 --> 00:16:42,600
-Or at least I think I do.
-
-206
-00:16:42,600 --> 00:16:46,600
-Well, tell me about it.
-
-207
-00:16:46,600 --> 00:16:48,600
-The plan is a simple one.
-
-208
-00:16:48,600 --> 00:16:53,600
-Involve the entire family in a reading project.
-
-209
-00:16:53,600 --> 00:16:55,600
-In the home?
-
-210
-00:16:55,600 --> 00:16:57,600
-Yes, in the home.
-
-211
-00:16:57,600 --> 00:16:58,600
-But first in the school-rooms.
-
-212
-00:16:58,600 --> 00:17:01,600
-Hmm, interesting.
-
-213
-00:17:01,600 --> 00:17:05,600
-But how do you plan to do that?
-
-214
-00:17:05,600 --> 00:17:08,600
-By arranging with the public schools
-
-215
-00:17:08,600 --> 00:17:11,600
-to schedule one hour a week to start with.
-
-216
-00:17:11,600 --> 00:17:13,600
-During that time
-
-217
-00:17:13,600 --> 00:17:15,600
-parents are invited to attend--
-
-218
-00:17:15,600 --> 00:17:17,600
-and to read along with the children - their children.
-
-219
-00:17:17,600 --> 00:17:22,600
-It can go beyond the school system, Ellen.
-
-220
-00:17:22,600 --> 00:17:24,600
-Really?
-
-221
-00:17:24,600 --> 00:17:30,600
-I guarantee you it would go very well in the hospitals.
-
-222
-00:17:30,600 --> 00:17:32,600
-My patients, mostly kids,
-
-223
-00:17:32,600 --> 00:17:35,600
-would love to read and be read to.
-
-224
-00:17:35,600 --> 00:17:37,600
-You think so?
-
-225
-00:17:37,600 --> 00:17:39,600
-I know so.
-
-226
-00:17:39,600 --> 00:17:41,600
-Maybe we can experiment with your patients
-
-227
-00:17:41,600 --> 00:17:44,600
-and see how the plan works.
-
-228
-00:17:44,600 --> 00:17:46,600
-I love the idea.
-
-229
-00:17:46,600 --> 00:17:52,600
-Would you work with me on it?
-
-230
-00:17:52,600 --> 00:17:56,600
-I would love to, Philip.
-
-231
-00:17:56,600 --> 00:18:00,600
-And that way,
-
-232
-00:18:00,600 --> 00:18:03,600
-we'll spend more time together, Ellen.
-
-233
-00:18:03,600 --> 00:18:07,600
-We just don't see each other anymore.
-
-234
-00:18:07,600 --> 00:18:10,600
-You and I are very busy these days.
-
-235
-00:18:10,600 --> 00:18:11,600
-This is true.
-
-236
-00:18:11,600 --> 00:18:14,600
-We need to find time to be together more,
-
-237
-00:18:14,600 --> 00:18:16,600
-to do things together more, you and I.
-
-238
-00:18:16,600 --> 00:18:19,600
-This would be a wonderful way to accomplish that.
-
-239
-00:18:19,600 --> 00:18:20,600
-I have a question.
-
-240
-00:18:20,600 --> 00:18:21,600
-Yes?
-
-241
-00:18:21,600 --> 00:18:24,600
-What do we read?
-
-242
-00:18:24,600 --> 00:18:26,600
-To the patients in the ward?
-
-243
-00:18:26,600 --> 00:18:27,600
-Yes.
-
-244
-00:18:27,600 --> 00:18:29,600
+159
+00:10:55,720 --> 00:10:56,120
 Well,
 
+160
+00:10:56,120 --> 00:10:57,920
+you know how Dad is always talking about
+
+161
+00:10:57,920 --> 00:10:58,840
+the kids in the ward
+
+162
+00:10:58,840 --> 00:11:02,420
+and how important it is for them to be paid attention to?
+
+163
+00:11:02,420 --> 00:11:02,820
+Yes.
+
+164
+00:11:03,320 --> 00:11:03,720
+Well...
+
+165
+00:11:03,800 --> 00:11:04,600
+and how hard it is
+
+166
+00:11:04,600 --> 00:11:06,940
+because the doctors and nurses are so busy?
+
+167
+00:11:07,040 --> 00:11:07,700
+Yes.
+
+168
+00:11:09,680 --> 00:11:11,960
+Well, how would it be if you took some time
+
+169
+00:11:11,960 --> 00:11:14,760
+to work with Dad towards solving that problem?
+
+170
+00:11:15,040 --> 00:11:16,640
+I don't get it.
+
+171
+00:11:17,000 --> 00:11:20,720
+Like setting up a regular weekly reading program.
+
+172
+00:11:20,740 --> 00:11:22,280
+You and Dad.
+
+173
+00:11:22,560 --> 00:11:24,480
+You and Dr. Philip Stewart—
+
+174
+00:11:24,480 --> 00:11:27,320
+going to the children's ward once or twice a week
+
+175
+00:11:27,380 --> 00:11:28,760
+and reading to them.
+
+176
+00:11:29,760 --> 00:11:31,320
+Not bad.
+
+177
+00:11:31,920 --> 00:11:33,920
+Not a bad idea, Robbie.
+
+178
+00:11:34,040 --> 00:11:35,440
+As a matter of fact,
+
+179
+00:11:35,440 --> 00:11:37,920
+it fits right in with something I'm working on right now
+
+180
+00:11:37,920 --> 00:11:38,920
+with the school-board committee.
+
+181
+00:11:39,120 --> 00:11:40,000
+What's that?
+
+182
+00:11:41,200 --> 00:11:42,200
+I've been trying
+
+183
+00:11:42,200 --> 00:11:43,880
+to work out a program
+
+184
+00:11:43,980 --> 00:11:45,180
+in the public school
+
+185
+00:11:45,180 --> 00:11:49,300
+that will bring parents and teachers together once a week
+
+186
+00:11:49,300 --> 00:11:52,320
+to read to the students - their own children, really.
+
+187
+00:11:52,400 --> 00:11:54,920
+By doing that, it will encourage reading.
+
+188
+00:11:55,440 --> 00:11:57,540
+So it might fit in with a program
+
+189
+00:11:57,540 --> 00:11:59,600
+for reading to the kids in the hospital.
+
+190
+00:12:00,380 --> 00:12:01,280
+You're right.
+
+191
+00:12:01,680 --> 00:12:02,640
+We'll do it!
+
+192
+00:12:02,720 --> 00:12:04,940
+I'm going to talk to Daddy about it right now.
+
+193
+00:12:05,580 --> 00:12:08,480
+But Dad was so exhausted when he came home from work.
+
+194
+00:12:08,820 --> 00:12:11,040
+Why don't you talk to him about it tomorrow?
+
+195
+00:12:12,000 --> 00:12:14,720
+You are a very smart young man, Robbie.
+
+196
+00:12:14,760 --> 00:12:17,160
+I think I'll wait until tomorrow.
+
+197
+00:12:18,240 --> 00:12:19,560
+You won't forget, will you?
+
+198
+00:12:19,920 --> 00:12:21,640
+Believe me, I won't.
+
+199
+00:12:21,920 --> 00:12:23,520
+It is a great idea,
+
+200
+00:12:23,660 --> 00:12:25,700
+and I promise you I won't forget.
+
+201
+00:12:26,260 --> 00:12:27,300
+Thanks, Mom.
+
+202
+00:12:27,660 --> 00:12:28,940
+Thank you, Robbie.
+
+203
+00:12:39,760 --> 00:12:41,360
+I don't get it.
+
+204
+00:12:41,360 --> 00:12:43,960
+I don't understand.
+
+205
+00:12:43,960 --> 00:12:45,240
+I don't follow you.
+
+206
+00:12:45,240 --> 00:12:48,200
+No, no. Oh, no, no.
+
+207
+00:12:48,400 --> 00:12:50,080
+Run that by me again,
+
+208
+00:12:50,280 --> 00:12:51,640
+'cause I don't understand.
+
+209
+00:12:51,640 --> 00:12:52,400
+No, no.
+
+210
+00:12:52,600 --> 00:12:55,320
+I don't get it.
+
+211
+00:12:56,120 --> 00:12:58,040
+I don't get it.
+
+212
+00:12:58,260 --> 00:12:59,680
+What do you mean?
+
+213
+00:12:59,780 --> 00:13:01,400
+I don't get the picture.
+
+214
+00:13:01,400 --> 00:13:02,320
+Huh?
+
+215
+00:13:02,380 --> 00:13:03,840
+I don't get it.
+
+216
+00:13:03,840 --> 00:13:06,080
+Explain it all again,
+
+217
+00:13:06,160 --> 00:13:07,240
+'cause I don't understand.
+
+218
+00:13:07,440 --> 00:13:08,520
+No, no.
+
+219
+00:13:08,720 --> 00:13:10,680
+I don't get it.
+
+220
+00:13:10,880 --> 00:13:13,800
+What are you trying to say?
+
+221
+00:13:14,000 --> 00:13:15,820
+What are you trying to say?
+
+222
+00:13:15,920 --> 00:13:17,760
+I don't get it.
+
+223
+00:13:17,960 --> 00:13:20,520
+Exactly what do you mean?
+
+224
+00:13:21,340 --> 00:13:23,820
+I don't follow you.
+
+225
+00:13:24,660 --> 00:13:26,800
+Could you explain that again?
+
+226
+00:13:28,200 --> 00:13:31,140
+I don't get it.
+
+227
+00:13:31,340 --> 00:13:32,840
+I don't understand.
+
+228
+00:13:32,840 --> 00:13:34,440
+I don't follow you.
+
+229
+00:13:34,440 --> 00:13:36,520
+No, no. Oh, no, no.
+
+230
+00:13:36,720 --> 00:13:38,900
+Run that by me again,
+
+231
+00:13:38,900 --> 00:13:40,300
+because I don't understand.
+
+232
+00:13:40,500 --> 00:13:41,340
+No, no.
+
+233
+00:13:41,540 --> 00:13:44,200
+I don't get it.
+
+234
+00:13:44,560 --> 00:13:47,160
+Ah, I get it.
+
+235
+00:13:47,360 --> 00:13:50,660
+Oh, I see what you mean.
+
+236
+00:13:50,860 --> 00:13:54,000
+Yeah, I see what you're trying to say.
+
+237
+00:13:54,200 --> 00:13:56,940
+I get it.
+
+238
+00:13:57,140 --> 00:13:59,800
+Right, I see.
+
+239
+00:14:00,000 --> 00:14:02,900
+Oh, I know what you mean.
+
+240
+00:14:03,100 --> 00:14:05,380
+OK, I follow you now.
+
+241
+00:14:05,380 --> 00:14:06,620
+I understand.
+
+242
+00:14:06,800 --> 00:14:09,780
+I get it.
+
+243
+00:14:11,540 --> 00:14:13,500
+I get it.
+
+244
+00:15:13,000 --> 00:15:14,280
+Good morning.
+
 245
-00:18:29,600 --> 00:18:31,600
-let you and I talk about it.
+00:15:15,280 --> 00:15:17,280
+What a wonderful morning!
 
 246
-00:18:31,600 --> 00:18:34,600
-What would you like to read to them?
+00:15:17,280 --> 00:15:19,200
+Don't the flowers smell wonderful?
 
 247
-00:18:45,600 --> 00:18:48,600
-Mrs. Stewart and I Stewart
+00:15:19,280 --> 00:15:20,760
+Good morning, Ellen.
 
 248
-00:18:48,600 --> 00:18:50,600
-will read a poem by Robert Frost.
+00:15:20,980 --> 00:15:22,960
+Yes, they do.
 
 249
-00:18:50,600 --> 00:18:52,600
-It's called
+00:15:23,200 --> 00:15:26,600
+That's why I'm reading my paper and having my coffee
 
 250
-00:18:52,600 --> 00:18:54,600
-"Stopping by Woods on a Snowy Evening".
+00:15:26,600 --> 00:15:28,000
+on the patio this morning.
 
 251
-00:18:54,600 --> 00:18:57,600
-Would you begin, Ellen?
+00:15:30,720 --> 00:15:32,280
+Ah, it does smell sweet.
 
 252
-00:18:57,600 --> 00:18:58,600
-All right.
+00:15:34,000 --> 00:15:36,520
+How was your school-board meeting last night?
 
 253
-00:18:58,600 --> 00:19:03,600
-"Stopping by Woods on a Snowy Evening"
+00:15:36,520 --> 00:15:37,620
+You must've come home very late.
 
 254
-00:19:03,600 --> 00:19:06,600
-by Robert Frost.
+00:15:37,880 --> 00:15:40,040
+Did you find the sandwich I made for you?
 
 255
-00:19:06,600 --> 00:19:10,600
-Whose woods these are I think I know.
+00:15:40,140 --> 00:15:41,640
+Thanks, dear.
 
 256
-00:19:10,600 --> 00:19:12,600
-His house is in the village though;
+00:15:44,440 --> 00:15:45,280
+I was so tired
 
 257
-00:19:12,600 --> 00:19:15,600
-He will not see me stopping here
+00:15:45,280 --> 00:15:46,280
+I didn't even finish it.
 
 258
-00:19:15,600 --> 00:19:18,600
-To watch his woods fill up with snow.
+00:15:48,360 --> 00:15:52,760
+Philip, I've been working on this special project
 
 259
-00:19:18,600 --> 00:19:21,600
-My little horse must think it queer
+00:15:52,760 --> 00:15:54,000
+with the school board,
 
 260
-00:19:21,600 --> 00:19:23,600
-To stop without a farmhouse near
+00:15:54,000 --> 00:15:56,200
+and I'd like your opinion about it.
 
 261
-00:19:23,600 --> 00:19:26,600
-Between the woods and frozen lake
+00:15:56,440 --> 00:15:57,920
+What is it?
 
 262
-00:19:26,600 --> 00:19:30,600
-The darkest evening of the year.
+00:15:59,480 --> 00:16:00,740
+I've been trying to find
 
 263
-00:19:30,600 --> 00:19:33,600
-He gives his harness bells a shake
+00:16:00,740 --> 00:16:03,280
+a way to encourage reading.
 
 264
-00:19:33,600 --> 00:19:35,600
-To ask if there is some mistake.
+00:16:04,480 --> 00:16:05,360
+Good luck!
 
 265
-00:19:35,600 --> 00:19:38,600
-The only other sound's the sweep
+00:16:06,140 --> 00:16:08,440
+Well, I think I may have found a way to do it.
 
 266
-00:19:38,600 --> 00:19:41,600
-Of easy wind and downy flake.
+00:16:08,800 --> 00:16:10,040
+Tell me about it.
 
 267
-00:19:41,600 --> 00:19:45,600
-The woods are lovely, dark and deep,
+00:16:10,040 --> 00:16:12,360
+I work with families every day, Ellen.
 
 268
-00:19:45,600 --> 00:19:47,600
-But I have promises to keep,
+00:16:12,620 --> 00:16:15,420
+I see how people spend their leisure time,
 
 269
-00:19:47,600 --> 00:19:50,600
-And miles to go before I sleep,
+00:16:15,420 --> 00:16:16,360
+young and old.
 
 270
-00:19:50,600 --> 00:19:55,600
-And miles to go before I sleep.
+00:16:16,800 --> 00:16:18,660
+Mostly watching television.
 
 271
-00:19:55,600 --> 00:20:03,600
-You two belong on stage! That was wonderful!
+00:16:18,840 --> 00:16:20,880
+Well, that would be OK
 
 272
-00:20:03,600 --> 00:20:04,600
-Grandpa!
+00:16:20,880 --> 00:16:22,180
+if, and I repeat,
 
 273
-00:20:04,600 --> 00:20:07,600
-Dad... Robbie. When did you come?
+00:16:22,180 --> 00:16:25,620
+if people took the time to read.
 
 274
-00:20:07,600 --> 00:20:09,600
-We've been listening to you both.
+00:16:25,720 --> 00:16:27,180
+I couldn't agree with you more.
 
 275
-00:20:09,600 --> 00:20:11,600
-These are lucky kids.
+00:16:27,180 --> 00:16:29,280
+The question is,
 
 276
-00:20:11,600 --> 00:20:14,600
-Do you enjoy reading together?
+00:16:29,480 --> 00:16:31,540
+how do we get them to read more?
 
 277
-00:20:14,600 --> 00:20:19,600
-Well, we may read together aloud at home.
+00:16:33,800 --> 00:16:34,240
+I think
 
 278
-00:20:19,600 --> 00:20:21,600
-You were right, Robbie.
+00:16:34,240 --> 00:16:35,960
+you're going to give me the answer to that question.
 
 279
-00:20:21,600 --> 00:20:22,600
+00:16:35,960 --> 00:16:38,980
+You have that look in your eye.
+
+280
+00:16:40,560 --> 00:16:41,840
+I do have an answer, Philip.
+
+281
+00:16:41,840 --> 00:16:43,320
+Or at least I think I do.
+
+282
+00:16:45,400 --> 00:16:46,360
+Well, tell me about it.
+
+283
+00:16:47,920 --> 00:16:49,280
+The plan is a simple one.
+
+284
+00:16:49,900 --> 00:16:53,840
+Involve the entire family in a reading project.
+
+285
+00:16:54,660 --> 00:16:56,000
+In the home?
+
+286
+00:16:56,360 --> 00:16:57,420
+Yes, in the home.
+
+287
+00:16:57,420 --> 00:16:58,860
+But first in the school-rooms.
+
+288
+00:17:01,560 --> 00:17:02,640
+Hmm, interesting.
+
+289
+00:17:03,920 --> 00:17:05,760
+But how do you plan to do that?
+
+290
+00:17:07,480 --> 00:17:09,420
+By arranging with the public schools
+
+291
+00:17:09,440 --> 00:17:12,020
+to schedule one hour a week to start with.
+
+292
+00:17:12,720 --> 00:17:13,780
+During that time
+
+293
+00:17:13,780 --> 00:17:15,500
+parents are invited to attend—
+
+294
+00:17:15,500 --> 00:17:18,240
+and to read along with the children - their children.
+
+295
+00:17:20,080 --> 00:17:22,900
+It can go beyond the school system, Ellen.
+
+296
+00:17:24,220 --> 00:17:25,000
+Really?
+
+297
+00:17:26,620 --> 00:17:31,040
+I guarantee you it would go very well in the hospitals.
+
+298
+00:17:31,340 --> 00:17:33,080
+My patients, mostly kids,
+
+299
+00:17:33,080 --> 00:17:35,360
+would love to read and be read to.
+
+300
+00:17:36,440 --> 00:17:37,160
+You think so?
+
+301
+00:17:37,600 --> 00:17:38,940
+I know so.
+
+302
+00:17:39,760 --> 00:17:41,960
+Maybe we can experiment with your patients
+
+303
+00:17:42,520 --> 00:17:44,000
+and see how the plan works.
+
+304
+00:17:45,320 --> 00:17:46,560
+I love the idea.
+
+305
+00:17:48,920 --> 00:17:51,820
+Would you work with me on it?
+
+306
+00:17:52,880 --> 00:17:56,260
+I would love to, Philip.
+
+307
+00:18:00,000 --> 00:18:00,920
+And that way,
+
+308
+00:18:01,960 --> 00:18:03,880
+we'll spend more time together, Ellen.
+
+309
+00:18:04,520 --> 00:18:07,440
+We just don't see each other anymore.
+
+310
+00:18:08,780 --> 00:18:11,240
+You and I are very busy these days.
+
+311
+00:18:11,240 --> 00:18:11,860
+This is true.
+
+312
+00:18:12,600 --> 00:18:14,940
+We need to find time to be together more,
+
+313
+00:18:14,940 --> 00:18:16,480
+to do things together more, you and I.
+
+314
+00:18:17,840 --> 00:18:19,960
+This would be a wonderful way to accomplish that.
+
+315
+00:18:20,080 --> 00:18:21,040
+I have a question.
+
+316
+00:18:21,740 --> 00:18:22,520
+Yes?
+
+317
+00:18:23,080 --> 00:18:24,320
+What do we read?
+
+318
+00:18:25,920 --> 00:18:27,280
+To the patients in the ward?
+
+319
+00:18:27,280 --> 00:18:28,020
+Yes.
+
+320
+00:18:29,720 --> 00:18:30,560
+Well,
+
+321
+00:18:30,700 --> 00:18:32,000
+let's, you and I, talk about it.
+
+322
+00:18:32,800 --> 00:18:34,520
+What would you like to read to them?
+
+323
+00:18:47,400 --> 00:18:49,080
+Mrs. Stewart and I
+
+324
+00:18:49,080 --> 00:18:51,120
+will read a poem by Robert Frost.
+
+325
+00:18:52,140 --> 00:18:52,680
+It's called
+
+326
+00:18:52,680 --> 00:18:55,020
+"Stopping by Woods on a Snowy Evening".
+
+327
+00:18:56,280 --> 00:18:57,720
+Would you begin, Ellen?
+
+328
+00:18:58,040 --> 00:18:58,680
+All right.
+
+329
+00:19:01,880 --> 00:19:04,460
+"Stopping by Woods on a Snowy Evening"
+
+330
+00:19:05,520 --> 00:19:07,000
+by Robert Frost.
+
+331
+00:19:08,320 --> 00:19:10,700
+Whose woods these are I think I know.
+
+332
+00:19:11,160 --> 00:19:12,780
+His house is in the village though;
+
+333
+00:19:12,780 --> 00:19:16,100
+He will not see me stopping here
+
+334
+00:19:16,100 --> 00:19:19,000
+To watch his woods fill up with snow.
+
+335
+00:19:19,480 --> 00:19:21,760
+My little horse must think it queer
+
+336
+00:19:21,800 --> 00:19:24,200
+To stop without a farmhouse near
+
+337
+00:19:24,620 --> 00:19:27,120
+Between the woods and frozen lake
+
+338
+00:19:27,120 --> 00:19:30,720
+The darkest evening of the year.
+
+339
+00:19:30,960 --> 00:19:33,640
+He gives his harness bells a shake
+
+340
+00:19:33,640 --> 00:19:35,320
+To ask if there is some mistake.
+
+341
+00:19:35,440 --> 00:19:38,000
+The only other sound's the sweep
+
+342
+00:19:38,320 --> 00:19:41,720
+Of easy wind and downy flake.
+
+343
+00:19:42,600 --> 00:19:45,720
+The woods are lovely, dark and deep,
+
+344
+00:19:46,260 --> 00:19:48,040
+But I have promises to keep,
+
+345
+00:19:48,280 --> 00:19:51,200
+And miles to go before I sleep,
+
+346
+00:19:51,380 --> 00:19:55,300
+And miles to go before I sleep.
+
+347
+00:20:00,900 --> 00:20:04,360
+You two belong on stage! That was wonderful!
+
+348
+00:20:04,860 --> 00:20:05,260
+Grandpa!
+
+349
+00:20:05,480 --> 00:20:07,760
+Dad... Robbie. When did you come?
+
+350
+00:20:08,220 --> 00:20:09,920
+We've been listening to you both.
+
+351
+00:20:10,520 --> 00:20:12,520
+These are lucky kids.
+
+352
+00:20:12,800 --> 00:20:15,160
+Do you enjoy reading together?
+
+353
+00:20:15,500 --> 00:20:19,000
+Well, we may read together aloud at home.
+
+354
+00:20:19,760 --> 00:20:21,340
+You were right, Robbie.
+
+355
+00:20:22,560 --> 00:20:23,480
 I know.
+
+356
+00:20:36,760 --> 00:20:39,400
+Whose woods these are I think I know.
+
+357
+00:20:39,600 --> 00:20:42,320
+His house is in the village though;
+
+358
+00:20:42,520 --> 00:20:44,240
+He will not see me stopping here
+
+359
+00:20:44,240 --> 00:20:47,200
+To watch his woods fill up with snow.
+
+360
+00:20:47,400 --> 00:20:49,640
+My little horse must think it queer
+
+361
+00:20:49,640 --> 00:20:51,600
+To stop without a farmhouse near
+
+362
+00:20:51,680 --> 00:20:54,360
+Between the woods and frozen lake
+
+363
+00:20:54,560 --> 00:20:57,320
+The darkest evening of the year.
+
+364
+00:20:57,680 --> 00:20:59,400
+He gives his harness bells a shake
+
+365
+00:20:59,400 --> 00:21:02,160
+To ask if there is some mistake.
+
+366
+00:21:02,360 --> 00:21:04,240
+The only other sound's the sweep
+
+367
+00:21:04,240 --> 00:21:07,040
+Of easy wind and downy flake.
+
+368
+00:21:07,520 --> 00:21:10,040
+The woods are lovely, dark and deep,
+
+369
+00:21:10,240 --> 00:21:12,600
+But I have promises to keep,
+
+370
+00:21:12,800 --> 00:21:15,120
+And miles to go before I sleep,
+
+371
+00:21:15,320 --> 00:21:18,700
+And miles to go before I sleep.
+
+372
+00:21:22,400 --> 00:21:26,240
+Whose woods these are I think I know.
+
+373
+00:21:26,440 --> 00:21:28,880
+His house is in the village though;
+
+374
+00:21:29,080 --> 00:21:31,480
+He will not see me stopping here
+
+375
+00:21:31,480 --> 00:21:35,000
+To watch his woods fill up with snow.
+
+376
+00:21:37,120 --> 00:21:39,640
+My little horse must think it queer
+
+377
+00:21:39,680 --> 00:21:42,880
+To stop without a farmhouse near
+
+378
+00:21:43,120 --> 00:21:45,820
+Between the woods and frozen lake
+
+379
+00:21:45,820 --> 00:21:50,240
+The darkest evening of the year.
+
+380
+00:21:52,660 --> 00:21:55,800
+He gives his harness bells a shake
+
+381
+00:21:55,840 --> 00:21:58,200
+To ask if there is some mistake.
+
+382
+00:21:58,200 --> 00:22:01,280
+The only other sound's the sweep
+
+383
+00:22:01,480 --> 00:22:05,280
+Of easy wind and downy flake.
+
+384
+00:22:08,220 --> 00:22:11,480
+The woods are lovely, dark and deep,
+
+385
+00:22:11,560 --> 00:22:14,040
+But I have promises to keep,
+
+386
+00:22:14,240 --> 00:22:17,480
+And miles to go before I sleep,
+
+387
+00:22:17,680 --> 00:22:21,500
+And miles to go before I sleep.
 

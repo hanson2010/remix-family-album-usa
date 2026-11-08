@@ -679,7 +679,7 @@ You do? Really? It won't be any trouble?
 Oh, yes, I think we'd like that very much.
 
 171
-00:12:51,540 --> 00:12:52,760
+00:12:48,720 --> 00:12:54,460
 Fifteen minutes! Thank you. Good-bye.
 
 172
@@ -840,7 +840,7 @@ use a verb with "to" in front of it.
 
 211
 00:15:30,180 --> 00:15:32,600
-What are they going to do?
+What are they gonna do?
 
 212
 00:15:33,040 --> 00:15:35,300
@@ -1083,7 +1083,7 @@ Hello, operator.
 I'd like to call Riverdale, New York.
 
 272
-00:19:30,457 --> 00:19:32,355
+00:19:30,460 --> 00:19:32,360
 This food is heavenly, isn't it?
 
 273
@@ -1211,7 +1211,7 @@ but we both look so different then.
 Could that really be you and me?
 
 304
-00:22:08,257 --> 00:22:14,300
+00:22:08,260 --> 00:22:14,300
 Every photograph reminds me how I love you,
 
 305

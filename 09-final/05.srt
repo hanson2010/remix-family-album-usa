@@ -7,19 +7,19 @@ Subtitles added by Hanson Hu
 Episode 05 - The Right Magic
 
 3
-00:02:11,074 --> 00:02:12,354
+00:02:11,080 --> 00:02:12,360
 Hi, Grandpa.
 
 4
-00:02:12,411 --> 00:02:13,725
+00:02:12,420 --> 00:02:13,720
 Hi, Robbie.
 
 5
-00:02:14,182 --> 00:02:15,142
+00:02:14,180 --> 00:02:15,140
 Can I help?
 
 6
-00:02:15,577 --> 00:02:16,731
+00:02:15,580 --> 00:02:16,740
 Yes, indeed.
 
 7
@@ -27,15 +27,15 @@ Yes, indeed.
 Hand me two eggs from the refrigerator,
 
 8
-00:02:20,297 --> 00:02:22,891
+00:02:20,300 --> 00:02:22,900
 and I'll make you two fried eggs.
 
 9
-00:02:25,051 --> 00:02:26,468
+00:02:25,060 --> 00:02:26,460
 How about some bacon?
 
 10
-00:02:27,451 --> 00:02:29,382
+00:02:27,460 --> 00:02:29,380
 I made enough for an army.
 
 11
@@ -43,163 +43,163 @@ I made enough for an army.
 You going to the baseball game today?
 
 12
-00:02:33,062 --> 00:02:37,382
+00:02:33,060 --> 00:02:37,380
 It's a perfect day for it, a little cloudy but nice and warm.
 
 13
-00:02:37,405 --> 00:02:39,371
+00:02:37,400 --> 00:02:39,380
 Dad and I were planning to go to the game,
 
 14
-00:02:39,474 --> 00:02:40,788
+00:02:39,480 --> 00:02:40,780
 but he has to work today,
 
 15
-00:02:40,914 --> 00:02:42,594
+00:02:40,920 --> 00:02:42,600
 and my friends don't want to go.
 
 16
-00:02:42,765 --> 00:02:44,582
+00:02:42,760 --> 00:02:44,580
 It's not an important game, anyway.
 
 17
-00:02:45,108 --> 00:02:47,542
+00:02:45,100 --> 00:02:47,540
 Do you have any other plans for the day?
 
 18
-00:02:48,182 --> 00:02:50,057
+00:02:48,180 --> 00:02:50,060
 I'll work on my computer.
 
 19
-00:02:50,365 --> 00:02:53,234
+00:02:50,360 --> 00:02:53,240
 I have a new math program, and I want to learn how to use it.
 
 20
-00:02:53,542 --> 00:02:55,000
+00:02:53,540 --> 00:02:55,000
 Maybe you can teach me
 
 21
-00:02:55,017 --> 00:02:56,948
+00:02:55,020 --> 00:02:56,940
 how to work on a computer someday.
 
 22
-00:02:56,982 --> 00:03:00,651
+00:02:56,980 --> 00:03:00,660
 Anytime. It's really easy, but, like anything,
 
 23
-00:03:00,697 --> 00:03:02,640
+00:03:00,700 --> 00:03:02,640
 you need to work at it, Grandpa.
 
 24
-00:03:04,708 --> 00:03:06,411
+00:03:04,700 --> 00:03:06,420
 This bacon is great.
 
 25
-00:03:06,502 --> 00:03:08,274
+00:03:06,500 --> 00:03:08,280
 I love crispy bacon.
 
 26
-00:03:09,040 --> 00:03:10,662
+00:03:09,040 --> 00:03:10,660
 Oh, what are you doing tomorrow?
 
 27
-00:03:11,542 --> 00:03:13,062
+00:03:11,540 --> 00:03:13,060
 Nothing much.
 
 28
-00:03:14,182 --> 00:03:18,800
+00:03:14,180 --> 00:03:18,800
 Well, maybe your dad and I could take you fishing with us.
 
 29
-00:03:19,142 --> 00:03:20,742
+00:03:19,140 --> 00:03:20,740
 I'd like that, but...
 
 30
-00:03:20,971 --> 00:03:22,982
+00:03:20,980 --> 00:03:22,980
 But what?
 
 31
-00:03:23,211 --> 00:03:25,234
+00:03:23,220 --> 00:03:25,240
 But Dad is always so busy.
 
 32
-00:03:25,497 --> 00:03:29,988
+00:03:25,500 --> 00:03:29,980
 Well, can you come fishing with me tomorrow?
 
 33
-00:03:31,142 --> 00:03:33,245
+00:03:31,140 --> 00:03:33,240
 Sure, I can.
 
 34
-00:03:35,200 --> 00:03:38,262
+00:03:35,200 --> 00:03:38,260
 Robbie says you can't take him to the game today.
 
 35
-00:03:38,445 --> 00:03:39,657
+00:03:38,440 --> 00:03:39,660
 I really feel bad about it,
 
 36
-00:03:39,680 --> 00:03:41,630
+00:03:39,680 --> 00:03:41,640
 but they need me at the hospital today,
 
 37
-00:03:41,630 --> 00:03:42,800
+00:03:41,640 --> 00:03:42,800
 in the children's ward.
 
 38
-00:03:43,017 --> 00:03:44,400
+00:03:43,020 --> 00:03:44,400
 I understand.
 
 39
-00:03:45,451 --> 00:03:47,794
+00:03:45,460 --> 00:03:47,800
 Maybe we can spend some time together next weekend.
 
 40
-00:03:47,942 --> 00:03:49,142
+00:03:47,940 --> 00:03:49,140
 Definitely.
 
 41
-00:03:49,211 --> 00:03:50,228
+00:03:49,220 --> 00:03:50,220
 We should.
 
 42
-00:03:50,525 --> 00:03:52,422
+00:03:50,520 --> 00:03:52,420
 You and Robbie and me.
 
 43
-00:03:53,440 --> 00:03:55,371
+00:03:53,440 --> 00:03:55,380
 Remember our first fishing trip?
 
 44
-00:03:55,965 --> 00:03:57,257
+00:03:55,960 --> 00:03:57,260
 I sure do...
 
 45
-00:03:57,805 --> 00:04:01,142
+00:03:57,800 --> 00:04:01,140
 Well, I've got to run, Dad.
 
 46
-00:04:01,200 --> 00:04:02,434
+00:04:01,200 --> 00:04:02,440
 See you later.
 
 47
-00:04:04,754 --> 00:04:06,068
+00:04:04,760 --> 00:04:06,060
 Going fishing?
 
 48
-00:04:06,377 --> 00:04:08,034
+00:04:06,380 --> 00:04:08,040
 I'm thinking about it...
 
 49
-00:04:09,874 --> 00:04:11,234
+00:04:09,880 --> 00:04:11,240
 So, how's work?
 
 50
-00:04:11,320 --> 00:04:13,725
+00:04:11,320 --> 00:04:13,720
 Oh, the usual problems.
 
 51
-00:04:14,502 --> 00:04:16,617
+00:04:14,500 --> 00:04:16,620
 You're working pretty hard these days.
 
 52
@@ -207,11 +207,11 @@ You're working pretty hard these days.
 I guess I am.
 
 53
-00:04:21,028 --> 00:04:24,468
+00:04:21,020 --> 00:04:24,460
 When did you last go fishing with Robbie?
 
 54
-00:04:24,891 --> 00:04:26,925
+00:04:24,900 --> 00:04:26,920
 I remember exactly.
 
 55
@@ -219,734 +219,1086 @@ I remember exactly.
 It was on his birthday, June second, two years ago.
 
 56
-00:04:32,205 --> 00:04:34,251
+00:04:32,200 --> 00:04:34,260
 We didn't catch anything.
 
 57
-00:04:35,600 --> 00:04:38,022
+00:04:35,600 --> 00:04:38,020
 Remember our fishing trips?
 
 58
-00:04:38,022 --> 00:04:40,857
+00:04:38,020 --> 00:04:40,860
 Yes. I loved them.
 
 59
-00:04:43,280 --> 00:04:45,748
+00:04:43,280 --> 00:04:45,740
 Remember catching your first fish?
 
 60
-00:04:46,102 --> 00:04:48,354
+00:04:46,100 --> 00:04:48,360
 How can I forget?
 
 61
-00:04:48,354 --> 00:04:50,754
+00:04:48,360 --> 00:04:50,760
 I fell out of the boat!
 
 62
-00:04:52,777 --> 00:04:54,765
+00:04:52,780 --> 00:04:54,760
 We had some good times together.
 
 63
-00:04:55,165 --> 00:04:57,154
+00:04:55,160 --> 00:04:57,160
 Yes, we did.
 
 64
-00:04:58,160 --> 00:05:00,022
+00:04:58,160 --> 00:05:00,020
 Maybe we should do it again.
 
 65
-00:05:01,622 --> 00:05:03,108
+00:05:01,620 --> 00:05:03,100
 How about tomorrow?
 
 66
-00:05:03,645 --> 00:05:05,120
+00:05:03,640 --> 00:05:05,120
 Don't you have to work?
 
 67
-00:05:05,268 --> 00:05:07,851
+00:05:05,260 --> 00:05:07,860
 My paper work will wait.
 
 68
-00:05:07,897 --> 00:05:10,582
+00:05:07,900 --> 00:05:10,580
 Oh, Robbie will be thrilled.
 
 69
-00:05:10,822 --> 00:05:12,388
+00:05:10,820 --> 00:05:12,380
 I am, too, Son.
 
 70
-00:05:12,685 --> 00:05:14,365
+00:05:12,680 --> 00:05:14,360
 I want to spend more time with Robbie.
 
 71
-00:05:14,777 --> 00:05:16,057
+00:05:14,780 --> 00:05:16,060
 Tomorrow.
 
 72
-00:05:16,571 --> 00:05:18,925
+00:05:16,580 --> 00:05:18,920
 It'll be like old times for you and me.
 
 73
-00:05:19,131 --> 00:05:20,822
+00:05:19,140 --> 00:05:20,820
 And Robbie will love it.
 
 74
-00:05:21,805 --> 00:05:25,154
+00:05:21,800 --> 00:05:25,160
 Well, what's the weather going to be like?
 
 75
-00:05:25,657 --> 00:05:28,651
+00:05:25,660 --> 00:05:28,660
 Radio says sunny and mild.
 
 76
-00:05:32,811 --> 00:05:35,337
+00:05:32,820 --> 00:05:35,340
 Well, I'll tell Robbie.
 
 77
-00:05:37,085 --> 00:05:40,960
+00:05:37,080 --> 00:05:40,960
 And thanks, Dad.
 
 78
-00:05:41,382 --> 00:05:42,674
+00:05:41,380 --> 00:05:42,680
 Don't thank me.
 
 79
-00:05:42,742 --> 00:05:44,891
+00:05:42,740 --> 00:05:44,900
 I'm just being a grandfather.
 
 80
-00:08:50,262 --> 00:08:52,160
-This is really neat!
+00:06:06,260 --> 00:06:07,600
+What's the weather going to be like?
 
 81
-00:08:53,497 --> 00:08:54,994
-When do we eat?
+00:06:08,380 --> 00:06:10,880
+Radio says sunny and mild.
 
 82
-00:08:56,582 --> 00:08:58,857
-First, we have to catch some fish.
+00:06:14,000 --> 00:06:17,060
+What's the weather going to be like in the U.S.A. today?
 
 83
-00:08:59,200 --> 00:09:04,777
-In order to catch fish, you have to do this.
+00:06:18,520 --> 00:06:23,160
+In New York City, home of the Statue of Liberty and all those skyscrapers,
 
 84
-00:09:05,920 --> 00:09:07,417
-Here we go.
+00:06:23,240 --> 00:06:26,660
+and the surrounding area, it'll be sunny and mild.
 
 85
-00:09:07,691 --> 00:09:09,085
-That's it.
+00:06:26,840 --> 00:06:29,240
+A little cloudy, but nice and warm.
 
 86
-00:09:12,845 --> 00:09:15,691
-Then drop it into the water.
+00:06:29,380 --> 00:06:32,420
+What a beautiful day to do some fishing.
 
 87
-00:09:15,714 --> 00:09:19,565
-All of this comes before eating. OK?
+00:06:36,120 --> 00:06:40,160
+Down in the Southeast today, the weather will be gorgeous.
 
 88
-00:09:19,862 --> 00:09:21,748
-How do you know so much about fishing?
+00:06:40,480 --> 00:06:43,920
+In Miami, Florida, a popular vacation spot,
 
 89
-00:09:22,160 --> 00:09:23,817
-Grandpa taught me.
+00:06:43,920 --> 00:06:47,600
+it's going to be sunny and hot, hot, hot.
 
 90
-00:09:24,411 --> 00:09:26,354
-We spent a lot of time fishing together.
+00:06:48,400 --> 00:06:50,080
+It's ninety degrees Fahrenheit.
 
 91
-00:09:27,200 --> 00:09:37,017
-Now, the important thing is to get the hook close to the fish.
+00:06:50,080 --> 00:06:52,620
+That's thirty-two degrees Celsius now.
 
 92
-00:09:37,234 --> 00:09:38,045
-All right?
+00:06:52,920 --> 00:06:55,400
+A perfect day for the beach.
 
 93
-00:09:38,194 --> 00:09:38,880
-Like this.
+00:06:59,240 --> 00:07:03,140
+Not so in St. Louis, Missouri, the gateway to the West.
 
 94
-00:09:47,451 --> 00:09:50,000
-I think I see some fish right under us, Dad.
+00:07:03,760 --> 00:07:04,960
+It's cool and windy.
 
 95
-00:09:50,011 --> 00:09:51,737
-Oh, not a chance!
+00:07:05,100 --> 00:07:08,740
+We expect rain there and throughout the Midwest this afternoon.
 
 96
-00:09:52,022 --> 00:09:53,508
-I just saw a big one!
+00:07:09,160 --> 00:07:10,960
+So get out your umbrella.
 
 97
-00:09:54,685 --> 00:09:55,508
-Hi, there!
+00:07:14,880 --> 00:07:17,920
+And in the Rocky Mountains, it's freezing.
 
 98
-00:09:55,622 --> 00:09:56,171
-Hi.
+00:07:19,200 --> 00:07:21,160
+It's thirty-two degrees Fahrenheit.
 
 99
-00:09:56,697 --> 00:09:57,497
-What's your name?
+00:07:21,500 --> 00:07:25,040
+That's zero degrees Celsius outside Denver, Colorado.
 
 100
-00:09:57,531 --> 00:09:58,297
-Albert.
+00:07:25,320 --> 00:07:29,860
+There's two feet of snow already, and it's going to snow some more.
 
 101
-00:09:58,685 --> 00:09:59,840
-Are you all alone?
+00:07:30,320 --> 00:07:32,460
+It's a perfect place for skiing.
 
 102
-00:09:59,862 --> 00:10:00,868
-Yes, sir.
+00:07:37,160 --> 00:07:39,960
+Out on the West Coast in Los Angeles, California,
 
 103
-00:10:01,520 --> 00:10:02,971
-How old are you, Albert?
+00:07:39,960 --> 00:07:43,120
+home of Hollywood movie stars
 
 104
-00:10:03,188 --> 00:10:04,411
-I'm ten.
+00:07:43,240 --> 00:07:44,440
+and fast cars,
 
 105
-00:10:06,582 --> 00:10:08,022
-Where's your father?
+00:07:44,900 --> 00:07:46,060
+it's sunny and warm.
 
 106
-00:10:08,217 --> 00:10:09,714
-He's up there at the lodge.
+00:07:46,560 --> 00:07:50,240
+It'll be a beautiful day for a drive up the coast.
 
 107
-00:10:12,605 --> 00:10:14,148
-Does he know you're here?
+00:07:54,280 --> 00:07:57,540
+And that's the weather in the U.S.A. today.
 
 108
-00:10:14,342 --> 00:10:15,428
-Yes, sir.
+00:08:50,260 --> 00:08:52,160
+This is really neat!
 
 109
-00:10:16,011 --> 00:10:19,302
-OK, Robbie, maybe you should watch him.
+00:08:53,500 --> 00:08:55,000
+When do we eat?
 
 110
-00:10:19,370 --> 00:10:20,994
-The water's pretty deep here.
+00:08:56,580 --> 00:08:58,860
+First, we have to catch some fish.
 
 111
-00:10:21,040 --> 00:10:22,468
-I'll watch him, Dad.
+00:08:59,200 --> 00:09:04,780
+In order to catch fish, you have to do this.
 
 112
-00:10:29,554 --> 00:10:30,891
-What time is it?
+00:09:05,920 --> 00:09:07,420
+Here we go.
 
 113
-00:10:31,565 --> 00:10:34,902
-It's almost lunchtime, and no fish yet.
+00:09:07,700 --> 00:09:09,080
+That's it.
 
 114
-00:10:35,165 --> 00:10:37,874
-I can go up to the lodge for some hot dogs and drinks.
+00:09:12,840 --> 00:09:15,700
+Then drop it into the water.
 
 115
-00:10:38,000 --> 00:10:39,188
-No way!
+00:09:15,720 --> 00:09:19,560
+All of this comes before eating. OK?
 
 116
-00:10:39,234 --> 00:10:41,508
-We're here to catch our lunch.
+00:09:19,860 --> 00:09:21,740
+How do you know so much about fishing?
 
 117
-00:10:41,645 --> 00:10:44,982
-To catch fish, you need the right magic.
+00:09:22,160 --> 00:09:23,820
+Grandpa taught me.
 
 118
-00:10:45,565 --> 00:10:46,434
-That's right.
+00:09:24,420 --> 00:09:26,360
+We spent a lot of time fishing together.
 
 119
-00:10:46,457 --> 00:10:48,205
-I forgot! The right magic.
+00:09:27,200 --> 00:09:37,020
+Now, the important thing is to get the hook close to the fish.
 
 120
-00:10:48,834 --> 00:10:50,525
-Do it for Robbie, Dad.
+00:09:37,240 --> 00:09:38,040
+All right?
 
 121
-00:10:50,651 --> 00:10:51,520
-You remember?
+00:09:38,200 --> 00:09:38,880
+Like this.
 
 122
-00:10:51,540 --> 00:10:52,457
-Sure. Come on.
+00:09:47,460 --> 00:09:50,000
+I think I see some fish right under us, Dad.
 
 123
-00:10:52,537 --> 00:10:57,291
-Well, first, you have to turn your hat around like this.
+00:09:50,020 --> 00:09:51,740
+Oh, not a chance!
 
 124
-00:10:57,508 --> 00:11:01,965
-Then you close your eyes and say the magic words.
+00:09:52,020 --> 00:09:53,500
+I just saw a big one!
 
 125
-00:11:02,491 --> 00:11:06,948
-Fish, fish, send me a fish.
+00:09:54,680 --> 00:09:55,500
+Hi, there!
 
 126
-00:11:11,268 --> 00:11:18,320
-Fish, fish, send me a fish... I got one!
+00:09:55,620 --> 00:09:56,180
+Hi.
 
 127
-00:11:18,480 --> 00:11:19,588
-See, it works!
+00:09:56,700 --> 00:09:57,500
+What's your name?
 
 128
-00:11:20,297 --> 00:11:21,451
-It's a big one!
+00:09:57,540 --> 00:09:58,300
+Albert.
 
 129
-00:11:21,462 --> 00:11:23,131
-Well, it always worked for me, too.
+00:09:58,680 --> 00:09:59,840
+Are you all alone?
 
 130
-00:11:24,171 --> 00:11:26,320
-Grandpa, get the net, please!
+00:09:59,860 --> 00:10:00,860
+Yes, sir.
 
 131
-00:11:34,274 --> 00:11:36,034
-Dad, you got one, too!
+00:10:01,520 --> 00:10:02,980
+How old are you, Albert?
 
 132
-00:11:36,080 --> 00:11:37,085
-You bet I have!
+00:10:03,180 --> 00:10:04,420
+I'm ten.
 
 133
-00:11:37,200 --> 00:11:39,291
-Easy, Philip, easy.
+00:10:06,580 --> 00:10:08,020
+Where's your father?
 
 134
-00:11:43,760 --> 00:11:45,371
-Sorry, Dad.
+00:10:08,220 --> 00:10:09,720
+He's up there at the lodge.
 
 135
-00:11:46,502 --> 00:11:50,491
-Well, one more and I've got a pair of boots.
+00:10:12,600 --> 00:10:14,140
+Does he know you're here?
 
 136
-00:11:52,194 --> 00:11:54,125
-You didn't say the magic words.
+00:10:14,340 --> 00:10:15,420
+Yes, sir.
 
 137
-00:11:54,240 --> 00:11:55,348
-Robbie's right.
+00:10:16,020 --> 00:10:19,300
+OK, Robbie, maybe you should watch him.
 
 138
-00:11:55,497 --> 00:11:58,137
-Yes, but you did, and we've got our lunch.
+00:10:19,360 --> 00:10:21,000
+The water's pretty deep here.
 
 139
-00:11:58,365 --> 00:11:59,657
-Let's build a fire and cook it!
+00:10:21,040 --> 00:10:22,460
+I'll watch him, Dad.
 
 140
-00:11:59,760 --> 00:12:01,645
-Come on, Albert, you can help us!
+00:10:29,560 --> 00:10:30,900
+What time is it?
 
 141
-00:12:01,828 --> 00:12:03,520
-I want to stay here and fish.
+00:10:31,560 --> 00:10:34,900
+It's almost lunchtime, and no fish yet.
 
 142
-00:12:03,965 --> 00:12:07,714
-All right, but be careful.
+00:10:35,160 --> 00:10:37,880
+I can go up to the lodge for some hot dogs and drinks.
 
 143
-00:12:16,628 --> 00:12:18,331
-Is it finished yet?
+00:10:38,000 --> 00:10:39,180
+No way!
 
 144
-00:12:18,342 --> 00:12:19,302
-I think so.
+00:10:39,240 --> 00:10:41,500
+We're here to catch our lunch.
 
 145
-00:12:19,337 --> 00:12:22,994
-I hope you like your fish well done.
+00:10:41,640 --> 00:10:44,980
+To catch fish, you need the right magic.
 
 146
-00:12:23,314 --> 00:12:24,902
-Burned, you mean.
+00:10:45,560 --> 00:10:46,440
+That's right.
 
 147
-00:12:25,291 --> 00:12:27,725
-Hey, I'm a doctor, not a chef.
+00:10:46,460 --> 00:10:48,200
+I forgot! The right magic.
 
 148
-00:12:38,022 --> 00:12:41,440
-Help! Help! I can't swim!
+00:10:48,840 --> 00:10:50,520
+Do it for Robbie, Dad.
 
 149
-00:12:41,440 --> 00:12:43,508
-Dad! Grandpa! He fell in!
+00:10:50,660 --> 00:10:51,520
+You remember?
 
 150
-00:13:01,314 --> 00:13:03,462
-Easy does it, Robbie.
+00:10:51,540 --> 00:10:52,460
+Sure. Come on.
 
 151
-00:13:03,600 --> 00:13:04,605
-That a boy.
+00:10:52,540 --> 00:10:57,300
+Well, first, you have to turn your hat around like this.
 
 152
-00:13:04,605 --> 00:13:05,462
-That's it.
+00:10:57,500 --> 00:11:01,960
+Then you close your eyes and say the magic words.
 
 153
-00:13:05,474 --> 00:13:06,720
-He's not breathing, Philip!
+00:11:02,500 --> 00:11:06,940
+Fish, fish, send me a fish.
 
 154
-00:13:06,765 --> 00:13:08,548
-Robbie, run to the car!
+00:11:11,260 --> 00:11:18,320
+Fish, fish, send me a fish... I got one!
 
 155
-00:13:08,590 --> 00:13:09,794
-Bring a blanket and my medical bag.
+00:11:18,480 --> 00:11:19,580
+See, it works!
 
 156
-00:13:09,805 --> 00:13:10,800
-Yes, Dad.
+00:11:20,300 --> 00:11:21,460
+It's a big one!
 
 157
-00:13:10,937 --> 00:13:14,800
-Now, come on, son. Come on, son.
+00:11:21,460 --> 00:11:23,140
+Well, it always worked for me, too.
 
 158
-00:13:22,685 --> 00:13:25,028
-Breathe, Albert!
+00:11:24,180 --> 00:11:26,320
+Grandpa, get the net, please!
 
 159
-00:16:08,434 --> 00:16:10,354
-Here's the bag.
+00:11:34,280 --> 00:11:36,040
+Dad, you got one, too!
 
 160
-00:16:10,388 --> 00:16:11,565
-Will he be OK, Dad?
+00:11:36,080 --> 00:11:37,080
+You bet I have!
 
 161
-00:16:11,657 --> 00:16:12,857
-I hope so.
+00:11:37,200 --> 00:11:39,300
+Easy, Philip, easy.
 
 162
-00:16:18,754 --> 00:16:19,840
-That's it.
+00:11:43,760 --> 00:11:45,380
+Sorry, Dad.
 
 163
-00:16:20,034 --> 00:16:21,062
-That's the way.
+00:11:46,500 --> 00:11:50,500
+Well, one more and I've got a pair of boots.
 
 164
-00:16:21,291 --> 00:16:23,142
-That's it. There.
+00:11:52,200 --> 00:11:54,120
+You didn't say the magic words.
 
 165
-00:16:23,325 --> 00:16:26,617
-Oh, it's going to be all right.
+00:11:54,240 --> 00:11:55,340
+Robbie's right.
 
 166
-00:16:26,628 --> 00:16:27,165
-That's it.
+00:11:55,500 --> 00:11:58,140
+Yes, but you did, and we've got our lunch.
 
 167
-00:16:27,405 --> 00:16:29,108
-Wrap him in the blanket, Dad!
+00:11:58,360 --> 00:11:59,660
+Let's build a fire and cook it!
 
 168
-00:16:29,142 --> 00:16:30,971
-That's it. That's it.
+00:11:59,760 --> 00:12:01,640
+Come on, Albert, you can help us!
 
 169
-00:16:31,097 --> 00:16:33,634
-It's all right, Albert.
+00:12:01,820 --> 00:12:03,520
+I want to stay here and fish.
 
 170
-00:16:33,680 --> 00:16:35,245
-You're going to be OK.
+00:12:03,960 --> 00:12:07,720
+All right, but be careful.
 
 171
-00:16:36,171 --> 00:16:38,091
-I want my daddy!
+00:12:16,620 --> 00:12:18,340
+Is it finished yet?
 
 172
-00:16:38,194 --> 00:16:39,154
-We'll take you to him.
+00:12:18,340 --> 00:12:19,300
+I think so.
 
 173
-00:16:39,154 --> 00:16:44,057
-Easy now. Easy does it. That's it.
+00:12:19,340 --> 00:12:23,000
+I hope you like your fish well done.
 
 174
-00:16:46,605 --> 00:16:48,640
-Your dad is quite a guy.
+00:12:23,320 --> 00:12:24,900
+Burned, you mean.
 
 175
-00:16:48,788 --> 00:16:50,068
-I know, Grandpa.
+00:12:25,300 --> 00:12:27,720
+Hey, I'm a doctor, not a chef.
 
 176
-00:16:51,120 --> 00:16:52,205
-How is he, Philip?
+00:12:38,020 --> 00:12:41,440
+Help! Help! I can't swim!
 
 177
-00:16:52,297 --> 00:16:53,245
-He's asleep.
+00:12:41,440 --> 00:12:43,500
+Dad! Grandpa! He fell in!
 
 178
-00:16:53,417 --> 00:16:54,285
-He's going to be fine.
+00:13:01,320 --> 00:13:03,460
+Easy does it, Robbie.
 
 179
-00:16:54,937 --> 00:16:56,228
-How can I thank all of you?
+00:13:03,600 --> 00:13:04,600
+That a boy.
 
 180
-00:16:56,480 --> 00:16:57,805
-Thank my son Robbie.
+00:13:04,600 --> 00:13:05,460
+That's it.
 
 181
-00:16:57,862 --> 00:16:58,960
-He pulled him out of the water.
+00:13:05,480 --> 00:13:06,720
+He's not breathing, Philip!
 
 182
-00:16:59,028 --> 00:17:00,342
-I'm very grateful, Robbie.
+00:13:06,760 --> 00:13:08,540
+Robbie, run to the car!
 
 183
-00:17:00,377 --> 00:17:02,080
-Dad saved him, not me.
+00:13:08,600 --> 00:13:09,800
+Bring a blanket and my medical bag.
 
 184
-00:17:02,160 --> 00:17:04,034
-I'm so thankful to all of you.
+00:13:09,800 --> 00:13:10,800
+Yes, Dad.
 
 185
-00:17:05,748 --> 00:17:06,765
-So long.
+00:13:10,940 --> 00:13:14,800
+Now, come on, son. Come on, son.
 
 186
-00:17:08,377 --> 00:17:10,297
-He's a lucky boy.
+00:13:22,680 --> 00:13:25,020
+Breathe, Albert!
 
 187
-00:17:10,674 --> 00:17:13,554
-Well, what do you say we get back to our fishing?
+00:13:35,620 --> 00:13:36,480
+First.
 
 188
-00:17:13,748 --> 00:17:15,622
-That's a great idea.
+00:13:37,120 --> 00:13:41,540
+Well, first, you have to turn your hat around like this.
 
 189
+00:13:45,120 --> 00:13:46,200
+Then.
+
+190
+00:13:46,200 --> 00:13:50,520
+Then you close your eyes and say the magic words.
+
+191
+00:13:55,100 --> 00:13:57,320
+I got one!
+
+192
+00:14:00,020 --> 00:14:02,560
+First, then, last.
+
+193
+00:14:09,660 --> 00:14:11,640
+What happened first?
+
+194
+00:14:14,160 --> 00:14:15,600
+What happened then?
+
+195
+00:14:18,020 --> 00:14:19,360
+What happened last?
+
+196
+00:14:21,860 --> 00:14:22,700
+First, then,
+
+197
+00:14:23,560 --> 00:14:24,360
+last.
+
+198
+00:14:24,880 --> 00:14:28,340
+Let's try that again, this time with other parts of Act 2.
+
+199
+00:14:30,400 --> 00:14:32,100
+First, they arrived at the lake.
+
+200
+00:14:34,320 --> 00:14:36,360
+Next, Grandpa used the right magic.
+
+201
+00:14:37,960 --> 00:14:40,280
+After that, Robbie caught a fish.
+
+202
+00:14:40,920 --> 00:14:44,580
+Later on, they cooked. They burned the fish.
+
+203
+00:14:46,000 --> 00:14:48,200
+Finally, Albert fell in the water.
+
+204
+00:14:49,520 --> 00:14:50,540
+First.
+
+205
+00:14:50,540 --> 00:14:51,200
+Next.
+
+206
+00:14:52,020 --> 00:14:52,720
+After that.
+
+207
+00:14:53,060 --> 00:14:54,260
+Later on.
+
+208
+00:14:54,480 --> 00:14:55,320
+Finally.
+
+209
+00:15:03,000 --> 00:15:04,440
+What happened first?
+
+210
+00:15:06,880 --> 00:15:08,400
+What happened next?
+
+211
+00:15:10,860 --> 00:15:12,480
+What happened after that?
+
+212
+00:15:14,760 --> 00:15:16,600
+What happened later on?
+
+213
+00:15:18,620 --> 00:15:20,000
+And finally?
+
+214
+00:15:21,840 --> 00:15:26,920
+First, next, after that, later on, finally.
+
+215
+00:16:08,440 --> 00:16:10,360
+Here's the bag.
+
+216
+00:16:10,380 --> 00:16:11,560
+Will he be OK, Dad?
+
+217
+00:16:11,660 --> 00:16:12,860
+I hope so.
+
+218
+00:16:18,760 --> 00:16:19,840
+That's it.
+
+219
+00:16:20,040 --> 00:16:21,060
+That's the way.
+
+220
+00:16:21,300 --> 00:16:23,140
+That's it. There.
+
+221
+00:16:23,320 --> 00:16:26,620
+Oh, it's going to be all right.
+
+222
+00:16:26,620 --> 00:16:27,160
+That's it.
+
+223
+00:16:27,400 --> 00:16:29,100
+Wrap him in the blanket, Dad!
+
+224
+00:16:29,140 --> 00:16:30,980
+That's it. That's it.
+
+225
+00:16:31,100 --> 00:16:33,640
+It's all right, Albert.
+
+226
+00:16:33,680 --> 00:16:35,240
+You're going to be OK.
+
+227
+00:16:36,180 --> 00:16:38,100
+I want my daddy!
+
+228
+00:16:38,200 --> 00:16:39,160
+We'll take you to him.
+
+229
+00:16:39,160 --> 00:16:44,060
+Easy now. Easy does it. That's it.
+
+230
+00:16:46,600 --> 00:16:48,640
+Your dad is quite a guy.
+
+231
+00:16:48,780 --> 00:16:50,060
+I know, Grandpa.
+
+232
+00:16:51,120 --> 00:16:52,200
+How is he, Philip?
+
+233
+00:16:52,300 --> 00:16:53,240
+He's asleep.
+
+234
+00:16:53,420 --> 00:16:54,280
+He's going to be fine.
+
+235
+00:16:54,940 --> 00:16:56,220
+How can I thank all of you?
+
+236
+00:16:56,480 --> 00:16:57,800
+Thank my son Robbie.
+
+237
+00:16:57,860 --> 00:16:58,960
+He pulled him out of the water.
+
+238
+00:16:59,020 --> 00:17:00,340
+I'm very grateful, Robbie.
+
+239
+00:17:00,380 --> 00:17:02,080
+Dad saved him, not me.
+
+240
+00:17:02,160 --> 00:17:04,040
+I'm so thankful to all of you.
+
+241
+00:17:05,740 --> 00:17:06,760
+So long.
+
+242
+00:17:08,380 --> 00:17:10,300
+He's a lucky boy.
+
+243
+00:17:10,680 --> 00:17:13,560
+Well, what do you say we get back to our fishing?
+
+244
+00:17:13,740 --> 00:17:15,620
+That's a great idea.
+
+245
 00:17:15,680 --> 00:17:19,920
 Uh-oh. It's probably the hospital.
 
-190
-00:17:20,868 --> 00:17:23,005
+246
+00:17:20,860 --> 00:17:23,000
 I have to get to a phone.
 
-191
-00:17:23,885 --> 00:17:26,011
+247
+00:17:23,880 --> 00:17:26,020
 It probably means we can't stay.
 
-192
-00:17:26,240 --> 00:17:27,371
+248
+00:17:26,240 --> 00:17:27,380
 That's OK.
 
-193
-00:17:32,548 --> 00:17:35,131
+249
+00:17:32,540 --> 00:17:35,140
 One of my patients has a high fever,
 
-194
-00:17:35,131 --> 00:17:36,811
+250
+00:17:35,140 --> 00:17:36,820
 and I have to go to the hospital.
 
-195
-00:17:37,657 --> 00:17:39,577
+251
+00:17:37,660 --> 00:17:39,580
 I'm sorry, Robbie.
 
-196
-00:17:39,634 --> 00:17:41,131
+252
+00:17:39,640 --> 00:17:41,140
 I guess I ruined your day.
 
-197
-00:17:41,394 --> 00:17:43,348
+253
+00:17:41,400 --> 00:17:43,340
 You didn't ruin my day, Dad.
 
-198
-00:17:47,474 --> 00:17:49,748
+254
+00:17:47,480 --> 00:17:49,740
 I understand. I really do.
 
-199
-00:18:16,506 --> 00:18:18,093
+255
+00:18:16,500 --> 00:18:18,100
 Why are you back so early?
 
-200
-00:18:18,386 --> 00:18:20,186
+256
+00:18:18,380 --> 00:18:20,180
 Philip had to go back to the hospital.
 
-201
-00:18:20,213 --> 00:18:21,373
+257
+00:18:20,220 --> 00:18:21,380
 He had an emergency.
 
-202
-00:18:21,733 --> 00:18:23,933
+258
+00:18:21,740 --> 00:18:23,940
 Oh, that's too bad, Robbie.
 
-203
+259
 00:18:24,040 --> 00:18:25,120
 Did it spoil your fun?
 
-204
-00:18:25,133 --> 00:18:27,626
+260
+00:18:25,140 --> 00:18:27,620
 No, Mom. We had a great time.
 
-205
-00:18:27,840 --> 00:18:29,506
+261
+00:18:27,840 --> 00:18:29,500
 Well, did you do any fishing?
 
-206
-00:18:29,826 --> 00:18:32,440
+262
+00:18:29,820 --> 00:18:32,440
 Yeah, we caught lots of them. Look!
 
-207
-00:18:36,386 --> 00:18:39,360
+263
+00:18:36,380 --> 00:18:39,360
 They had a special on frozen fish down at the supermarket.
 
-208
-00:18:39,413 --> 00:18:43,173
+264
+00:18:39,420 --> 00:18:43,180
 Oh, you really had a bad day.
 
-209
-00:18:43,253 --> 00:18:44,893
+265
+00:18:43,260 --> 00:18:44,900
 We had a good day.
 
-210
-00:18:45,306 --> 00:18:47,706
+266
+00:18:45,300 --> 00:18:47,700
 Robbie pulled a boy out of the water.
 
-211
-00:18:47,946 --> 00:18:49,746
+267
+00:18:47,940 --> 00:18:49,740
 And Dad saved his life.
 
-212
-00:18:50,693 --> 00:18:53,000
+268
+00:18:50,700 --> 00:18:53,000
 He's a terrific doctor, Mom.
 
-213
-00:18:53,266 --> 00:18:54,626
+269
+00:18:53,260 --> 00:18:54,620
 I know.
 
-214
-00:19:06,370 --> 00:19:08,706
+270
+00:19:06,360 --> 00:19:08,700
 Hi, Pop. Hi, Son.
 
-215
+271
 00:19:08,760 --> 00:19:09,720
 Hello, Dad.
 
-216
+272
 00:19:10,680 --> 00:19:12,040
 What a day!
 
-217
-00:19:12,266 --> 00:19:14,266
+273
+00:19:12,260 --> 00:19:14,260
 How about a cup of coffee, Son?
 
-218
-00:19:14,480 --> 00:19:17,413
+274
+00:19:14,480 --> 00:19:17,420
 I'd love a cup of coffee.
 
-219
-00:19:23,586 --> 00:19:24,946
+275
+00:19:23,580 --> 00:19:24,940
 How was the patient?
 
-220
-00:19:25,333 --> 00:19:26,626
+276
+00:19:25,340 --> 00:19:26,620
 She'll be fine.
 
-221
-00:19:27,173 --> 00:19:28,893
+277
+00:19:27,180 --> 00:19:28,900
 Was it serious?
 
-222
-00:19:29,786 --> 00:19:30,560
+278
+00:19:29,780 --> 00:19:30,560
 No.
 
-223
-00:19:32,306 --> 00:19:35,653
+279
+00:19:32,300 --> 00:19:35,660
 Until today, I was never really interested in medicine.
 
-224
+280
 00:19:36,400 --> 00:19:38,720
 Well, it's hard work.
 
-225
+281
 00:19:39,160 --> 00:19:40,440
 Now I know.
 
-226
-00:19:41,546 --> 00:19:44,586
+282
+00:19:41,540 --> 00:19:44,580
 I had a good time today, Robbie.
 
-227
-00:19:44,680 --> 00:19:45,946
+283
+00:19:44,680 --> 00:19:45,940
 Me, too.
 
-228
-00:19:46,706 --> 00:19:48,733
+284
+00:19:46,700 --> 00:19:48,740
 Why don't we do it again?
 
-229
+285
 00:19:49,200 --> 00:19:51,280
 Can we? When?
 
-230
-00:19:51,866 --> 00:19:53,106
+286
+00:19:51,860 --> 00:19:53,100
 How about next Saturday?
 
-231
-00:19:53,560 --> 00:19:55,546
+287
+00:19:53,560 --> 00:19:55,540
 Won't you be busy?
 
-232
-00:19:56,413 --> 00:19:59,026
+288
+00:19:56,420 --> 00:19:59,020
 I'm changing my schedule.
 
-233
-00:19:59,693 --> 00:20:01,640
+289
+00:19:59,700 --> 00:20:01,640
 Well, do we have a date?
 
-234
-00:20:01,693 --> 00:20:03,333
+290
+00:20:01,700 --> 00:20:03,340
 We sure do, Dad.
 
-235
-00:20:03,826 --> 00:20:05,733
+291
+00:20:03,820 --> 00:20:05,740
 Grandpa, can you come?
 
-236
-00:20:06,146 --> 00:20:08,493
+292
+00:20:06,140 --> 00:20:08,500
 I have other plans, Robbie.
 
-237
-00:20:08,946 --> 00:20:13,080
+293
+00:20:08,940 --> 00:20:13,080
 But I think you two can have a good time together without me.
 
-238
-00:20:13,093 --> 00:20:18,360
+294
+00:20:13,100 --> 00:20:18,360
 No, Dad, and certainly not without the right magic.
+
+295
+00:20:33,400 --> 00:20:37,480
+Maybe we can spend some time together next weekend.
+
+296
+00:20:37,800 --> 00:20:38,280
+Maybe.
+
+297
+00:20:38,420 --> 00:20:40,900
+Maybe.
+
+298
+00:20:41,100 --> 00:20:44,580
+Maybe we can spend some time together.
+
+299
+00:20:44,780 --> 00:20:47,460
+Maybe we can stay at home.
+
+300
+00:20:47,460 --> 00:20:49,420
+Maybe get away.
+
+301
+00:20:49,620 --> 00:20:51,780
+Oh, yeah.
+
+302
+00:20:52,040 --> 00:20:55,620
+Because I really like to be with you.
+
+303
+00:20:55,820 --> 00:20:58,660
+I know we'll have fun whatever we do.
+
+304
+00:20:58,860 --> 00:21:04,440
+And maybe we can do it again another day.
+
+305
+00:21:06,140 --> 00:21:09,200
+Maybe we can go bowling.
+
+306
+00:21:09,200 --> 00:21:13,640
+And golf would be fun to play.
+
+307
+00:21:14,120 --> 00:21:16,680
+Maybe we can play baseball.
+
+308
+00:21:16,880 --> 00:21:21,780
+Or go fishing on a summer... fishing on a summer day.
+
+309
+00:21:21,980 --> 00:21:23,200
+What do you say we get back to our fishing?
+
+310
+00:21:23,220 --> 00:21:26,420
+What do you say?
+
+311
+00:21:26,620 --> 00:21:28,220
+What do you say?
+
+312
+00:21:28,420 --> 00:21:32,040
+What do you say we get back to our fishing?
+
+313
+00:21:32,060 --> 00:21:34,140
+What do you say we fish?
+
+314
+00:21:34,340 --> 00:21:37,080
+That's what we want to do.
+
+315
+00:21:38,920 --> 00:21:43,260
+So let's get back to it right away.
+
+316
+00:21:43,460 --> 00:21:46,420
+We don't want to waste this beautiful day.
+
+317
+00:21:46,620 --> 00:21:51,120
+What do you say we keep on fishing till the day is through?
+
+318
+00:21:51,120 --> 00:21:52,300
+Why don't we do it again?
+
+319
+00:21:52,500 --> 00:21:57,360
+Why don't we do it?
+
+320
+00:21:57,560 --> 00:22:00,660
+Why don't we do it again?
+
+321
+00:22:01,040 --> 00:22:03,840
+Why don't we find the time?
+
+322
+00:22:03,840 --> 00:22:06,280
+Hey, what do you say?
+
+323
+00:22:08,480 --> 00:22:11,940
+There are lots of things that we can do,
+
+324
+00:22:12,140 --> 00:22:15,560
+and I enjoy spending time with you.
+
+325
+00:22:15,760 --> 00:22:18,200
+So why don't we do it again
+
+326
+00:22:18,320 --> 00:22:20,340
+another day?
 

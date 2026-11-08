@@ -19,7 +19,7 @@ I think I've got them.
 You think you've got what?
 
 6
-00:02:27,640 --> 00:02:29,240
+00:02:24,800 --> 00:02:29,240
 Performing arts... performing arts centers.
 
 7
@@ -147,11 +147,11 @@ You're right. My Family Album, U.S.A. feels right.
 I'll call in the morning and set up an appointment to see him.
 
 38
-00:04:46,480 --> 00:04:48,860
+00:04:47,200 --> 00:04:50,340
 He's going to love your work.
 
 39
-00:04:56,460 --> 00:04:59,220
+00:04:53,400 --> 00:04:55,420
 Come on. Let's get some sleep.
 
 40
@@ -375,7 +375,7 @@ and a book of photos about the United States still feels right.
 OK, let's take a look.
 
 95
-00:10:42,480 --> 00:10:43,580
+00:10:29,260 --> 00:10:44,180
 Good. Very good. Family Album, U.S.A.
 
 96
@@ -531,11 +531,11 @@ If they're as good as the rest of these pictures, it's a deal.
 You won't be disappointed, Mr. Carlson. Thanks.
 
 134
-00:12:36,620 --> 00:12:38,900
+00:12:36,620 --> 00:12:39,160
 Good-bye, Richard, and good luck. See you in two weeks.
 
 135
-00:12:38,900 --> 00:12:41,260
+00:12:39,160 --> 00:12:41,260
 Good-bye, Mr. Carlson. Thanks.
 
 136
@@ -551,11 +551,11 @@ you'll really publish Family Album, U.S.A.?
 When I say something, I mean it.
 
 139
-00:12:55,400 --> 00:12:56,840
+00:12:55,400 --> 00:12:57,520
 Go to work. Good-bye.
 
 140
-00:12:56,840 --> 00:12:57,700
+00:12:57,520 --> 00:12:58,520
 Good-bye.
 
 141
@@ -572,11 +572,11 @@ I'd like to make an appointment with him.
 
 144
 00:13:20,340 --> 00:13:22,540
-You've got to call to make an appointment.
+We've got to call to make an appointment.
 
 145
 00:13:24,400 --> 00:13:26,740
-You've got to call to make an appointment.
+We've got to call to make an appointment.
 
 146
 00:13:31,480 --> 00:13:33,740
@@ -691,398 +691,394 @@ You've got to call to make an appointment.
 World Imports.
 
 174
-00:15:00,560 --> 00:15:00,960
-World Imports. May I help you?
+00:15:00,560 --> 00:15:01,920
+May I help you?
 
 175
-00:15:00,960 --> 00:15:01,160
-I'd like to set up a time to see Mr. Sato.
-
-176
 00:15:01,920 --> 00:15:03,500
 What are you going to say?
 
-177
+176
 00:15:18,960 --> 00:15:21,040
-Hello? Hello? Hello?
+Hello, hello, hello.
+
+177
+00:15:21,820 --> 00:15:26,540
+Hello, I'm calling from World Imports about your appointment.
 
 178
-00:15:22,460 --> 00:15:26,540
-I'm calling from World Imports about your appointment.
-
-179
 00:15:26,960 --> 00:15:29,080
 I'm afraid we will have to reschedule.
 
-180
+179
 00:15:29,080 --> 00:15:29,680
 Oh.
 
-181
+180
 00:18:21,540 --> 00:18:26,080
 Two weeks. I said I could do it in two weeks, and I did it.
 
-182
+181
 00:18:26,380 --> 00:18:28,880
 The pictures you've taken are fabulous, Richard.
 
-183
+182
 00:18:29,480 --> 00:18:30,840
 Mr. Carlson will love them.
 
-184
+183
 00:18:31,340 --> 00:18:32,240
 Monday morning.
 
-185
+184
 00:18:32,240 --> 00:18:34,680
 I'm going to show him the photos on Monday morning.
 
-186
+185
 00:18:34,680 --> 00:18:36,680
 I can't wait!
 
-187
+186
 00:18:39,280 --> 00:18:44,040
 I'm very proud of you. You really did a beautiful job.
 
-188
+187
 00:18:45,380 --> 00:18:49,980
 I know he will love the new photographs for your book.
 
-189
+188
 00:18:50,120 --> 00:18:53,160
 Yeah. I really did do a good job, didn't I?
 
-190
+189
 00:18:55,080 --> 00:18:59,140
 Hey, you know? There's still some film left on this roll,
 
-191
+190
 00:18:59,140 --> 00:19:01,360
 and there's one person I haven't photographed in a long time.
 
-192
+191
 00:19:01,400 --> 00:19:01,920
 Who?
 
-193
+192
 00:19:02,160 --> 00:19:02,640
 You.
 
-194
+193
 00:19:04,460 --> 00:19:05,760
 Richard! I haven't brushed my hair.
 
-195
+194
 00:19:07,140 --> 00:19:08,260
 You look great!
 
-196
+195
 00:19:08,320 --> 00:19:10,480
 It's not fair, Richard. I'm not even ready.
 
-197
+196
 00:19:14,020 --> 00:19:16,860
 Oh, that's wonderful! That's wonderful!
 
-198
-00:19:42,840 --> 00:19:43,480
+197
+00:19:42,660 --> 00:19:43,480
 Wonderful!
 
-199
-00:19:43,480 --> 00:19:43,920
+198
+00:19:44,040 --> 00:19:45,200
 Thanks.
 
-200
-00:19:43,920 --> 00:19:44,360
+199
+00:19:45,400 --> 00:19:46,380
 Fabulous!
 
-201
-00:19:44,360 --> 00:19:44,800
+200
+00:19:46,600 --> 00:19:47,900
 Thanks.
 
-202
-00:19:44,800 --> 00:19:45,200
+201
+00:19:49,320 --> 00:19:50,400
 Terrific!
 
-203
-00:19:45,200 --> 00:19:45,300
+202
+00:19:51,180 --> 00:19:52,240
 Thanks.
 
-204
-00:19:52,040 --> 00:19:54,360
+203
+00:19:52,680 --> 00:19:54,360
 They get better and better.
 
-205
+204
 00:19:55,040 --> 00:19:57,080
 Thanks a lot.
 
-206
+205
 00:19:58,920 --> 00:20:00,200
 This is sensational!
 
-207
+206
 00:20:00,440 --> 00:20:01,720
 Yeah. Thanks.
 
-208
+207
 00:20:03,680 --> 00:20:06,580
 What a job! Good work, Richard!
 
-209
+208
 00:20:07,400 --> 00:20:09,580
 I'm so glad you like them so much.
 
-210
+209
 00:20:09,920 --> 00:20:13,420
 Like them? They represent your best work.
 
-211
+210
 00:20:13,580 --> 00:20:14,520
 Really?
 
-212
+211
 00:20:14,520 --> 00:20:15,360
 Absolutely.
 
-213
+212
 00:20:20,220 --> 00:20:23,160
 Well... what do you think? Do I have my book?
 
-214
+213
 00:20:23,620 --> 00:20:30,420
 You do. You do. There's a book here.
 
-215
+214
 00:20:31,240 --> 00:20:32,400
 I'll have a contract
 
-216
+215
 00:20:32,400 --> 00:20:34,100
 and an advance payment waiting for you
 
-217
+216
 00:20:34,100 --> 00:20:34,860
 first thing in the morning.
 
-218
+217
 00:20:34,960 --> 00:20:35,600
 Thank you.
 
-219
+218
 00:20:36,900 --> 00:20:38,260
 And while you're here,
 
-220
+219
 00:20:38,260 --> 00:20:40,360
 I would like to introduce you to your editor.
 
-221
+220
 00:20:40,560 --> 00:20:42,380
 And I want you to meet the people in the art department.
 
-222
+221
 00:20:43,240 --> 00:20:45,440
 I'll set up an appointment with the marketing people.
 
-223
+222
 00:20:45,440 --> 00:20:47,120
 When do you think we'll be through?
 
-224
+223
 00:20:48,540 --> 00:20:49,920
 In about half an hour. Why?
 
-225
+224
 00:20:50,780 --> 00:20:52,240
 I can't wait to tell Marilyn!
 
-226
+225
 00:21:03,380 --> 00:21:04,840
 Wonderful.
 
-227
+226
 00:21:05,680 --> 00:21:06,440
 Thanks.
 
-228
+227
 00:21:06,880 --> 00:21:07,720
 Fabulous.
 
-229
+228
 00:21:08,380 --> 00:21:09,400
 Thanks.
 
-230
-00:21:09,400 --> 00:21:10,200
-Superb.
+229
+00:21:10,480 --> 00:21:11,800
+Terrific.
 
-231
+230
 00:21:12,400 --> 00:21:13,520
 Thanks.
 
-232
+231
 00:21:14,400 --> 00:21:16,480
 This is sensational.
 
-233
+232
 00:21:16,480 --> 00:21:17,840
 Yeah, thanks.
 
-234
+233
 00:21:19,920 --> 00:21:20,880
 What a job.
 
-235
+234
 00:21:21,420 --> 00:21:22,640
 Good work, Richard.
 
-236
+235
 00:21:23,160 --> 00:21:24,580
 Look at that.
 
-237
+236
 00:21:25,400 --> 00:21:26,360
 Great.
 
-238
+237
 00:21:26,900 --> 00:21:28,640
 Look at that.
 
-239
+238
 00:21:29,160 --> 00:21:30,300
 Sensational.
 
-240
+239
 00:21:31,340 --> 00:21:32,160
 Great.
 
-241
+240
 00:21:32,160 --> 00:21:33,480
 Sensational.
 
-242
+241
 00:21:34,340 --> 00:21:35,960
 What do you think of that?
 
-243
+242
 00:21:36,200 --> 00:21:37,300
 Amazing.
 
-244
+243
 00:21:38,320 --> 00:21:39,960
 What do you think of that?
 
-245
+244
 00:21:40,200 --> 00:21:41,200
 Terrific.
 
-246
+245
 00:21:41,800 --> 00:21:43,160
 Amazing.
 
-247
+246
 00:21:43,160 --> 00:21:44,160
 Terrific.
 
-248
+247
 00:21:44,360 --> 00:21:46,080
 Look over here.
 
-249
+248
 00:21:46,080 --> 00:21:47,160
 What do you think of them?
 
-250
+249
 00:21:47,160 --> 00:21:47,960
 They're wonderful.
 
-251
+250
 00:21:48,720 --> 00:21:50,120
 Oh, look at them.
 
-252
+251
 00:21:50,120 --> 00:21:51,020
 All right.
 
-253
+252
 00:21:51,280 --> 00:21:52,340
 They're fabulous.
 
-254
+253
 00:21:52,340 --> 00:21:54,200
 Wonderful.
 
-255
+254
 00:21:54,200 --> 00:21:55,160
 Fabulous.
 
-256
+255
 00:21:55,160 --> 00:21:57,240
 Check this out.
 
-257
+256
 00:21:57,240 --> 00:21:58,260
 What do you think of him?
 
-258
+257
 00:21:58,260 --> 00:21:59,060
 He's marvelous.
 
-259
+258
 00:21:59,500 --> 00:22:01,200
 Oh, listen to that.
 
-260
+259
 00:22:01,200 --> 00:22:01,880
 Wow.
 
-261
+260
 00:22:02,160 --> 00:22:02,740
 He's incredible.
 
-262
+261
 00:22:03,920 --> 00:22:05,040
 Marvelous.
 
-263
+262
 00:22:05,040 --> 00:22:06,160
 Incredible.
 
-264
+263
 00:22:06,640 --> 00:22:08,680
 Look at him.
 
-265
+264
 00:22:08,880 --> 00:22:09,980
 He's fantastic.
 
-266
+265
 00:22:10,960 --> 00:22:12,200
 Look at him.
 
-267
+266
 00:22:13,080 --> 00:22:14,060
 He's super.
 
-268
+267
 00:22:14,560 --> 00:22:16,000
 Fantastic.
 
-269
+268
 00:22:16,060 --> 00:22:16,980
 Super.
 
-270
+269
 00:22:17,160 --> 00:22:21,440
 Great. Sensational. Amazing. Terrific.
 
-271
+270
 00:22:21,440 --> 00:22:23,380
 Fantastic. Super. Wonderful. Fabulous.
 
-272
+271
 00:22:23,680 --> 00:22:25,420
 Marvelous. Incredible. Outstanding.
 
